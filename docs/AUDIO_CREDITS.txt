@@ -1,0 +1,70 @@
+FrontierHunts - audio credits and licences
+==========================================
+This is the only audio credits file. It lists the sounds this jar actually ships (full per-file table:
+docs/AUDIO_ASSET_INVENTORY.csv in the source). The audio-provenance/ folder holds preparation records from earlier builds.
+These licences apply only to the sound files named here. They are exceptions to the licence of the mod's code.
+Attribution does not imply endorsement by any author listed. All recordings were edited for the game: trimmed,
+channel-selected, filtered (high/low-pass, noise reduction or spectral gating), gain/loudness-matched, faded,
+re-sequenced or pitch-adjusted where noted, and encoded as Ogg Vorbis.
+
+ORIGINAL AUDIO MADE FOR FRONTIER HUNTS (same licence as the mod)
+  No recordings used: ambient/* (except coyote_*), ride/*, weather/*, wingshot/*, killcam/*, academy/*,
+  deersign/*, licence/*, campcook/*, optic/*, equipment/v2/casing_*, equipment/wind_puff.
+  Recorded by the mod's author (FormaWorks), his own mouth-call recording: equipment/deer_caller_single (the Deer
+  Caller item's sound).
+
+CC BY-SA 3.0 - https://creativecommons.org/licenses/by-sa/3.0/
+  "Handling Guns" by Gary (http://fossilrecords.net/), hosted by qubodup on OpenGameArt:
+  https://opengameart.org/content/handling-guns
+  -> rifle_unlock, rifle_pull, rifle_push, rifle_lock, rifle_dry, rifle_mag_out, rifle_mag_in, and
+     equipment/<weapon>_{open,load,close,dry} for all 10 equipment weapons.
+  Changes: channel selection, trims, DC removal, gain, fades, Vorbis. These adapted clips are also licensed CC BY-SA 3.0.
+
+CC BY 4.0 - https://creativecommons.org/licenses/by/4.0/
+  "Flare Gun" by OGsoundFX - https://freesound.org/people/OGsoundFX/sounds/423109/ -> equipment/flare_gun_shot
+  iNaturalist recordings:
+  - White-tailed deer fawn bleats (c) sofi v - https://www.inaturalist.org/observations/366565665
+      -> equipment/deer_contact_a/b, equipment/predator_call, predator_call_1/2/3 (sped up and overlapped)
+  - White-tailed deer snort-wheeze / blows (c) Daughter Dad - https://www.inaturalist.org/observations/298329974
+      -> wildlife/whitetail_blow_0/1, whitetail_snort_2, whitetail_alarm
+  - White-tailed deer snort (c) William J. Deml - https://www.inaturalist.org/observations/239635624
+      -> wildlife/whitetail_snort_0/1, whitetail_alarm
+  - White-tailed deer huff (c) Connor Sites-Bowen - https://www.inaturalist.org/observations/130559667
+      -> breath and spectral envelope of the synthesized equipment/grunt_tube, grunt_tube_1/2/3
+  - Mountain lion growl (c) Colin Croft - https://www.inaturalist.org/observations/269033720
+      -> wildlife/voice/cougar_growl_0/1
+  - Pronghorn sneeze/snort (c) Konshau Duman - https://www.inaturalist.org/observations/168934811
+      -> wildlife/voice/pronghorn_snort_0/1/2
+
+PUBLIC DOMAIN - U.S. National Park Service (sounds courtesy of the NPS, nps.gov park sound libraries)
+  Elk bugles, mews, alarm bark -> wildlife/elk_bugle_0-3, elk_mew_0-3, elk_bark_0/1
+  Elk sparring and elk thrashing a bush -> equipment/antler_rattle_0-3, rutfight/clash_0-3, grind_0-2
+  Cow moose rut call, bull moose grunts -> wildlife/moose_call_0/1, moose_grunt_0-2, moose_threat_0
+  Wolf howl (Denali NP&P), wolf chorus -> wildlife/wolf_howl_0-2, wolf_chorus_0/1
+  Coyote yips and howls (Mojave), coyote group howl, coyote howl/chase -> ambient/coyote_0-2, predator_call_1 (intro)
+  Grizzly huffs and growls -> wildlife/voice/bear_huff_0/1, bear_growl_0-2
+  Bison rut bellows -> wildlife/voice/bison_bellow_0-3
+  Young mountain lion -> wildlife/voice/cougar_growl_2
+  Mallard hen quacks -> hunts/duck_call_0-2, wildlife/voice/duck_quack_0-2
+  Ruffed grouse drumming -> wildlife/voice/grouse_drum_0/1
+
+CC0 1.0 (public domain dedication; credited anyway) - https://creativecommons.org/publicdomain/zero/1.0/
+  The Free Firearm Sound Library - Ben Jaszczak, Brian Nelson, Kevin Heras, Matthew Nanney
+  https://opengameart.org/content/the-free-firearm-sound-library
+    -> rifle_shot, rifle_shot_alt (Springfield 1917) and equipment/v2/* reports (Marlin 336, AR-15, Winchester
+       Model 12, Charles Daly, Benelli Nova, S&W 642, 1911, Tikka T3, Savage 10). No recording of a fictional
+       in-game weapon is claimed.
+  "Air Rifle" by fission9 - https://freesound.org/people/fission9/sounds/466310/ -> equipment/tranquilizer_rifle_shot
+  "airgun.mp3" by Atkom - https://freesound.org/people/Atkom/sounds/347674/ -> equipment/bait_launcher_shot
+  "Deer Call" by ferventtorpor - https://freesound.org/people/ferventtorpor/sounds/696775/
+      -> wildlife/whitetail_grunt_0/1/2 (a hunter's grunt-call recording)
+  iNaturalist: White-tailed deer doe vocalisations, Kristi Zoebelein - https://www.inaturalist.org/observations/192458889
+      -> equipment/bleat_call, bleat_call_1/2, wildlife/whitetail_bleat_a/b
+  iNaturalist: White-tailed deer aggressive buck call, Anne Parker - https://www.inaturalist.org/observations/140786784
+      -> wildlife/whitetail_wheeze_0; breath source of the grunt tube
+
+ADDITIONAL ORIGINAL AUDIO BY FORMAWORKS (same licence as the mod)
+  arrow_impact, bow_release; environment/brush_rustle_0-2, cascade, cascade_far, cascade_foot, falls_crash,
+  falls_roar, falls_roar_far, falls_trickle, falls_underwater; equipment/draw/draw_<weapon> (11 files).
+
+Bullet hits on water use Minecraft's own splash sounds (no files shipped).

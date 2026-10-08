@@ -1,0 +1,4 @@
+e232c41cb1d67dcacf274bb439f72088d95e29a35f12d1693786aa5f05467204  FrontierHunts-1.3.1-protected.zip
+fc52b4cde2d223e0c365440d6c851410ade9d4a2e4ce29b1eddfcd1365869c6d  FrontierHunts-1.3.1.jar
+65f2f1fed069560bad163d35c735abc92e02d3c9b43fb97781000d550f19c853  FrontierHunts-1.4.0-protected.zip
+f5c09a4099cd5480b16d369b36d7e269052e160b6aa70becd2e33d681c886a6d  FrontierHunts-1.4.0.jar
