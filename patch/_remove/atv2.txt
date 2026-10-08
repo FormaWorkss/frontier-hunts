@@ -1,0 +1,3 @@
+# [atv2] translucent wet film overlay removed (rendered as a black shell under Iris shader packs); wetness is a vertex tint now.
+# Never in the base jar (atvgrime shipped it from patch/); listed so check_jar knows its absence is intentional.
+assets/frontierhunts/textures/entity/atv_grime/wet.png

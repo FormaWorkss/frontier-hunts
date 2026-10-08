@@ -1,0 +1,338 @@
+{
+ "credit": "Frontier Hunts [outfitter] - original model",
+ "textures": {
+  "face": "frontierhunts:item/gear/tape_face",
+  "side": "frontierhunts:item/gear/tape_side",
+  "particle": "frontierhunts:item/gear/tape_face"
+ },
+ "elements": [
+  {
+   "from": [
+    5.4,
+    2.0,
+    6.429
+   ],
+   "to": [
+    10.6,
+    12.0,
+    10.571
+   ],
+   "faces": {
+    "north": {
+     "texture": "#face"
+    },
+    "south": {
+     "texture": "#face"
+    },
+    "east": {
+     "texture": "#side",
+     "uv": [
+      4.6864,
+      0.0,
+      11.313600000000001,
+      16.0
+     ]
+    },
+    "west": {
+     "texture": "#side",
+     "uv": [
+      4.6864,
+      0.0,
+      11.313600000000001,
+      16.0
+     ]
+    },
+    "up": {
+     "texture": "#face"
+    },
+    "down": {
+     "texture": "#face"
+    }
+   }
+  },
+  {
+   "from": [
+    5.4,
+    4.929,
+    3.5
+   ],
+   "to": [
+    10.6,
+    9.071,
+    13.5
+   ],
+   "faces": {
+    "north": {
+     "texture": "#face"
+    },
+    "south": {
+     "texture": "#face"
+    },
+    "east": {
+     "texture": "#side",
+     "uv": [
+      0.0,
+      4.6864,
+      16.0,
+      11.313600000000001
+     ]
+    },
+    "west": {
+     "texture": "#side",
+     "uv": [
+      0.0,
+      4.6864,
+      16.0,
+      11.313600000000001
+     ]
+    },
+    "up": {
+     "texture": "#face"
+    },
+    "down": {
+     "texture": "#face"
+    }
+   }
+  },
+  {
+   "from": [
+    5.4,
+    3.465,
+    4.965
+   ],
+   "to": [
+    10.6,
+    10.535,
+    12.035
+   ],
+   "faces": {
+    "north": {
+     "texture": "#face"
+    },
+    "south": {
+     "texture": "#face"
+    },
+    "east": {
+     "texture": "#side",
+     "uv": [
+      2.3432000000000004,
+      2.3432000000000004,
+      13.6568,
+      13.6568
+     ]
+    },
+    "west": {
+     "texture": "#side",
+     "uv": [
+      2.3432000000000004,
+      2.3432000000000004,
+      13.6568,
+      13.6568
+     ]
+    },
+    "up": {
+     "texture": "#face"
+    },
+    "down": {
+     "texture": "#face"
+    }
+   }
+  },
+  {
+   "from": [
+    5.5,
+    0.6,
+    3.36
+   ],
+   "to": [
+    10.5,
+    7.0,
+    3.5
+   ],
+   "faces": {
+    "north": {
+     "texture": "#face"
+    },
+    "south": {
+     "texture": "#face"
+    },
+    "east": {
+     "texture": "#face"
+    },
+    "west": {
+     "texture": "#face"
+    },
+    "up": {
+     "texture": "#face"
+    },
+    "down": {
+     "texture": "#face"
+    }
+   }
+  },
+  {
+   "from": [
+    5.5,
+    -3.4,
+    3.36
+   ],
+   "to": [
+    10.5,
+    0.8,
+    3.5
+   ],
+   "faces": {
+    "north": {
+     "texture": "#face"
+    },
+    "south": {
+     "texture": "#face"
+    },
+    "east": {
+     "texture": "#face"
+    },
+    "west": {
+     "texture": "#face"
+    },
+    "up": {
+     "texture": "#face"
+    },
+    "down": {
+     "texture": "#face"
+    }
+   },
+   "rotation": {
+    "angle": 22.5,
+    "axis": "x",
+    "origin": [
+     8.0,
+     0.7,
+     3.5
+    ]
+   }
+  }
+ ],
+ "display": {
+  "thirdperson_righthand": {
+   "rotation": [
+    0,
+    0,
+    0
+   ],
+   "translation": [
+    0,
+    3,
+    1
+   ],
+   "scale": [
+    0.55,
+    0.55,
+    0.55
+   ]
+  },
+  "thirdperson_lefthand": {
+   "rotation": [
+    0,
+    0,
+    0
+   ],
+   "translation": [
+    0,
+    3,
+    1
+   ],
+   "scale": [
+    0.55,
+    0.55,
+    0.55
+   ]
+  },
+  "firstperson_righthand": {
+   "rotation": [
+    0,
+    30,
+    0
+   ],
+   "translation": [
+    0,
+    2,
+    0
+   ],
+   "scale": [
+    0.49500000000000005,
+    0.49500000000000005,
+    0.49500000000000005
+   ]
+  },
+  "firstperson_lefthand": {
+   "rotation": [
+    0,
+    -30,
+    0
+   ],
+   "translation": [
+    0,
+    2,
+    0
+   ],
+   "scale": [
+    0.49500000000000005,
+    0.49500000000000005,
+    0.49500000000000005
+   ]
+  },
+  "ground": {
+   "translation": [
+    0,
+    3,
+    0
+   ],
+   "scale": [
+    0.45,
+    0.45,
+    0.45
+   ]
+  },
+  "fixed": {
+   "rotation": [
+    0,
+    180,
+    0
+   ],
+   "scale": [
+    0.8,
+    0.8,
+    0.8
+   ]
+  },
+  "head": {
+   "rotation": [
+    0,
+    180,
+    0
+   ],
+   "translation": [
+    0,
+    13,
+    7
+   ],
+   "scale": [
+    1,
+    1,
+    1
+   ]
+  },
+  "gui": {
+   "rotation": [
+    25,
+    -35,
+    0
+   ],
+   "scale": [
+    0.8,
+    0.8,
+    0.8
+   ]
+  }
+ }
+}

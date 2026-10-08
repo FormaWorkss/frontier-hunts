@@ -1,0 +1,22 @@
+{
+  "type": "frontierhunts:bench_shaped",
+  "category": "building",
+  "group": "frontierhunts:reserve_building",
+  "pattern": [
+    "SSS",
+    "HHH",
+    "SSS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:string"
+    },
+    "H": {
+      "item": "frontierhunts:deer_hide"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:canvas_wall",
+    "count": 8
+  }
+}

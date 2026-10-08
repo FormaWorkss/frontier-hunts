@@ -1,0 +1,28 @@
+{
+  "type": "frontierhunts:bench_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "frontierhunts:fixed_broadhead"
+    },
+    {
+      "item": "frontierhunts:fixed_broadhead"
+    },
+    {
+      "item": "frontierhunts:fixed_broadhead"
+    },
+    {
+      "item": "frontierhunts:fixed_broadhead"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "item": "minecraft:redstone"
+    }
+  ],
+  "result": {
+    "id": "frontierhunts:tracer_broadhead",
+    "count": 4
+  }
+}

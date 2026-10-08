@@ -1,0 +1,8 @@
+{
+ "replace": false,
+ "values": [
+  "frontierhunts:aspen_log",
+  "frontierhunts:birch_log",
+  "frontierhunts:alpine_cottonwood_log"
+ ]
+}

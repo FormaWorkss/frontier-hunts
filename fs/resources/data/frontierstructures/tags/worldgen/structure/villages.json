@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "frontierstructures:village_outpost",
+    "frontierstructures:village_lakeside",
+    "frontierstructures:village_crowsnest",
+    "frontierstructures:village_junction"
+  ]
+}

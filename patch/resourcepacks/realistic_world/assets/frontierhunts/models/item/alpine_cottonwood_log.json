@@ -1,0 +1,7 @@
+{
+ "parent": "minecraft:block/cube_column",
+ "textures": {
+  "side": "frontierhunts:block/alpine_cottonwood_log",
+  "end": "frontierhunts:block/alpine_cottonwood_log_top"
+ }
+}

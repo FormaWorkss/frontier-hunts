@@ -1,0 +1,14 @@
+# [gear20] natural spawns only for whitetail, elk, moose, grouse and mallard (finished animals). The rest stay in the
+# game as beta spawn eggs (creative 'Frontier Hunts: Wildlife' tab, /summon) and do not spawn in the wild.
+data/frontierhunts/neoforge/biome_modifier/wildlife2026/bison.json
+data/frontierhunts/neoforge/biome_modifier/wildlife2026/black_bear.json
+data/frontierhunts/neoforge/biome_modifier/wildlife2026/boar.json
+data/frontierhunts/neoforge/biome_modifier/wildlife2026/cheetah.json
+data/frontierhunts/neoforge/biome_modifier/wildlife2026/cougar.json
+data/frontierhunts/neoforge/biome_modifier/wildlife2026/coyote.json
+data/frontierhunts/neoforge/biome_modifier/wildlife2026/grizzly.json
+data/frontierhunts/neoforge/biome_modifier/wildlife2026/lion.json
+data/frontierhunts/neoforge/biome_modifier/wildlife2026/panther.json
+data/frontierhunts/neoforge/biome_modifier/wildlife2026/polar_bear.json
+data/frontierhunts/neoforge/biome_modifier/wildlife2026/pronghorn.json
+data/frontierhunts/neoforge/biome_modifier/wildlife2026/wolf.json

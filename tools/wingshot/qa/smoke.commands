@@ -1,0 +1,47 @@
+# [wingshot] short dedicated-server smoke: registry checks + bird flight / shot birds / drumming from the console.
+# The console stands at world spawn; a force-loaded area keeps entities ticking with nobody online.
+fhqa registry
+fhqa loot
+help frontierhunts
+gamerule doDaylightCycle false
+time set 23500
+forceload add ~-64 ~-64 ~64 ~64
+execute positioned over motion_blocking run summon frontierhunts:duck ~2 ~ ~2
+execute positioned over motion_blocking run summon frontierhunts:duck ~3 ~ ~2
+execute positioned over motion_blocking run summon frontierhunts:duck ~2 ~ ~3
+execute positioned over motion_blocking run summon frontierhunts:grouse ~-3 ~ ~-3
+execute positioned over motion_blocking run summon frontierhunts:grouse ~-4 ~ ~-2
+#sleep 2
+frontierhunts birds status
+execute positioned over motion_blocking run frontierhunts birds flush
+#sleep 2
+execute positioned over motion_blocking run frontierhunts birds flush
+#sleep 2
+frontierhunts birds status
+#sleep 3
+frontierhunts birds status
+execute positioned over motion_blocking run frontierhunts birds pass 4
+#sleep 3
+frontierhunts birds status
+#sleep 3
+frontierhunts birds status
+damage @e[type=frontierhunts:duck,limit=2,sort=random] 30 minecraft:arrow
+#sleep 5
+frontierhunts birds status
+execute positioned over motion_blocking run frontierhunts birds decoy
+#sleep 8
+frontierhunts birds status
+execute positioned over motion_blocking run frontierhunts birds drum
+#sleep 10
+frontierhunts birds status
+frontierhunts birds land
+#sleep 10
+frontierhunts birds status
+execute positioned over motion_blocking run frontierhunts birds pass 6
+#sleep 3
+kill @e[type=frontierhunts:duck]
+#sleep 6
+frontierhunts birds status
+execute as @e[type=item,distance=..200] run say loot
+kill @e[type=frontierhunts:grouse]
+#sleep 6

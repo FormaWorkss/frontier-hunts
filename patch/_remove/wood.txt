@@ -1,0 +1,4 @@
+# [wood] 1 spruce / dark oak log -> 1 pine / cedar log: competed with the vanilla planks recipe for the same
+# single log in the grid; trees now drop their own pine / cedar logs, so the conversion is not needed
+data/frontierhunts/recipe/reserve_pine_log.json
+data/frontierhunts/recipe/reserve_cedar_log.json

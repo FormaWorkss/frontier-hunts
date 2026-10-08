@@ -1,0 +1,32 @@
+newmtl grip
+Kd 1 1 1
+Ka 0 0 0
+map_Kd frontierhunts:item/tracking_lamp/grip
+newmtl anodized
+Kd 1 1 1
+Ka 0 0 0
+map_Kd frontierhunts:item/tracking_lamp/anodized
+newmtl armour
+Kd 1 1 1
+Ka 0 0 0
+map_Kd frontierhunts:item/tracking_lamp/armour
+newmtl bezel
+Kd 1 1 1
+Ka 0 0 0
+map_Kd frontierhunts:item/tracking_lamp/bezel
+newmtl rubber
+Kd 1 1 1
+Ka 0 0 0
+map_Kd frontierhunts:item/tracking_lamp/rubber
+newmtl lock
+Kd 1 1 1
+Ka 0 0 0
+map_Kd frontierhunts:item/tracking_lamp/rubber
+newmtl cord
+Kd 1 1 1
+Ka 0 0 0
+map_Kd frontierhunts:item/tracking_lamp/cord
+newmtl lens
+Kd 1 1 1
+Ka 1 1 1
+map_Kd frontierhunts:item/tracking_lamp/lens

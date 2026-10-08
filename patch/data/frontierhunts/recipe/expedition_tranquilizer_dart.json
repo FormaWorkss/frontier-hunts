@@ -1,0 +1,19 @@
+{
+  "type": "frontierhunts:bench_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "minecraft:glass_bottle"
+    },
+    {
+      "item": "minecraft:slime_ball"
+    },
+    {
+      "item": "minecraft:iron_nugget"
+    }
+  ],
+  "result": {
+    "id": "frontierhunts:tranquilizer_dart",
+    "count": 8
+  }
+}

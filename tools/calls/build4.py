@@ -1,0 +1,28 @@
+import sys,json; sys.path.insert(0,'/tmp/claude-0/-home-claude/8b2a2acf-2d0c-53c3-b65d-0cc2b4a50330/scratchpad')
+exec(open('/tmp/claude-0/-home-claude/8b2a2acf-2d0c-53c3-b65d-0cc2b4a50330/scratchpad/build_sounds.py').read().split('# ======================================================================== antler rattling')[0])
+LOG=[]
+GZ='fh_grizzly'; GZN=(10.5,11.8)
+emit('wildlife/voice/bear_huff_0',clean(GZ,0.95,3.35,noise=GZN,hpf=60,red=16),-14.0,'NPS grizzly 0.95-3.35s','huffing/blowing, HP60, gate',fo=0.2)
+emit('wildlife/voice/bear_huff_1',clean(GZ,3.9,6.3,noise=GZN,hpf=60,red=16),-14.5,'NPS grizzly 3.9-6.3s','huffs and jaw pops, HP60, gate',fo=0.2)
+emit('wildlife/voice/bear_growl_0',clean(GZ,16.35,19.9,noise=GZN,hpf=60,red=16),-12.5,'NPS grizzly 16.35-19.9s','growl, HP60, gate',fo=0.3)
+emit('wildlife/voice/bear_growl_1',clean(GZ,66.2,69.6,noise=GZN,hpf=60,red=16),-12.5,'NPS grizzly 66.2-69.6s','growl, HP60, gate',fo=0.3)
+emit('wildlife/voice/bear_growl_2',clean(GZ,88.65,91.4,noise=GZN,hpf=60,red=16),-12.5,'NPS grizzly 88.65-91.4s','roaring growl, HP60, gate',fo=0.3)
+BI='fh_bison_rut'; BIN=(13.0,17.0)
+for i,(a,b) in enumerate([(2.3,3.8),(7.3,8.6),(21.4,22.7),(28.3,29.8)]):
+    emit(f'wildlife/voice/bison_bellow_{i}',clean(BI,a,b,noise=BIN,hpf=45,red=16),-13.0,f'NPS bison_rut {a}-{b}s','rut bellow, HP45, gate',fo=0.2)
+CG='fh_cougar_growl_inat'; CGN=(14.0,20.0)
+emit('wildlife/voice/cougar_growl_0',clean(CG,2.05,2.62,noise=CGN,hpf=90,red=20),-14.0,'iNat CC BY cougar_growl (Colin Croft) 2.05s','growl/hiss, HP90, gate',fo=0.1)
+emit('wildlife/voice/cougar_growl_1',clean(CG,8.45,8.85,noise=CGN,hpf=90,red=20),-14.0,'iNat CC BY cougar_growl (Colin Croft) 8.45s','spit/hiss, HP90, gate',fo=0.1)
+cj=clean('fh_cougar_juv',1.98,2.55,noise=(5.5,5.9),hpf=200,red=18)
+emit('wildlife/voice/cougar_growl_2',resamp(cj,0.85),-15.0,'NPS cougar_juv 2.0s','young mountain lion cry pitched x0.85, HP200, gate',fo=0.1)
+PH='fh_pronghorn_sneeze'; PHN=(5.0,9.0)
+for i,a in enumerate([1.45,14.35,24.85]):
+    emit(f'wildlife/voice/pronghorn_snort_{i}',clean(PH,a-0.05,a+0.45,noise=PHN,hpf=150,red=20),-14.5,f'iNat CC BY pronghorn_sneeze (Konshau Duman) {a}s','alarm snort/sneeze, HP150, gate',fo=0.12)
+ML='fh_mallard'; MLN=(20.0,21.0)
+emit('wildlife/voice/duck_quack_0',clean(ML,29.50,30.10,noise=MLN,hpf=300,red=16),-15.0,'NPS mallard 29.5-30.1s','hen quacks, HP300, gate',fo=0.08)
+emit('wildlife/voice/duck_quack_1',clean(ML,28.05,28.50,noise=MLN,hpf=300,red=16),-15.0,'NPS mallard 28.05-28.5s','hen quack, HP300, gate',fo=0.08)
+emit('wildlife/voice/duck_quack_2',clean(ML,25.40,26.05,noise=MLN,hpf=300,red=16),-15.5,'NPS mallard 25.4-26.05s','hen quacks, HP300, gate',fo=0.08)
+RG='fh_ruffed_grouse'
+emit('wildlife/voice/grouse_drum_0',clean(RG,0.6,11.6,noise=(12.0,12.9),hpf=40,lpf=900,red=14),-17.0,'NPS ruffed_grouse 0.6-11.6s','full drumming roll (accelerating wing beats), HP40/LP900, gate',fi=0.2,fo=0.8)
+emit('wildlife/voice/grouse_drum_1',clean(RG,5.5,11.6,noise=(12.0,12.9),hpf=40,lpf=900,red=14),-17.0,'NPS ruffed_grouse 5.5-11.6s','drumming roll ending, HP40/LP900, gate',fi=0.2,fo=0.8)
+json.dump(LOG,open('/tmp/claude-0/-home-claude/8b2a2acf-2d0c-53c3-b65d-0cc2b4a50330/scratchpad/log4.json','w'),indent=0)

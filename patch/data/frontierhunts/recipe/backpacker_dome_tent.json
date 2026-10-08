@@ -1,0 +1,27 @@
+{
+ "type": "frontierhunts:bench_shaped",
+ "category": "misc",
+ "pattern": [
+  "GCG",
+  "ISI",
+  " S "
+ ],
+ "key": {
+  "G": {
+   "item": "minecraft:green_wool"
+  },
+  "C": {
+   "item": "frontierhunts:canvas_wall"
+  },
+  "I": {
+   "item": "minecraft:iron_nugget"
+  },
+  "S": {
+   "item": "minecraft:string"
+  }
+ },
+ "result": {
+  "id": "frontierhunts:backpacker_dome_tent",
+  "count": 1
+ }
+}

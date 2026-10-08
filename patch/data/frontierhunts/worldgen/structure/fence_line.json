@@ -1,0 +1,20 @@
+{
+  "type": "frontierhunts:living_site",
+  "kind": "fence_line",
+  "biomes": "#frontierhunts:has_structure/living_open",
+  "step": "top_layer_modification",
+  "spawn_overrides": {},
+  "terrain_adaptation": "none",
+  "avoid": [
+    "frontierstructures:villages",
+    "frontierhunts:expedition_buildings",
+    "frontierhunts:frontier_hamlets",
+    "frontierstructures:buildings",
+    "frontierstructures:hamlets",
+    "minecraft:villages",
+    "frontierhunts:living_camps",
+    "frontierhunts:living_posts",
+    "frontierhunts:living_spots"
+  ],
+  "avoid_chunks": 2
+}

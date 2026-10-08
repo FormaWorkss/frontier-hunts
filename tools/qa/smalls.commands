@@ -1,0 +1,9 @@
+# [smalls] Console script for tools/qa/server_smoke.sh: arrows made with a head, Fit arrowheads, the Food tab.
+# Every verdict line reads "[FHQA] smalls PASS ..." or "[FHQA] smalls FAIL ...". Run the bench suite too: the Arrows tab changed.
+fhqa smalls arrows
+fhqa smalls make
+fhqa smalls refit
+fhqa smalls food
+fhqa bench recipes
+fhqa bench craft
+fhqa bench refit

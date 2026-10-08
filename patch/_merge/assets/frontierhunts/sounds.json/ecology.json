@@ -1,0 +1,32 @@
+{
+ "wolf_howl": {
+  "subtitle": "subtitles.frontierhunts.wolf_howl",
+  "sounds": [
+   {
+    "name": "frontierhunts:wildlife/wolf_howl_0",
+    "attenuation_distance": 72
+   },
+   {
+    "name": "frontierhunts:wildlife/wolf_howl_1",
+    "attenuation_distance": 72
+   },
+   {
+    "name": "frontierhunts:wildlife/wolf_howl_2",
+    "attenuation_distance": 72
+   }
+  ]
+ },
+ "wolf_chorus": {
+  "subtitle": "subtitles.frontierhunts.wolf_chorus",
+  "sounds": [
+   {
+    "name": "frontierhunts:wildlife/wolf_chorus_0",
+    "attenuation_distance": 72
+   },
+   {
+    "name": "frontierhunts:wildlife/wolf_chorus_1",
+    "attenuation_distance": 72
+   }
+  ]
+ }
+}

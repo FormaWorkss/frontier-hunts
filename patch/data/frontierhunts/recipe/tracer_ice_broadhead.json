@@ -1,0 +1,28 @@
+{
+  "type": "frontierhunts:bench_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "frontierhunts:cut_on_contact_broadhead"
+    },
+    {
+      "item": "frontierhunts:cut_on_contact_broadhead"
+    },
+    {
+      "item": "frontierhunts:cut_on_contact_broadhead"
+    },
+    {
+      "item": "frontierhunts:cut_on_contact_broadhead"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "item": "minecraft:light_blue_dye"
+    }
+  ],
+  "result": {
+    "id": "frontierhunts:tracer_ice_broadhead",
+    "count": 4
+  }
+}

@@ -1,0 +1,25 @@
+{
+  "type": "frontierhunts:bench_shaped",
+  "category": "building",
+  "group": "frontierhunts:reserve_building",
+  "pattern": [
+    " I ",
+    "GTG",
+    " I "
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_nugget"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    },
+    "T": {
+      "item": "minecraft:torch"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:cabin_lantern",
+    "count": 1
+  }
+}

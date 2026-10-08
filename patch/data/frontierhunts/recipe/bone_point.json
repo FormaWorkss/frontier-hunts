@@ -1,0 +1,16 @@
+{
+  "type": "frontierhunts:bench_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "minecraft:bone"
+    },
+    {
+      "item": "minecraft:flint"
+    }
+  ],
+  "result": {
+    "id": "frontierhunts:bone_point",
+    "count": 3
+  }
+}

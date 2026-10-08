@@ -1,0 +1,15 @@
+{
+ "loader": "neoforge:separate_transforms",
+ "gui_light": "front",
+ "base": {
+  "parent": "frontierhunts:item/coffee_thermos_3d"
+ },
+ "perspectives": {
+  "gui": {
+   "parent": "minecraft:item/generated",
+   "textures": {
+    "layer0": "frontierhunts:item/coffee_thermos"
+   }
+  }
+ }
+}

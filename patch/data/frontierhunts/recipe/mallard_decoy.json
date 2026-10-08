@@ -1,0 +1,13 @@
+{
+  "type": "frontierhunts:bench_shaped",
+  "category": "equipment",
+  "pattern": [
+    " G ",
+    "PPP"
+  ],
+  "key": {
+    "G": {"item": "minecraft:green_dye"},
+    "P": {"tag": "minecraft:planks"}
+  },
+  "result": {"id": "frontierhunts:mallard_decoy", "count": 2}
+}

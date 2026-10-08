@@ -1,0 +1,19 @@
+{
+  "type": "frontierhunts:bench_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "minecraft:stick"
+    },
+    {
+      "item": "minecraft:leather"
+    },
+    {
+      "item": "minecraft:iron_nugget"
+    }
+  ],
+  "result": {
+    "id": "frontierhunts:bleat_call",
+    "count": 1
+  }
+}

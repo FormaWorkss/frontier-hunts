@@ -1,0 +1,15 @@
+{
+  "type": "frontierhunts:bench_shapeless",
+  "ingredients": [
+    {
+      "item": "frontierhunts:tent_ridge"
+    },
+    {
+      "item": "frontierhunts:canvas_wall"
+    }
+  ],
+  "result": {
+    "id": "frontierhunts:tent_end_ridge",
+    "count": 1
+  }
+}

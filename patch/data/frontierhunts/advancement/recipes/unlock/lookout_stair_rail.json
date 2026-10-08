@@ -1,0 +1,34 @@
+{
+ "parent": "minecraft:recipes/root",
+ "criteria": {
+  "has_the_recipe": {
+   "trigger": "minecraft:recipe_unlocked",
+   "conditions": {
+    "recipe": "frontierhunts:lookout_stair_rail"
+   }
+  },
+  "has_material_0": {
+   "trigger": "minecraft:inventory_changed",
+   "conditions": {
+    "items": [
+     {
+      "items": [
+       "minecraft:dark_oak_slab"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "requirements": [
+  [
+   "has_material_0",
+   "has_the_recipe"
+  ]
+ ],
+ "rewards": {
+  "recipes": [
+   "frontierhunts:lookout_stair_rail"
+  ]
+ }
+}

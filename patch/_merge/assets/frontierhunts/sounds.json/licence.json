@@ -1,0 +1,52 @@
+{
+  "ui.licence_stamp": {
+    "subtitle": "subtitles.frontierhunts.licence_stamp",
+    "sounds": [
+      "frontierhunts:licence/stamp_0",
+      "frontierhunts:licence/stamp_1"
+    ]
+  },
+  "ui.tag_punch": {
+    "subtitle": "subtitles.frontierhunts.tag_punch",
+    "sounds": [
+      "frontierhunts:licence/punch_0",
+      "frontierhunts:licence/punch_1"
+    ]
+  },
+  "ui.warden_notice": {
+    "subtitle": "subtitles.frontierhunts.warden_notice",
+    "sounds": [
+      "frontierhunts:licence/warden"
+    ]
+  },
+  "amb_pot_simmer": {
+    "subtitle": "subtitles.frontierhunts.pot_simmer",
+    "sounds": [
+      {
+        "name": "frontierhunts:campcook/simmer_0",
+        "attenuation_distance": 10
+      },
+      {
+        "name": "frontierhunts:campcook/simmer_1",
+        "attenuation_distance": 10
+      },
+      {
+        "name": "frontierhunts:campcook/simmer_2",
+        "attenuation_distance": 10
+      }
+    ]
+  },
+  "amb_pot_lid": {
+    "subtitle": "subtitles.frontierhunts.pot_lid",
+    "sounds": [
+      {
+        "name": "frontierhunts:campcook/lid_0",
+        "attenuation_distance": 12
+      },
+      {
+        "name": "frontierhunts:campcook/lid_1",
+        "attenuation_distance": 12
+      }
+    ]
+  }
+}

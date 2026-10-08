@@ -1,0 +1,23 @@
+{
+  "type": "frontierhunts:bench_shaped",
+  "category": "equipment",
+  "pattern": [
+    "CIC",
+    "CRC"
+  ],
+  "key": {
+    "C": {
+      "item": "minecraft:copper_ingot"
+    },
+    "I": {
+      "item": "minecraft:iron_nugget"
+    },
+    "R": {
+      "item": "minecraft:redstone"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:field_battery_pack",
+    "count": 2
+  }
+}

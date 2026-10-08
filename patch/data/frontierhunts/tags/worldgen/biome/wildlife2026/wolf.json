@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_taiga",
+    "minecraft:grove",
+    "minecraft:snowy_taiga",
+    {
+      "id": "frontierhunts:pine_highlands",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:snowy_pine_forest",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:larch_highlands",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:aspen_woodland",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:riverwood",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:rowan_slope",
+      "required": false
+    }
+  ]
+}

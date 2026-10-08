@@ -1,0 +1,13 @@
+{
+  "type": "frontierhunts:bench_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "minecraft:obsidian"
+    }
+  ],
+  "result": {
+    "id": "frontierhunts:obsidian_point",
+    "count": 6
+  }
+}

@@ -1,0 +1,68 @@
+{
+  "variants": {
+    "facing=north,joined_above=false,joined_below=false": {
+      "model": "frontierstructures:block/spruce_picture_window_00",
+      "y": 0
+    },
+    "facing=east,joined_above=false,joined_below=false": {
+      "model": "frontierstructures:block/spruce_picture_window_00",
+      "y": 90
+    },
+    "facing=south,joined_above=false,joined_below=false": {
+      "model": "frontierstructures:block/spruce_picture_window_00",
+      "y": 180
+    },
+    "facing=west,joined_above=false,joined_below=false": {
+      "model": "frontierstructures:block/spruce_picture_window_00",
+      "y": 270
+    },
+    "facing=north,joined_above=false,joined_below=true": {
+      "model": "frontierstructures:block/spruce_picture_window_01",
+      "y": 0
+    },
+    "facing=east,joined_above=false,joined_below=true": {
+      "model": "frontierstructures:block/spruce_picture_window_01",
+      "y": 90
+    },
+    "facing=south,joined_above=false,joined_below=true": {
+      "model": "frontierstructures:block/spruce_picture_window_01",
+      "y": 180
+    },
+    "facing=west,joined_above=false,joined_below=true": {
+      "model": "frontierstructures:block/spruce_picture_window_01",
+      "y": 270
+    },
+    "facing=north,joined_above=true,joined_below=false": {
+      "model": "frontierstructures:block/spruce_picture_window_10",
+      "y": 0
+    },
+    "facing=east,joined_above=true,joined_below=false": {
+      "model": "frontierstructures:block/spruce_picture_window_10",
+      "y": 90
+    },
+    "facing=south,joined_above=true,joined_below=false": {
+      "model": "frontierstructures:block/spruce_picture_window_10",
+      "y": 180
+    },
+    "facing=west,joined_above=true,joined_below=false": {
+      "model": "frontierstructures:block/spruce_picture_window_10",
+      "y": 270
+    },
+    "facing=north,joined_above=true,joined_below=true": {
+      "model": "frontierstructures:block/spruce_picture_window_11",
+      "y": 0
+    },
+    "facing=east,joined_above=true,joined_below=true": {
+      "model": "frontierstructures:block/spruce_picture_window_11",
+      "y": 90
+    },
+    "facing=south,joined_above=true,joined_below=true": {
+      "model": "frontierstructures:block/spruce_picture_window_11",
+      "y": 180
+    },
+    "facing=west,joined_above=true,joined_below=true": {
+      "model": "frontierstructures:block/spruce_picture_window_11",
+      "y": 270
+    }
+  }
+}

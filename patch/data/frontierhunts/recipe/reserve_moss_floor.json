@@ -1,0 +1,16 @@
+{
+  "type": "frontierhunts:bench_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:dirt"
+    },
+    {
+      "item": "minecraft:moss_block"
+    }
+  ],
+  "result": {
+    "id": "frontierhunts:moss_floor",
+    "count": 2
+  }
+}

@@ -1,0 +1,142 @@
+# Console script for tools/qa/server_smoke.sh. One command per line (no leading slash).
+# "#sleep N" pauses, "#wait REGEX" waits for a log line. Player-only commands are expected to answer
+# "A player is required..." from the console - that is fine; exceptions are not.
+fhqa registry
+fhqa packs
+fhqa items
+fhqa recipes
+fhqa loot
+help frontierhunts
+help survival
+help season
+help camp
+help guide
+help records
+help huntevent
+help frontierstructures
+help frontierweather
+help frontier
+# --- mod commands from the console
+season
+season set rut
+season month 11
+survival
+survival season
+frontierhunts rut
+frontierhunts pressure
+frontierhunts routine
+frontierhunts ecology
+frontierhunts academy
+frontierhunts journal
+frontierhunts tutorial
+frontierhunts sign
+shelter
+camp info
+guide status
+records
+records top
+records recent
+huntevent
+huntevent status
+huntevent config
+frontierweather
+frontierweather list
+frontierweather blizzard
+#sleep 5
+frontierweather thunderstorm
+#sleep 5
+frontierweather clear
+frontier status
+expedition
+frontierstructures latest
+atvgrime
+# --- blocks and every entity type, overworld
+fhqa blocks minecraft:overworld
+fhqa spawn 2 minecraft:overworld
+#sleep 30
+fhqa count minecraft:overworld
+time set 13000
+#sleep 30
+fhqa count minecraft:overworld
+time set 1000
+# --- the training grounds dimension (academy)
+execute in frontierhunts:training_grounds positioned 0 80 0 run fhqa spawn 1 frontierhunts:training_grounds
+#sleep 20
+execute in frontierhunts:training_grounds positioned 0 80 0 run fhqa count frontierhunts:training_grounds
+execute in frontierstructures:workshop positioned 0 80 0 run fhqa count frontierstructures:workshop
+execute in minecraft:the_nether positioned 0 80 0 run fhqa spawn 1 minecraft:the_nether
+#sleep 10
+# --- player-only commands, run as a NeoForge FakePlayer standing at world spawn (messages echo as "player>")
+fhqa tickplayer 40
+fhqa player shelter
+fhqa player survival
+fhqa player survival set hydration 20
+fhqa player survival heat 5
+fhqa player camp found QA Camp
+fhqa player camp info
+fhqa player camp upgrade
+fhqa player camp respawn true
+fhqa player guide status
+fhqa player records recent
+fhqa player frontierhunts journal
+fhqa player frontierhunts journal xp
+fhqa player frontierhunts journal summary
+fhqa player frontierhunts tutorial
+fhqa player frontierhunts ecology status
+fhqa player frontierhunts routine show
+fhqa player frontierhunts sign rub
+fhqa player frontierhunts sign scrape
+fhqa player frontier status
+fhqa player frontier journal
+fhqa player expedition
+fhqa player atvgrime mud
+fhqa player frontierfly
+fhqa player give @s frontierhunts:tree_stand
+fhqa tickplayer 200
+fhqa player frontierhunts academy
+fhqa player frontierhunts academy begin glassing
+# a FakePlayer is not in the player list, so the departure fade never ends in a session; start the sessions directly
+fhqa academy glassing
+#sleep 10
+fhqa tickplayer 200
+fhqa player frontierhunts academy
+fhqa player frontierhunts academy complete
+fhqa tickplayer 100
+#sleep 5
+fhqa player frontierhunts academy leave
+#sleep 10
+fhqa tickplayer 20
+fhqa academy stalk
+#sleep 10
+fhqa tickplayer 200
+fhqa player frontierhunts academy leave
+#sleep 10
+fhqa academy range
+#sleep 5
+fhqa tickplayer 100
+fhqa player frontierhunts academy leave
+fhqa academy tracking
+#sleep 5
+fhqa tickplayer 100
+fhqa player frontierhunts academy leave
+fhqa academy dressing
+#sleep 5
+fhqa tickplayer 100
+fhqa player frontierhunts academy leave
+#sleep 5
+fhqa player frontierhunts academy reset @s
+fhqa player camp leave
+fhqa player camp disband
+fhqa tickplayer 100
+# --- datapack reload and listing
+datapack list
+reload
+#sleep 15
+fhqa recipes
+fhqa loot
+datapack list
+neoforge tps
+kill @e[type=!minecraft:player]
+#sleep 5
+save-all flush
+#sleep 5

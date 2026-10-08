@@ -1,0 +1,27 @@
+{
+  "type": "frontierhunts:bench_shaped",
+  "category": "misc",
+  "pattern": [
+    "NIN",
+    "CCC",
+    "IBI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "N": {
+      "item": "minecraft:iron_nugget"
+    },
+    "C": {
+      "item": "minecraft:chain"
+    },
+    "B": {
+      "item": "minecraft:iron_bars"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:steel_spinner",
+    "count": 1
+  }
+}

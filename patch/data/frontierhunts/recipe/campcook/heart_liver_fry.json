@@ -1,0 +1,30 @@
+{
+  "type": "frontierhunts:camp_cooking",
+  "group": "camp_cooking",
+  "ingredients": [
+    {
+      "item": "frontierhunts:organ_meat"
+    },
+    [
+      {
+        "item": "frontierhunts:game_fat"
+      },
+      {
+        "item": "frontierhunts:tallow"
+      }
+    ],
+    [
+      {
+        "item": "minecraft:brown_mushroom"
+      },
+      {
+        "item": "minecraft:red_mushroom"
+      }
+    ]
+  ],
+  "result": {
+    "id": "frontierhunts:heart_liver_fry",
+    "count": 2
+  },
+  "cookingtime": 400
+}

@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#frontierhunts:wildlife2026/duck",
+  "spawners": {
+    "type": "frontierhunts:duck",
+    "weight": 5,
+    "minCount": 2,
+    "maxCount": 4
+  }
+}

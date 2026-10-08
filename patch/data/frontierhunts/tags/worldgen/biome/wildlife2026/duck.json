@@ -1,0 +1,36 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:river",
+    "minecraft:swamp",
+    "minecraft:mangrove_swamp",
+    {
+      "id": "frontierhunts:alpine_river",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:alder_carr",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:fern_wetland",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:marsh_meadow",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:muskeg_bog",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:woodland_lakeshore",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:riverwood",
+      "required": false
+    }
+  ]
+}

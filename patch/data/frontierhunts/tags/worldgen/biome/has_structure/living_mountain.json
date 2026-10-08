@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:meadow",
+    "minecraft:grove",
+    "minecraft:snowy_slopes",
+    "minecraft:windswept_hills",
+    "minecraft:windswept_gravelly_hills",
+    "minecraft:windswept_forest",
+    "minecraft:taiga",
+    "minecraft:snowy_taiga",
+    "minecraft:old_growth_spruce_taiga",
+    "minecraft:old_growth_pine_taiga",
+    "frontierhunts:pine_highlands",
+    "frontierhunts:alpine_meadow",
+    "frontierhunts:larch_highlands",
+    "frontierhunts:rocky_foothills",
+    "frontierhunts:alpine_fellfield",
+    "frontierhunts:heather_moor",
+    "frontierhunts:snowy_pine_forest",
+    "frontierhunts:boulder_talus",
+    "frontierhunts:rowan_slope",
+    "frontierhunts:sagebrush_bench",
+    "frontierhunts:limestone_bluff"
+  ]
+}

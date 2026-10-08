@@ -1,0 +1,7 @@
+{
+ "parent": "minecraft:block/cube_column",
+ "textures": {
+  "side": "frontierhunts:block/cedar_log",
+  "end": "frontierhunts:block/cedar_log_top"
+ }
+}

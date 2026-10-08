@@ -1,0 +1,25 @@
+{
+  "type": "frontierhunts:clothing_table",
+  "group": "frontier_furs",
+  "category": "equipment",
+  "pattern": [
+    "B B",
+    "BHB",
+    "HSH"
+  ],
+  "key": {
+    "B": {
+      "item": "frontierhunts:bear_fur"
+    },
+    "H": {
+      "item": "frontierhunts:tanned_hide"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:bear_fur_coat",
+    "count": 1
+  }
+}

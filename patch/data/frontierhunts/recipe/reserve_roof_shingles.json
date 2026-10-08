@@ -1,0 +1,18 @@
+{
+  "type": "frontierhunts:bench_shaped",
+  "category": "building",
+  "group": "frontierhunts:reserve_building",
+  "pattern": [
+    "III",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:roof_shingles",
+    "count": 8
+  }
+}

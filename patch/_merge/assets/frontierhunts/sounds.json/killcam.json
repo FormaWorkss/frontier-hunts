@@ -1,0 +1,58 @@
+{
+  "killcam.slowmo_in": {
+    "sounds": [
+      {
+        "name": "frontierhunts:killcam/slowmo_in"
+      }
+    ]
+  },
+  "killcam.flight": {
+    "sounds": [
+      {
+        "name": "frontierhunts:killcam/flight"
+      }
+    ]
+  },
+  "killcam.heartbeat": {
+    "sounds": [
+      {
+        "name": "frontierhunts:killcam/heartbeat"
+      }
+    ]
+  },
+  "killcam.impact": {
+    "sounds": [
+      {
+        "name": "frontierhunts:killcam/impact"
+      }
+    ]
+  },
+  "killcam.impact_arrow": {
+    "sounds": [
+      {
+        "name": "frontierhunts:killcam/impact_arrow"
+      }
+    ]
+  },
+  "killcam.xray": {
+    "sounds": [
+      {
+        "name": "frontierhunts:killcam/xray"
+      }
+    ]
+  },
+  "killcam.thud": {
+    "sounds": [
+      {
+        "name": "frontierhunts:killcam/thud"
+      }
+    ]
+  },
+  "killcam.return": {
+    "sounds": [
+      {
+        "name": "frontierhunts:killcam/return"
+      }
+    ]
+  }
+}

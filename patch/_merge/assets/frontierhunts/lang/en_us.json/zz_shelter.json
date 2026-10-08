@@ -1,0 +1,18 @@
+{
+  "survival.frontierhunts.journal.chip.tent": "In a tent",
+  "survival.frontierhunts.journal.chip.indoors": "Indoors",
+  "survival.frontierhunts.journal.heat.chilly.desc": "Chilly. A tent, a cabin or a fire stops the slide; furs keep it away.",
+  "survival.frontierhunts.journal.heat.shivering.desc": "Shivering: your aim shakes and you move slower. Get into a tent or a cabin and light a fire: shelter and fire together warm you even in a blizzard.",
+  "survival.frontierhunts.journal.heat.hypothermia.desc": "Hypothermia: slow and clumsy, healing halved. Get out of the storm into a tent, a cabin or a cave and find a fire.",
+  "survival.frontierhunts.journal.heat.freezing.desc": "You are freezing and losing health. Get into shelter and by a fire now.",
+  "survival.frontierhunts.journal.heat.comfortable.desc": "Comfortable. Wet clothes, wind and nightfall cut your warmth; a tent, a roof and a fire give it back.",
+  "survival.frontierhunts.msg.shiver": "You are shivering. Get into a tent or a cabin, or sit by a fire.",
+  "survival.frontierhunts.msg.freezing": "You are freezing! Get into shelter and by a fire now.",
+  "survival.frontierhunts.msg.cold_night": "You slept cold and woke up chilled to the bone. A tent, a roof, a fire or a hide bedroll would have helped.",
+  "guide.frontierhunts.tip.cold.body": "Get out of the wind: a tent, a cabin or a cave keeps the storm off and holds your warmth, and a fire inside warms you fastest. Tan hides and furs into coats, hats and mukluks; a fur lining fits under your camo.",
+  "subtitles.frontierhunts.weather_blizzard_muffled": "Blizzard roars outside",
+  "subtitles.frontierhunts.weather_rain_muffled": "Rain drums on the roof",
+  "subtitles.frontierhunts.weather_dust_muffled": "Dust storm hisses outside",
+  "subtitles.frontierhunts.weather_wind_muffled": "Wind buffets the walls",
+  "subtitles.frontierhunts.weather_gust_muffled": "Gust hits the walls"
+}

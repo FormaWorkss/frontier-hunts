@@ -1,0 +1,184 @@
+{
+ "variants": {
+  "facing=north,mossy=true,natural=true,part=ribs": {
+   "model": "frontierhunts:block/bones/scattered_bones_ribs_mossy"
+  },
+  "facing=north,mossy=true,natural=false,part=ribs": {
+   "model": "frontierhunts:block/bones/scattered_bones_ribs_fresh"
+  },
+  "facing=north,mossy=false,natural=true,part=ribs": {
+   "model": "frontierhunts:block/bones/scattered_bones_ribs_plain"
+  },
+  "facing=north,mossy=false,natural=false,part=ribs": {
+   "model": "frontierhunts:block/bones/scattered_bones_ribs_fresh"
+  },
+  "facing=north,mossy=true,natural=true,part=spine": {
+   "model": "frontierhunts:block/bones/scattered_bones_spine_mossy"
+  },
+  "facing=north,mossy=true,natural=false,part=spine": {
+   "model": "frontierhunts:block/bones/scattered_bones_spine_fresh"
+  },
+  "facing=north,mossy=false,natural=true,part=spine": {
+   "model": "frontierhunts:block/bones/scattered_bones_spine_plain"
+  },
+  "facing=north,mossy=false,natural=false,part=spine": {
+   "model": "frontierhunts:block/bones/scattered_bones_spine_fresh"
+  },
+  "facing=north,mossy=true,natural=true,part=legs": {
+   "model": "frontierhunts:block/bones/scattered_bones_legs_mossy"
+  },
+  "facing=north,mossy=true,natural=false,part=legs": {
+   "model": "frontierhunts:block/bones/scattered_bones_legs_fresh"
+  },
+  "facing=north,mossy=false,natural=true,part=legs": {
+   "model": "frontierhunts:block/bones/scattered_bones_legs_plain"
+  },
+  "facing=north,mossy=false,natural=false,part=legs": {
+   "model": "frontierhunts:block/bones/scattered_bones_legs_fresh"
+  },
+  "facing=east,mossy=true,natural=true,part=ribs": {
+   "model": "frontierhunts:block/bones/scattered_bones_ribs_mossy",
+   "y": 90
+  },
+  "facing=east,mossy=true,natural=false,part=ribs": {
+   "model": "frontierhunts:block/bones/scattered_bones_ribs_fresh",
+   "y": 90
+  },
+  "facing=east,mossy=false,natural=true,part=ribs": {
+   "model": "frontierhunts:block/bones/scattered_bones_ribs_plain",
+   "y": 90
+  },
+  "facing=east,mossy=false,natural=false,part=ribs": {
+   "model": "frontierhunts:block/bones/scattered_bones_ribs_fresh",
+   "y": 90
+  },
+  "facing=east,mossy=true,natural=true,part=spine": {
+   "model": "frontierhunts:block/bones/scattered_bones_spine_mossy",
+   "y": 90
+  },
+  "facing=east,mossy=true,natural=false,part=spine": {
+   "model": "frontierhunts:block/bones/scattered_bones_spine_fresh",
+   "y": 90
+  },
+  "facing=east,mossy=false,natural=true,part=spine": {
+   "model": "frontierhunts:block/bones/scattered_bones_spine_plain",
+   "y": 90
+  },
+  "facing=east,mossy=false,natural=false,part=spine": {
+   "model": "frontierhunts:block/bones/scattered_bones_spine_fresh",
+   "y": 90
+  },
+  "facing=east,mossy=true,natural=true,part=legs": {
+   "model": "frontierhunts:block/bones/scattered_bones_legs_mossy",
+   "y": 90
+  },
+  "facing=east,mossy=true,natural=false,part=legs": {
+   "model": "frontierhunts:block/bones/scattered_bones_legs_fresh",
+   "y": 90
+  },
+  "facing=east,mossy=false,natural=true,part=legs": {
+   "model": "frontierhunts:block/bones/scattered_bones_legs_plain",
+   "y": 90
+  },
+  "facing=east,mossy=false,natural=false,part=legs": {
+   "model": "frontierhunts:block/bones/scattered_bones_legs_fresh",
+   "y": 90
+  },
+  "facing=south,mossy=true,natural=true,part=ribs": {
+   "model": "frontierhunts:block/bones/scattered_bones_ribs_mossy",
+   "y": 180
+  },
+  "facing=south,mossy=true,natural=false,part=ribs": {
+   "model": "frontierhunts:block/bones/scattered_bones_ribs_fresh",
+   "y": 180
+  },
+  "facing=south,mossy=false,natural=true,part=ribs": {
+   "model": "frontierhunts:block/bones/scattered_bones_ribs_plain",
+   "y": 180
+  },
+  "facing=south,mossy=false,natural=false,part=ribs": {
+   "model": "frontierhunts:block/bones/scattered_bones_ribs_fresh",
+   "y": 180
+  },
+  "facing=south,mossy=true,natural=true,part=spine": {
+   "model": "frontierhunts:block/bones/scattered_bones_spine_mossy",
+   "y": 180
+  },
+  "facing=south,mossy=true,natural=false,part=spine": {
+   "model": "frontierhunts:block/bones/scattered_bones_spine_fresh",
+   "y": 180
+  },
+  "facing=south,mossy=false,natural=true,part=spine": {
+   "model": "frontierhunts:block/bones/scattered_bones_spine_plain",
+   "y": 180
+  },
+  "facing=south,mossy=false,natural=false,part=spine": {
+   "model": "frontierhunts:block/bones/scattered_bones_spine_fresh",
+   "y": 180
+  },
+  "facing=south,mossy=true,natural=true,part=legs": {
+   "model": "frontierhunts:block/bones/scattered_bones_legs_mossy",
+   "y": 180
+  },
+  "facing=south,mossy=true,natural=false,part=legs": {
+   "model": "frontierhunts:block/bones/scattered_bones_legs_fresh",
+   "y": 180
+  },
+  "facing=south,mossy=false,natural=true,part=legs": {
+   "model": "frontierhunts:block/bones/scattered_bones_legs_plain",
+   "y": 180
+  },
+  "facing=south,mossy=false,natural=false,part=legs": {
+   "model": "frontierhunts:block/bones/scattered_bones_legs_fresh",
+   "y": 180
+  },
+  "facing=west,mossy=true,natural=true,part=ribs": {
+   "model": "frontierhunts:block/bones/scattered_bones_ribs_mossy",
+   "y": 270
+  },
+  "facing=west,mossy=true,natural=false,part=ribs": {
+   "model": "frontierhunts:block/bones/scattered_bones_ribs_fresh",
+   "y": 270
+  },
+  "facing=west,mossy=false,natural=true,part=ribs": {
+   "model": "frontierhunts:block/bones/scattered_bones_ribs_plain",
+   "y": 270
+  },
+  "facing=west,mossy=false,natural=false,part=ribs": {
+   "model": "frontierhunts:block/bones/scattered_bones_ribs_fresh",
+   "y": 270
+  },
+  "facing=west,mossy=true,natural=true,part=spine": {
+   "model": "frontierhunts:block/bones/scattered_bones_spine_mossy",
+   "y": 270
+  },
+  "facing=west,mossy=true,natural=false,part=spine": {
+   "model": "frontierhunts:block/bones/scattered_bones_spine_fresh",
+   "y": 270
+  },
+  "facing=west,mossy=false,natural=true,part=spine": {
+   "model": "frontierhunts:block/bones/scattered_bones_spine_plain",
+   "y": 270
+  },
+  "facing=west,mossy=false,natural=false,part=spine": {
+   "model": "frontierhunts:block/bones/scattered_bones_spine_fresh",
+   "y": 270
+  },
+  "facing=west,mossy=true,natural=true,part=legs": {
+   "model": "frontierhunts:block/bones/scattered_bones_legs_mossy",
+   "y": 270
+  },
+  "facing=west,mossy=true,natural=false,part=legs": {
+   "model": "frontierhunts:block/bones/scattered_bones_legs_fresh",
+   "y": 270
+  },
+  "facing=west,mossy=false,natural=true,part=legs": {
+   "model": "frontierhunts:block/bones/scattered_bones_legs_plain",
+   "y": 270
+  },
+  "facing=west,mossy=false,natural=false,part=legs": {
+   "model": "frontierhunts:block/bones/scattered_bones_legs_fresh",
+   "y": 270
+  }
+ }
+}

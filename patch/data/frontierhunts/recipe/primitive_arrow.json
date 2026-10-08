@@ -1,0 +1,24 @@
+{
+  "type": "frontierhunts:bench_shaped",
+  "category": "equipment",
+  "pattern": [
+    "F  ",
+    " S ",
+    "  P"
+  ],
+  "key": {
+    "F": {
+      "item": "minecraft:flint"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "P": {
+      "item": "minecraft:feather"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:primitive_arrow",
+    "count": 4
+  }
+}

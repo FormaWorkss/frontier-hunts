@@ -1,0 +1,11 @@
+{
+  "item.frontierhunts.ridgeline_scope": "Ridgeline Hunting Scope (3-9×)",
+  "item.frontierhunts.ridgeline_scope.desc": "The Ridgeline bolt rifle's factory scope.",
+  "item.frontierhunts.ridgeline_scope.fit": "Attachment Workbench: put the rifle and the scope in the fitting slots, then Install.",
+  "rifle.frontierhunts.sight": "Sight: %s · swap at the Attachment Workbench",
+  "rifle.frontierhunts.sight.irons": "Flip-up iron sights",
+  "rifle.frontierhunts.prone_hint": "%s: go prone · bipod down, no sway, less kick",
+  "key.frontierhunts.prone": "Go prone / get up",
+  "prone.frontierhunts.cannot": "You can't lie down here.",
+  "prone.frontierhunts.no_room": "No room to get up here."
+}

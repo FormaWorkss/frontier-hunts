@@ -1,0 +1,4 @@
+# [onebook] The Frontier Handbook is the only book item. The Hunter's Journal and Expedition Guide items stay registered
+# (legacy, hidden, bound into the Handbook in a hunter's inventory) but can no longer be crafted.
+data/frontierhunts/recipe/hunter_journal.json
+data/frontierhunts/recipe/expedition_expedition_guide.json

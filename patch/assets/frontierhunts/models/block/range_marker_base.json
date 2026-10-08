@@ -1,0 +1,120 @@
+{
+ "parent": "block/block",
+ "textures": {
+  "log": "minecraft:block/spruce_log",
+  "log_top": "minecraft:block/spruce_log_top",
+  "plank": "minecraft:block/spruce_planks",
+  "cap": "minecraft:block/stripped_spruce_log",
+  "particle": "minecraft:block/spruce_planks"
+ },
+ "elements": [
+  {
+   "from": [
+    7,
+    0,
+    7
+   ],
+   "to": [
+    9,
+    7,
+    9
+   ],
+   "faces": {
+    "north": {
+     "texture": "#log"
+    },
+    "south": {
+     "texture": "#log"
+    },
+    "east": {
+     "texture": "#log"
+    },
+    "west": {
+     "texture": "#log"
+    },
+    "up": {
+     "texture": "#log_top"
+    },
+    "down": {
+     "texture": "#log_top"
+    }
+   }
+  },
+  {
+   "from": [
+    1.5,
+    7,
+    7.25
+   ],
+   "to": [
+    14.5,
+    15,
+    8.75
+   ],
+   "faces": {
+    "north": {
+     "texture": "#num",
+     "uv": [
+      0,
+      0,
+      13,
+      8
+     ]
+    },
+    "south": {
+     "texture": "#num",
+     "uv": [
+      0,
+      0,
+      13,
+      8
+     ]
+    },
+    "east": {
+     "texture": "#plank"
+    },
+    "west": {
+     "texture": "#plank"
+    },
+    "up": {
+     "texture": "#plank"
+    },
+    "down": {
+     "texture": "#plank"
+    }
+   }
+  },
+  {
+   "from": [
+    1,
+    15,
+    7
+   ],
+   "to": [
+    15,
+    16,
+    9
+   ],
+   "faces": {
+    "north": {
+     "texture": "#cap"
+    },
+    "south": {
+     "texture": "#cap"
+    },
+    "east": {
+     "texture": "#cap"
+    },
+    "west": {
+     "texture": "#cap"
+    },
+    "up": {
+     "texture": "#cap"
+    },
+    "down": {
+     "texture": "#cap"
+    }
+   }
+  }
+ ]
+}

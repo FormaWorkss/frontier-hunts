@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "building",
+ "group": "birch_log",
+ "ingredients": [
+  {
+   "item": "frontierhunts:aspen_log"
+  },
+  {
+   "item": "frontierhunts:aspen_log"
+  }
+ ],
+ "result": {
+  "id": "minecraft:birch_log",
+  "count": 2
+ }
+}

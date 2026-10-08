@@ -1,0 +1,64 @@
+{
+ "variants": {
+  "facing=north,spin=0": {
+   "model": "frontierhunts:block/steel_spinner_0"
+  },
+  "facing=east,spin=0": {
+   "model": "frontierhunts:block/steel_spinner_0",
+   "y": 90
+  },
+  "facing=south,spin=0": {
+   "model": "frontierhunts:block/steel_spinner_0",
+   "y": 180
+  },
+  "facing=west,spin=0": {
+   "model": "frontierhunts:block/steel_spinner_0",
+   "y": 270
+  },
+  "facing=north,spin=1": {
+   "model": "frontierhunts:block/steel_spinner_1"
+  },
+  "facing=east,spin=1": {
+   "model": "frontierhunts:block/steel_spinner_1",
+   "y": 90
+  },
+  "facing=south,spin=1": {
+   "model": "frontierhunts:block/steel_spinner_1",
+   "y": 180
+  },
+  "facing=west,spin=1": {
+   "model": "frontierhunts:block/steel_spinner_1",
+   "y": 270
+  },
+  "facing=north,spin=2": {
+   "model": "frontierhunts:block/steel_spinner_2"
+  },
+  "facing=east,spin=2": {
+   "model": "frontierhunts:block/steel_spinner_2",
+   "y": 90
+  },
+  "facing=south,spin=2": {
+   "model": "frontierhunts:block/steel_spinner_2",
+   "y": 180
+  },
+  "facing=west,spin=2": {
+   "model": "frontierhunts:block/steel_spinner_2",
+   "y": 270
+  },
+  "facing=north,spin=3": {
+   "model": "frontierhunts:block/steel_spinner_3"
+  },
+  "facing=east,spin=3": {
+   "model": "frontierhunts:block/steel_spinner_3",
+   "y": 90
+  },
+  "facing=south,spin=3": {
+   "model": "frontierhunts:block/steel_spinner_3",
+   "y": 180
+  },
+  "facing=west,spin=3": {
+   "model": "frontierhunts:block/steel_spinner_3",
+   "y": 270
+  }
+ }
+}

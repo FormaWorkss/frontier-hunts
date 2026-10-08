@@ -1,0 +1,18 @@
+fhqa persist load
+fhqa persist check
+fhqa persist login
+fhqa persist again
+#sleep 3
+fhqa persist permit
+#sleep 3
+fhqa academy archery
+#sleep 10
+fhqa persist status
+fhqa player frontierhunts academy complete
+#sleep 6
+fhqa tickplayer 40
+#sleep 8
+fhqa persist status
+fhqa persist snapshot
+fhqa persist crash
+#sleep 8

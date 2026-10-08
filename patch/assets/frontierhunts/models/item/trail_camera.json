@@ -1,0 +1,96 @@
+{
+ "parent": "frontierhunts:block/trail_camera",
+ "display": {
+  "gui": {
+   "rotation": [
+    20,
+    160,
+    0
+   ],
+   "translation": [
+    -2.054,
+    -2.045,
+    0
+   ],
+   "scale": [
+    0.985,
+    0.985,
+    0.985
+   ]
+  },
+  "ground": {
+   "translation": [
+    0,
+    3,
+    0
+   ],
+   "scale": [
+    0.2046,
+    0.2046,
+    0.2046
+   ]
+  },
+  "fixed": {
+   "scale": [
+    0.651,
+    0.651,
+    0.651
+   ]
+  },
+  "head": {
+   "scale": [
+    1,
+    1,
+    1
+   ]
+  },
+  "thirdperson_righthand": {
+   "rotation": [
+    0,
+    45,
+    0
+   ],
+   "scale": [
+    0.341,
+    0.341,
+    0.341
+   ]
+  },
+  "thirdperson_lefthand": {
+   "rotation": [
+    0,
+    45,
+    0
+   ],
+   "scale": [
+    0.341,
+    0.341,
+    0.341
+   ]
+  },
+  "firstperson_righthand": {
+   "rotation": [
+    0,
+    45,
+    0
+   ],
+   "scale": [
+    0.341,
+    0.341,
+    0.341
+   ]
+  },
+  "firstperson_lefthand": {
+   "rotation": [
+    0,
+    225,
+    0
+   ],
+   "scale": [
+    0.341,
+    0.341,
+    0.341
+   ]
+  }
+ }
+}

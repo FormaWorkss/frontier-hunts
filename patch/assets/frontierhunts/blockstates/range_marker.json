@@ -1,0 +1,139 @@
+{
+ "variants": {
+  "facing=north,dist=0": {
+   "model": "frontierhunts:block/range_marker_25"
+  },
+  "facing=east,dist=0": {
+   "model": "frontierhunts:block/range_marker_25",
+   "y": 90
+  },
+  "facing=south,dist=0": {
+   "model": "frontierhunts:block/range_marker_25",
+   "y": 180
+  },
+  "facing=west,dist=0": {
+   "model": "frontierhunts:block/range_marker_25",
+   "y": 270
+  },
+  "facing=north,dist=1": {
+   "model": "frontierhunts:block/range_marker_50"
+  },
+  "facing=east,dist=1": {
+   "model": "frontierhunts:block/range_marker_50",
+   "y": 90
+  },
+  "facing=south,dist=1": {
+   "model": "frontierhunts:block/range_marker_50",
+   "y": 180
+  },
+  "facing=west,dist=1": {
+   "model": "frontierhunts:block/range_marker_50",
+   "y": 270
+  },
+  "facing=north,dist=2": {
+   "model": "frontierhunts:block/range_marker_75"
+  },
+  "facing=east,dist=2": {
+   "model": "frontierhunts:block/range_marker_75",
+   "y": 90
+  },
+  "facing=south,dist=2": {
+   "model": "frontierhunts:block/range_marker_75",
+   "y": 180
+  },
+  "facing=west,dist=2": {
+   "model": "frontierhunts:block/range_marker_75",
+   "y": 270
+  },
+  "facing=north,dist=3": {
+   "model": "frontierhunts:block/range_marker_100"
+  },
+  "facing=east,dist=3": {
+   "model": "frontierhunts:block/range_marker_100",
+   "y": 90
+  },
+  "facing=south,dist=3": {
+   "model": "frontierhunts:block/range_marker_100",
+   "y": 180
+  },
+  "facing=west,dist=3": {
+   "model": "frontierhunts:block/range_marker_100",
+   "y": 270
+  },
+  "facing=north,dist=4": {
+   "model": "frontierhunts:block/range_marker_150"
+  },
+  "facing=east,dist=4": {
+   "model": "frontierhunts:block/range_marker_150",
+   "y": 90
+  },
+  "facing=south,dist=4": {
+   "model": "frontierhunts:block/range_marker_150",
+   "y": 180
+  },
+  "facing=west,dist=4": {
+   "model": "frontierhunts:block/range_marker_150",
+   "y": 270
+  },
+  "facing=north,dist=5": {
+   "model": "frontierhunts:block/range_marker_200"
+  },
+  "facing=east,dist=5": {
+   "model": "frontierhunts:block/range_marker_200",
+   "y": 90
+  },
+  "facing=south,dist=5": {
+   "model": "frontierhunts:block/range_marker_200",
+   "y": 180
+  },
+  "facing=west,dist=5": {
+   "model": "frontierhunts:block/range_marker_200",
+   "y": 270
+  },
+  "facing=north,dist=6": {
+   "model": "frontierhunts:block/range_marker_300"
+  },
+  "facing=east,dist=6": {
+   "model": "frontierhunts:block/range_marker_300",
+   "y": 90
+  },
+  "facing=south,dist=6": {
+   "model": "frontierhunts:block/range_marker_300",
+   "y": 180
+  },
+  "facing=west,dist=6": {
+   "model": "frontierhunts:block/range_marker_300",
+   "y": 270
+  },
+  "facing=north,dist=7": {
+   "model": "frontierhunts:block/range_marker_400"
+  },
+  "facing=east,dist=7": {
+   "model": "frontierhunts:block/range_marker_400",
+   "y": 90
+  },
+  "facing=south,dist=7": {
+   "model": "frontierhunts:block/range_marker_400",
+   "y": 180
+  },
+  "facing=west,dist=7": {
+   "model": "frontierhunts:block/range_marker_400",
+   "y": 270
+  },
+  "facing=north,dist=8": {
+   "model": "frontierhunts:block/range_marker_500"
+  },
+  "facing=east,dist=8": {
+   "model": "frontierhunts:block/range_marker_500",
+   "y": 90
+  },
+  "facing=south,dist=8": {
+   "model": "frontierhunts:block/range_marker_500",
+   "y": 180
+  },
+  "facing=west,dist=8": {
+   "model": "frontierhunts:block/range_marker_500",
+   "y": 270
+  }
+ }
+}

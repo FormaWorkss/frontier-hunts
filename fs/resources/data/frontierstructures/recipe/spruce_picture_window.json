@@ -1,0 +1,21 @@
+{
+  "type": "frontierhunts:bench_shaped",
+  "category": "building",
+  "pattern": [
+    "WWW",
+    "WGW",
+    "WWW"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:spruce_planks"
+    },
+    "G": {
+      "item": "minecraft:glass_pane"
+    }
+  },
+  "result": {
+    "id": "frontierstructures:spruce_picture_window",
+    "count": 4
+  }
+}

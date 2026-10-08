@@ -1,0 +1,19 @@
+{
+  "type": "frontierhunts:bench_shaped",
+  "category": "building",
+  "group": "frontierhunts:reserve_building",
+  "pattern": [
+    "I I",
+    "I I",
+    "I I"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_nugget"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:stove_flue",
+    "count": 4
+  }
+}

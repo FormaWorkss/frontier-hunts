@@ -1,0 +1,22 @@
+{
+  "type": "frontierhunts:bench_shaped",
+  "category": "building",
+  "group": "frontierhunts:reserve_building",
+  "pattern": [
+    "S S",
+    "PPP",
+    "S S"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:string"
+    },
+    "P": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:rope_ladder",
+    "count": 4
+  }
+}

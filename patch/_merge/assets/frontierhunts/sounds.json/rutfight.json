@@ -1,0 +1,40 @@
+{
+  "deer_antler_clash": {
+    "subtitle": "subtitles.frontierhunts.deer_antler_clash",
+    "sounds": [
+      {
+        "name": "frontierhunts:rutfight/clash_0",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "frontierhunts:rutfight/clash_1",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "frontierhunts:rutfight/clash_2",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "frontierhunts:rutfight/clash_3",
+        "attenuation_distance": 48
+      }
+    ]
+  },
+  "deer_antler_grind": {
+    "subtitle": "subtitles.frontierhunts.deer_antler_grind",
+    "sounds": [
+      {
+        "name": "frontierhunts:rutfight/grind_0",
+        "attenuation_distance": 32
+      },
+      {
+        "name": "frontierhunts:rutfight/grind_1",
+        "attenuation_distance": 32
+      },
+      {
+        "name": "frontierhunts:rutfight/grind_2",
+        "attenuation_distance": 32
+      }
+    ]
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "type": "frontierhunts:bench_shaped",
+  "category": "equipment",
+  "pattern": [
+    "DU ",
+    "GIA",
+    "IAI"
+  ],
+  "key": {
+    "D": {
+      "item": "minecraft:diamond"
+    },
+    "U": {
+      "item": "minecraft:gold_ingot"
+    },
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "A": {
+      "item": "minecraft:amethyst_shard"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:twelve_power_scope",
+    "count": 1
+  }
+}

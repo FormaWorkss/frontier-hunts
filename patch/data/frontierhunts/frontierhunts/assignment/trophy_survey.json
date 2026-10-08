@@ -1,0 +1,12 @@
+{
+  "title": "The old timber bucks",
+  "briefing": "Report an animal from the heavy end of the population: recover a buck of at least 110 kg - a big-framed mature whitetail, or any elk or moose bull. Its saved identity and its real weight decide credit.",
+  "objective": "harvest",
+  "target": 1,
+  "minimum_mass": 110,
+  "chest_only": false,
+  "duration": 0,
+  "tokens": 120,
+  "experience": 120,
+  "cooldown": 24000
+}

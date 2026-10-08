@@ -1,0 +1,18 @@
+{
+  "type": "frontierhunts:bench_shaped",
+  "category": "building",
+  "pattern": [
+    "  L",
+    " L ",
+    "L  "
+  ],
+  "key": {
+    "L": {
+      "item": "minecraft:dark_oak_slab"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:lookout_brace",
+    "count": 6
+  }
+}

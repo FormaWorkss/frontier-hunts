@@ -1,0 +1,19 @@
+{
+ "duck_call": {
+  "subtitle": "subtitles.frontierhunts.duck_call",
+  "sounds": [
+   {
+    "name": "frontierhunts:hunts/duck_call_0",
+    "attenuation_distance": 48
+   },
+   {
+    "name": "frontierhunts:hunts/duck_call_1",
+    "attenuation_distance": 48
+   },
+   {
+    "name": "frontierhunts:hunts/duck_call_2",
+    "attenuation_distance": 48
+   }
+  ]
+ }
+}

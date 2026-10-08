@@ -1,0 +1,18 @@
+{
+  "values": [
+    "frontierhunts:game_meat",
+    "frontierhunts:cooked_game",
+    "frontierhunts:bear_meat",
+    "frontierhunts:cooked_bear_meat",
+    "frontierhunts:wild_fowl",
+    "frontierhunts:cooked_wild_fowl",
+    "frontierhunts:organ_meat",
+    "frontierhunts:cooked_organ_meat",
+    "frontierhunts:game_fat",
+    "frontierhunts:tallow",
+    "frontierhunts:jerky",
+    "frontierhunts:pemmican",
+    "frontierhunts:salt",
+    "frontierhunts:spoiled_meat"
+  ]
+}

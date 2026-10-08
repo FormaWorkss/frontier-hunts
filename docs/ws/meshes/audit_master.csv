@@ -1,0 +1,633 @@
+species,lod,state,stretch_max,stretch_p999,stretch_bone,det_min,det_bone,flipped,buried,buried_bones,sink,nan
+wolf,ultra,idle,0.7780,0.5356,tail2,0.986,br_lower,16,0,,0.0159,0
+wolf,ultra,walk,2.4908,1.1760,bl_foot,0.938,bl_lower,27,0,,0.0202,0
+wolf,ultra,trot,4.6397,2.2110,bl_foot,0.836,bl_lower,86,1,bl_lower:1,0.0161,0
+wolf,ultra,run,4.6397,2.2110,bl_foot,0.836,bl_lower,86,1,bl_lower:1,0.0161,0
+wolf,ultra,gallop,4.0162,1.2870,br_foot,0.716,fr_upper,417,6,tail2:4 bl_toe:2,0.0000,0
+wolf,ultra,leap,6.3907,2.4513,br_foot,0.515,fl_upper,562,1,tail1:1,0.0000,0
+wolf,ultra,graze,2.9073,1.7251,br_foot,0.410,fr_upper,46,1,br_foot:1,0.0178,0
+wolf,ultra,rest,4.7775,2.3714,br_foot,0.776,tail2,15,0,,0.0000,0
+wolf,ultra,rest_look,4.7775,2.3714,br_foot,0.776,tail2,15,0,,0.0000,0
+wolf,ultra,alert,0.8716,0.6497,tail2,0.945,head,71,6,bl_foot:4 tail2:1,0.0159,0
+wolf,ultra,curious,0.7780,0.5571,tail2,0.971,tail2,17,1,br_foot:1,0.0159,0
+wolf,ultra,warn,2.4049,1.1185,br_foot,0.964,tail1,15,0,,0.0159,0
+wolf,ultra,look_left,0.7780,0.5681,tail2,0.747,head,16,0,,0.0159,0
+wolf,ultra,look_right_up,0.8918,0.5968,fr_upper,0.729,head,17,0,,0.0159,0
+wolf,ultra,look_down,0.7780,0.5356,tail2,0.933,head,16,0,,0.0159,0
+wolf,ultra,alert_look,1.1369,0.7203,fl_upper,0.580,head,72,6,bl_foot:4 tail2:1,0.0159,0
+wolf,ultra,graze_walk,2.6615,1.4995,bl_foot,0.663,bl_lower,24,0,,0.0435,0
+wolf,ultra,flee_look,4.0162,1.2870,br_foot,0.716,fr_upper,417,6,tail2:4 bl_toe:2,0.0000,0
+wolf,ultra,stalk,1.6585,0.7409,br_foot,0.626,br_foot,61,1,br_foot:1,0.0249,0
+wolf,ultra,stalk_still,1.3569,0.6434,br_foot,0.648,fr_upper,46,1,br_foot:1,0.0214,0
+wolf,ultra,chase,3.0533,0.8886,br_foot,0.738,fr_upper,321,9,bl_foot:7 bl_lower:1,0.0000,0
+wolf,ultra,pounce,7.3428,2.7767,br_foot,0.041,fr_upper,602,1,fl_upper:1,0.0000,0
+wolf,ultra,tear,1.7448,1.1662,br_lower,0.584,br_upper,24,1,br_foot:1,0.0297,0
+wolf,ultra,howl,3.3519,1.9193,br_foot,0.248,bl_lower,56,1,br_lower:1,0.1940,0
+wolf,bal,idle,0.5488,0.4392,br_foot,0.985,fr_upper,2,0,,0.0162,0
+wolf,bal,walk,1.3475,0.9653,bl_foot,0.940,br_lower,11,0,,0.0204,0
+wolf,bal,trot,2.3723,1.7152,bl_foot,0.843,br_lower,23,0,,0.0162,0
+wolf,bal,run,2.3723,1.7152,bl_foot,0.843,br_lower,23,0,,0.0162,0
+wolf,bal,gallop,1.2267,1.0860,br_foot,0.697,fr_upper,107,0,,0.0000,0
+wolf,bal,leap,2.3064,2.1180,tail2,0.495,fl_upper,149,0,,0.0000,0
+wolf,bal,graze,1.7084,1.5342,tail2,0.424,fr_upper,13,0,,0.0181,0
+wolf,bal,rest,2.4276,2.0155,tail2,0.790,tail2,3,0,,0.0000,0
+wolf,bal,rest_look,2.4276,2.0155,tail2,0.790,tail2,3,0,,0.0000,0
+wolf,bal,alert,0.7145,0.6773,tail2,0.947,fr_upper,13,0,,0.0162,0
+wolf,bal,curious,0.5488,0.4649,br_foot,0.973,tail2,2,0,,0.0162,0
+wolf,bal,warn,1.1341,1.0121,tail2,0.964,tail1,2,0,,0.0162,0
+wolf,bal,look_left,0.5488,0.4698,br_foot,0.756,head,2,0,,0.0162,0
+wolf,bal,look_right_up,0.6605,0.5252,fr_upper,0.738,fr_upper,2,0,,0.0162,0
+wolf,bal,look_down,0.5488,0.4392,br_foot,0.934,head,2,0,,0.0162,0
+wolf,bal,alert_look,0.9803,0.7020,fl_upper,0.594,fr_upper,13,0,,0.0162,0
+wolf,bal,graze_walk,1.7905,1.2066,bl_foot,0.672,bl_lower,7,0,,0.0437,0
+wolf,bal,flee_look,1.2267,1.0860,br_foot,0.697,fr_upper,107,0,,0.0000,0
+wolf,bal,stalk,0.6969,0.6727,br_foot,0.635,fr_lower,14,0,,0.0241,0
+wolf,bal,stalk_still,0.6326,0.6243,tail2,0.634,fr_lower,10,0,,0.0207,0
+wolf,bal,chase,0.9851,0.8343,bl_upper,0.719,fr_upper,81,0,,0.0000,0
+wolf,bal,pounce,3.0740,2.6362,tail2,0.043,fr_upper,175,0,,0.0000,0
+wolf,bal,tear,1.3760,1.1344,br_lower,0.587,br_lower,5,0,,0.0289,0
+wolf,bal,howl,2.1343,1.8584,br_lower,0.245,bl_lower,13,0,,0.1942,0
+coyote,ultra,idle,0.8072,0.5420,tail2,0.987,fr_upper,16,2,br_foot:1 bl_lower:1,0.0118,0
+coyote,ultra,walk,2.8021,1.2428,bl_foot,0.941,bl_lower,29,1,bl_lower:1,0.0152,0
+coyote,ultra,trot,5.1585,2.4007,bl_foot,0.839,bl_lower,92,1,bl_lower:1,0.0120,0
+coyote,ultra,run,5.1585,2.4007,bl_foot,0.839,bl_lower,92,1,bl_lower:1,0.0120,0
+coyote,ultra,gallop,4.1501,1.3158,br_foot,0.717,fr_upper,442,6,tail2:4 bl_toe:2,0.0000,0
+coyote,ultra,leap,6.5882,2.4613,br_foot,0.516,fl_upper,592,1,tail1:1,0.0000,0
+coyote,ultra,graze,2.9753,1.8459,br_foot,0.412,fr_upper,50,2,fl_upper:1 br_foot:1,0.0139,0
+coyote,ultra,rest,4.9167,2.3686,br_foot,0.777,tail2,13,1,bl_lower:1,0.0000,0
+coyote,ultra,rest_look,4.9167,2.3686,br_foot,0.777,tail2,13,1,bl_lower:1,0.0000,0
+coyote,ultra,alert,0.8808,0.6728,tail2,0.946,head,73,7,bl_foot:4 tail2:1,0.0118,0
+coyote,ultra,curious,0.8072,0.5561,tail2,0.972,tail2,16,2,br_foot:1 bl_lower:1,0.0118,0
+coyote,ultra,warn,2.4664,1.1247,br_foot,0.965,tail1,12,1,bl_lower:1,0.0118,0
+coyote,ultra,look_left,0.8072,0.5691,tail2,0.751,head,16,2,br_foot:1 bl_lower:1,0.0118,0
+coyote,ultra,look_right_up,0.8477,0.5831,fr_upper,0.725,head,17,2,br_foot:1 bl_lower:1,0.0118,0
+coyote,ultra,look_down,0.8072,0.5420,tail2,0.933,head,16,2,br_foot:1 bl_lower:1,0.0118,0
+coyote,ultra,alert_look,1.0769,0.7320,fl_upper,0.584,head,73,7,bl_foot:4 tail2:1,0.0118,0
+coyote,ultra,graze_walk,2.9962,1.4865,bl_foot,0.667,bl_lower,27,1,br_foot:1,0.0338,0
+coyote,ultra,flee_look,4.1501,1.3158,br_foot,0.717,fr_upper,442,6,tail2:4 bl_toe:2,0.0000,0
+coyote,ultra,stalk,1.6845,0.7603,br_foot,0.626,br_foot,63,1,br_foot:1,0.0196,0
+coyote,ultra,stalk_still,1.3796,0.6237,br_foot,0.649,fr_upper,41,1,br_foot:1,0.0169,0
+coyote,ultra,chase,3.1542,0.8919,br_foot,0.739,fr_upper,330,9,bl_foot:7 bl_lower:1,0.0000,0
+coyote,ultra,pounce,7.5639,2.8039,br_foot,0.041,fr_upper,643,1,fl_upper:1,0.0000,0
+coyote,ultra,tear,1.7658,1.1932,br_lower,0.584,br_upper,21,1,br_foot:1,0.0240,0
+coyote,ultra,howl,3.4417,1.9834,br_foot,0.249,bl_lower,59,1,br_lower:1,0.1532,0
+coyote,bal,idle,0.4867,0.4085,br_foot,0.986,fr_upper,2,0,,0.0120,0
+coyote,bal,walk,1.4115,0.9960,bl_foot,0.942,fr_upper,10,0,,0.0152,0
+coyote,bal,trot,2.4687,1.8982,bl_foot,0.845,br_lower,25,0,,0.0120,0
+coyote,bal,run,2.4687,1.8982,bl_foot,0.845,br_lower,25,0,,0.0120,0
+coyote,bal,gallop,1.3403,1.1337,br_foot,0.697,fr_upper,115,0,,0.0000,0
+coyote,bal,leap,2.3899,2.1245,tail2,0.495,fl_upper,156,0,,0.0000,0
+coyote,bal,graze,1.7773,1.5342,tail2,0.426,fr_upper,14,0,,0.0141,0
+coyote,bal,rest,2.4320,2.0957,tail2,0.790,tail2,2,0,,0.0000,0
+coyote,bal,rest_look,2.4320,2.0957,tail2,0.790,tail2,2,0,,0.0000,0
+coyote,bal,alert,0.7328,0.6684,tail2,0.947,fr_upper,13,0,,0.0120,0
+coyote,bal,curious,0.5379,0.4547,br_lower,0.974,tail2,2,0,,0.0120,0
+coyote,bal,warn,1.1379,1.0677,tail2,0.965,tail1,2,0,,0.0120,0
+coyote,bal,look_left,0.4867,0.4492,br_foot,0.760,head,2,0,,0.0120,0
+coyote,bal,look_right_up,0.6328,0.4839,fr_upper,0.734,fr_upper,2,0,,0.0120,0
+coyote,bal,look_down,0.4867,0.4085,br_foot,0.934,head,2,0,,0.0120,0
+coyote,bal,alert_look,0.9230,0.6834,fl_upper,0.598,fr_upper,13,0,,0.0120,0
+coyote,bal,graze_walk,1.8709,1.2712,bl_foot,0.675,bl_lower,7,0,,0.0338,0
+coyote,bal,flee_look,1.3403,1.1337,br_foot,0.697,fr_upper,115,0,,0.0000,0
+coyote,bal,stalk,0.7088,0.6785,br_foot,0.635,fr_lower,16,0,,0.0190,0
+coyote,bal,stalk_still,0.6499,0.6056,tail2,0.634,fr_lower,11,0,,0.0163,0
+coyote,bal,chase,0.9894,0.8428,br_foot,0.720,fr_upper,89,0,,0.0000,0
+coyote,bal,pounce,3.1790,2.6434,tail2,0.043,fr_upper,182,0,,0.0000,0
+coyote,bal,tear,1.4353,1.1925,br_lower,0.587,br_lower,7,0,,0.0234,0
+coyote,bal,howl,2.2849,1.8688,tail2,0.246,bl_lower,15,0,,0.1533,0
+cougar,ultra,idle,2.2810,1.6318,bl_upper,0.882,bl_upper,0,0,,0.0563,0
+cougar,ultra,walk,2.9953,2.1535,bl_upper,0.774,bl_upper,0,0,,0.0709,0
+cougar,ultra,trot,3.7078,2.6532,bl_upper,0.636,bl_upper,7,0,,0.0784,0
+cougar,ultra,run,3.7078,2.6532,bl_upper,0.636,bl_upper,7,0,,0.0784,0
+cougar,ultra,gallop,3.4228,2.4777,bl_upper,0.787,br_upper,9,0,,0.0000,0
+cougar,ultra,leap,2.0281,1.4219,bl_upper,0.667,br_upper,132,3,tail2:2 bl_lower:1,0.0000,0
+cougar,ultra,graze,2.9642,2.1265,bl_upper,0.354,fl_lower,45,1,fl_upper:1,0.0569,0
+cougar,ultra,rest,4.3796,3.1584,bl_upper,0.740,tail2,24,0,,0.0000,0
+cougar,ultra,rest_look,4.3796,3.1584,bl_upper,0.740,tail2,25,0,,0.0000,0
+cougar,ultra,alert,1.6500,1.1396,bl_upper,0.878,fr_upper,0,0,,0.0563,0
+cougar,ultra,curious,2.2810,1.6322,bl_upper,0.882,bl_upper,0,0,,0.0563,0
+cougar,ultra,warn,2.8203,1.9926,bl_upper,0.875,bl_upper,1,0,,0.0563,0
+cougar,ultra,look_left,2.2810,1.6318,bl_upper,0.744,head,1,0,,0.0563,0
+cougar,ultra,look_right_up,2.2810,1.6318,bl_upper,0.753,neck,2,0,,0.0563,0
+cougar,ultra,look_down,2.2810,1.6318,bl_upper,0.882,bl_upper,0,0,,0.0563,0
+cougar,ultra,alert_look,1.6500,1.1887,bl_upper,0.594,head,4,0,,0.0563,0
+cougar,ultra,graze_walk,3.1934,2.2873,bl_upper,0.619,fl_lower,21,0,,0.0701,0
+cougar,ultra,flee_look,3.4228,2.4777,bl_upper,0.703,fr_upper,10,0,,0.0000,0
+cougar,ultra,stalk,4.6817,3.3165,bl_upper,0.000,bl_upper,89,8,bl_upper:4 bl_lower:4,0.0608,0
+cougar,ultra,stalk_still,4.2185,2.9312,bl_upper,0.001,bl_upper,88,8,bl_lower:5 bl_upper:3,0.0537,0
+cougar,ultra,chase,3.6958,2.6811,bl_upper,0.806,bl_upper,15,0,,0.0000,0
+cougar,ultra,pounce,2.2615,1.7854,tail2,0.405,br_upper,455,10,tail1:4 bl_lower:3,0.0000,0
+cougar,ultra,tear,1.7029,1.2273,bl_upper,0.784,tail2,1,0,,0.0587,0
+cougar,bal,idle,1.6666,1.3998,tail1,0.886,bl_upper,0,0,,0.0580,0
+cougar,bal,walk,2.2274,1.8912,tail1,0.782,bl_upper,0,0,,0.0720,0
+cougar,bal,trot,2.7784,2.3918,tail1,0.649,bl_upper,0,0,,0.0789,0
+cougar,bal,run,2.7784,2.3918,tail1,0.649,bl_upper,0,0,,0.0789,0
+cougar,bal,gallop,2.4921,2.1910,tail1,0.772,br_upper,1,0,,0.0000,0
+cougar,bal,leap,1.3638,1.2604,tail1,0.639,br_upper,20,0,,0.0000,0
+cougar,bal,graze,2.1978,1.9535,tail1,0.364,fl_lower,16,0,,0.0583,0
+cougar,bal,rest,3.3176,2.8783,tail1,0.740,tail2,5,0,,0.0000,0
+cougar,bal,rest_look,3.3176,2.8783,tail1,0.740,tail2,5,0,,0.0000,0
+cougar,bal,alert,1.1160,1.0250,bl_upper,0.886,bl_upper,0,0,,0.0580,0
+cougar,bal,curious,1.6666,1.4006,tail1,0.886,bl_upper,0,0,,0.0580,0
+cougar,bal,warn,2.1035,1.7494,tail1,0.876,bl_upper,0,0,,0.0580,0
+cougar,bal,look_left,1.6666,1.3998,tail1,0.752,head,2,0,,0.0580,0
+cougar,bal,look_right_up,1.6666,1.3998,tail1,0.756,neck,0,0,,0.0580,0
+cougar,bal,look_down,1.6666,1.3998,tail1,0.886,bl_upper,0,0,,0.0580,0
+cougar,bal,alert_look,1.2425,1.0676,pelvis,0.607,neck,2,0,,0.0580,0
+cougar,bal,graze_walk,2.3794,2.0999,tail1,0.618,fl_lower,2,0,,0.0714,0
+cougar,bal,flee_look,2.4921,2.1910,tail1,0.722,neck,3,0,,0.0000,0
+cougar,bal,stalk,3.5182,2.9591,tail1,0.003,bl_lower,34,0,,0.0604,0
+cougar,bal,stalk_still,3.1410,2.6537,tail1,0.004,bl_lower,32,0,,0.0527,0
+cougar,bal,chase,2.7440,2.3998,tail1,0.811,bl_upper,2,0,,0.0000,0
+cougar,bal,pounce,1.8069,1.7514,tail2,0.407,br_upper,79,0,,0.0000,0
+cougar,bal,tear,1.2024,1.0929,tail1,0.789,tail2,0,0,,0.0598,0
+panther,ultra,idle,2.2677,1.5925,bl_upper,0.881,bl_upper,0,0,,0.0537,0
+panther,ultra,walk,2.9682,2.1263,bl_upper,0.773,bl_upper,0,0,,0.0674,0
+panther,ultra,trot,3.6753,2.6519,bl_upper,0.636,bl_upper,7,0,,0.0745,0
+panther,ultra,run,3.6753,2.6519,bl_upper,0.636,bl_upper,7,0,,0.0745,0
+panther,ultra,gallop,3.4206,2.4004,bl_upper,0.787,br_upper,10,0,,0.0000,0
+panther,ultra,leap,2.0280,1.4161,bl_upper,0.666,br_upper,126,3,tail2:2 bl_lower:1,0.0000,0
+panther,ultra,graze,2.9475,2.0982,bl_upper,0.355,fl_lower,46,1,fl_upper:1,0.0544,0
+panther,ultra,rest,4.3419,3.0783,bl_upper,0.739,tail2,25,0,,0.0000,0
+panther,ultra,rest_look,4.3419,3.0783,bl_upper,0.739,tail2,26,0,,0.0000,0
+panther,ultra,alert,1.6510,1.1453,bl_upper,0.877,fr_upper,0,0,,0.0537,0
+panther,ultra,curious,2.2677,1.5925,bl_upper,0.880,bl_upper,0,0,,0.0537,0
+panther,ultra,warn,2.7948,1.9555,bl_upper,0.874,bl_upper,0,0,,0.0537,0
+panther,ultra,look_left,2.2677,1.5925,bl_upper,0.739,head,1,0,,0.0537,0
+panther,ultra,look_right_up,2.2677,1.5925,bl_upper,0.755,neck,1,0,,0.0537,0
+panther,ultra,look_down,2.2677,1.5925,bl_upper,0.881,bl_upper,0,0,,0.0537,0
+panther,ultra,alert_look,1.6510,1.1980,bl_upper,0.591,head,4,0,,0.0537,0
+panther,ultra,graze_walk,3.1658,2.2860,bl_upper,0.620,fl_lower,21,0,,0.0668,0
+panther,ultra,flee_look,3.4206,2.4004,bl_upper,0.701,fr_upper,11,0,,0.0000,0
+panther,ultra,stalk,4.6779,3.2315,bl_upper,0.000,bl_upper,88,8,bl_upper:4 bl_lower:4,0.0579,0
+panther,ultra,stalk_still,4.2123,2.8960,bl_upper,0.001,bl_upper,87,7,bl_lower:4 bl_upper:3,0.0513,0
+panther,ultra,chase,3.6926,2.6402,bl_upper,0.805,bl_upper,16,0,,0.0000,0
+panther,ultra,pounce,2.2369,1.7796,tail2,0.405,br_upper,443,9,tail1:4 tail2:2,0.0000,0
+panther,ultra,tear,1.7032,1.2277,bl_upper,0.783,tail2,1,0,,0.0559,0
+panther,bal,idle,1.6048,1.3992,tail1,0.885,bl_upper,0,0,,0.0552,0
+panther,bal,walk,2.1510,1.8302,tail1,0.782,bl_upper,0,0,,0.0684,0
+panther,bal,trot,2.6876,2.3198,tail1,0.649,bl_upper,0,0,,0.0750,0
+panther,bal,run,2.6876,2.3198,tail1,0.649,bl_upper,0,0,,0.0750,0
+panther,bal,gallop,2.4079,2.1799,tail1,0.772,br_upper,1,0,,0.0000,0
+panther,bal,leap,1.3680,1.2569,bl_upper,0.639,br_upper,20,0,,0.0000,0
+panther,bal,graze,2.1232,1.9161,tail1,0.365,fl_lower,16,0,,0.0557,0
+panther,bal,rest,3.2139,2.8012,tail1,0.739,tail2,5,0,,0.0000,0
+panther,bal,rest_look,3.2139,2.8012,tail1,0.739,tail2,5,0,,0.0000,0
+panther,bal,alert,1.1218,1.0210,bl_upper,0.885,bl_upper,0,0,,0.0552,0
+panther,bal,curious,1.6048,1.4010,tail1,0.885,bl_upper,0,0,,0.0552,0
+panther,bal,warn,2.0308,1.6929,tail1,0.875,bl_upper,0,0,,0.0552,0
+panther,bal,look_left,1.6048,1.3992,tail1,0.748,head,2,0,,0.0552,0
+panther,bal,look_right_up,1.6048,1.3992,tail1,0.758,neck,0,0,,0.0552,0
+panther,bal,look_down,1.6048,1.3992,tail1,0.885,bl_upper,0,0,,0.0552,0
+panther,bal,alert_look,1.2498,1.0526,pelvis,0.605,neck,2,0,,0.0552,0
+panther,bal,graze_walk,2.2998,2.0361,tail1,0.619,fl_lower,3,0,,0.0680,0
+panther,bal,flee_look,2.4079,2.1799,tail1,0.719,neck,3,0,,0.0000,0
+panther,bal,stalk,3.4115,2.9640,tail1,0.003,bl_lower,33,0,,0.0575,0
+panther,bal,stalk_still,3.0410,2.6566,tail1,0.004,bl_lower,31,0,,0.0502,0
+panther,bal,chase,2.6536,2.3355,tail1,0.810,bl_upper,2,0,,0.0000,0
+panther,bal,pounce,1.7930,1.7117,tail2,0.407,br_upper,78,0,,0.0000,0
+panther,bal,tear,1.1528,1.0771,tail1,0.788,tail2,0,0,,0.0569,0
+lion,ultra,idle,0.8452,0.5414,tail1,0.912,bl_upper,0,1,bl_toe:1,0.1128,0
+lion,ultra,walk,1.0691,0.6619,tail1,0.842,bl_upper,1,1,bl_toe:1,0.1220,0
+lion,ultra,trot,1.2908,0.7912,tail1,0.753,bl_upper,1,0,,0.1200,0
+lion,ultra,run,1.2908,0.7912,tail1,0.753,bl_upper,1,0,,0.1200,0
+lion,ultra,gallop,1.3153,0.8346,tail1,0.785,fl_upper,1,2,tail2:1 br_foot:1,0.0000,0
+lion,ultra,leap,1.2101,0.6554,bl_upper,0.516,bl_upper,1,15,tail2:14 fl_upper:1,0.0000,0
+lion,ultra,graze,1.2916,0.8716,tail1,0.488,fl_upper,6,3,head:1 fl_upper:1,0.1126,0
+lion,ultra,rest,1.5530,0.9822,tail1,0.765,tail1,2,1,br_toe:1,0.0000,0
+lion,ultra,rest_look,1.5530,0.9928,tail1,0.757,head,4,1,br_toe:1,0.0000,0
+lion,ultra,alert,1.0030,0.6494,fl_upper,0.822,head,1,1,bl_toe:1,0.1128,0
+lion,ultra,curious,0.8482,0.5466,tail1,0.908,head,0,1,bl_toe:1,0.1128,0
+lion,ultra,warn,0.9446,0.6047,tail1,0.894,tail1,0,2,fl_upper:1 bl_toe:1,0.1128,0
+lion,ultra,look_left,1.0786,0.6788,pelvis,0.706,head,3,2,fl_upper:1 bl_toe:1,0.1128,0
+lion,ultra,look_right_up,1.5991,0.7601,pelvis,0.589,head,0,2,fr_upper:1 bl_toe:1,0.1128,0
+lion,ultra,look_down,0.8452,0.5281,tail1,0.912,bl_upper,1,4,chest:1 fl_upper:1,0.1128,0
+lion,ultra,alert_look,1.8532,1.1434,fl_upper,0.423,head,6,2,fr_upper:1 bl_toe:1,0.1128,0
+lion,ultra,graze_walk,1.2703,0.7797,tail1,0.805,fl_upper,0,1,bl_toe:1,0.1204,0
+lion,ultra,flee_look,1.3153,0.9299,tail1,0.665,head,4,3,tail2:1 fl_upper:1,0.0000,0
+lion,ultra,stalk,1.7505,1.0376,tail1,0.187,br_lower,18,1,br_lower:1,0.1234,0
+lion,ultra,stalk_still,1.6032,0.9536,tail1,0.203,br_lower,17,1,br_lower:1,0.1152,0
+lion,ultra,chase,1.3480,0.7975,tail1,0.770,bl_upper,1,1,br_foot:1,0.0000,0
+lion,ultra,pounce,2.3801,1.1620,pelvis,0.052,bl_upper,33,4,tail1:3 fr_upper:1,0.0000,0
+lion,ultra,tear,1.8584,1.0984,tail1,0.235,br_lower,10,1,bl_toe:1,0.1072,0
+lion,bal,idle,0.5128,0.4830,br_upper,0.915,br_upper,1,0,,0.1163,0
+lion,bal,walk,0.6470,0.6142,br_upper,0.851,br_upper,1,0,,0.1255,0
+lion,bal,trot,0.7807,0.7442,br_upper,0.770,br_upper,1,0,,0.1235,0
+lion,bal,run,0.7807,0.7442,br_upper,0.770,br_upper,1,0,,0.1235,0
+lion,bal,gallop,0.7996,0.7539,fr_upper,0.793,fl_upper,1,0,,0.0000,0
+lion,bal,leap,1.4800,1.2197,fr_upper,0.553,bl_upper,1,0,,0.0000,0
+lion,bal,graze,0.9358,0.8054,spine,0.514,fl_upper,4,0,,0.1160,0
+lion,bal,rest,0.9986,0.8783,br_upper,0.766,br_upper,1,0,,0.0000,0
+lion,bal,rest_look,0.9986,0.8783,br_upper,0.766,br_upper,1,0,,0.0000,0
+lion,bal,alert,0.7731,0.7062,fl_upper,0.836,fl_upper,0,0,,0.1163,0
+lion,bal,curious,0.5784,0.5107,fl_upper,0.914,br_upper,1,0,,0.1163,0
+lion,bal,warn,0.6325,0.5390,br_upper,0.894,br_upper,1,0,,0.1163,0
+lion,bal,look_left,0.9995,0.6492,spine,0.724,fl_upper,1,0,,0.1163,0
+lion,bal,look_right_up,1.0266,0.7835,spine,0.619,fl_upper,2,0,,0.1163,0
+lion,bal,look_down,0.5128,0.4830,br_upper,0.915,br_upper,1,0,,0.1163,0
+lion,bal,alert_look,1.3011,1.1563,head,0.466,fl_upper,0,0,,0.1163,0
+lion,bal,graze_walk,0.7685,0.7322,br_upper,0.813,fl_upper,1,0,,0.1238,0
+lion,bal,flee_look,0.8812,0.8238,spine,0.685,fl_upper,1,0,,0.0000,0
+lion,bal,stalk,1.0586,1.0137,br_upper,0.218,br_foot,11,0,,0.1259,0
+lion,bal,stalk_still,0.9751,0.9179,br_upper,0.233,br_foot,11,0,,0.1181,0
+lion,bal,chase,0.8485,0.7676,fr_upper,0.797,bl_upper,1,0,,0.0000,0
+lion,bal,pounce,2.8868,2.4547,fr_upper,0.123,bl_upper,13,0,,0.0000,0
+lion,bal,tear,1.1230,1.0126,br_upper,0.252,br_lower,4,0,,0.1103,0
+cheetah,ultra,idle,0.7743,0.6598,tail1,0.964,br_upper,0,1,br_lower:1,0.0388,0
+cheetah,ultra,walk,1.2266,1.0373,tail1,0.889,br_upper,2,4,br_lower:4,0.0425,0
+cheetah,ultra,trot,1.7283,1.4528,tail2,0.775,br_upper,4,9,br_lower:9,0.0388,0
+cheetah,ultra,run,1.7283,1.4528,tail2,0.775,br_upper,4,9,br_lower:9,0.0388,0
+cheetah,ultra,gallop,1.4415,1.1860,tail1,0.834,tail1,12,14,br_lower:12 tail1:1,0.0000,0
+cheetah,ultra,leap,1.9706,1.6480,tail2,0.695,tail1,158,21,br_lower:12 tail2:5,0.0000,0
+cheetah,ultra,graze,4.1999,2.3000,chest,0.009,chest,23,56,neck:20 head:19,0.0396,0
+cheetah,ultra,rest,2.6752,2.1896,tail2,0.774,tail2,3,4,fl_toe:2 br_toe:1,0.0000,0
+cheetah,ultra,rest_look,2.6752,2.1896,tail2,0.774,tail2,3,4,fl_toe:2 br_toe:1,0.0000,0
+cheetah,ultra,alert,0.5541,0.4486,tail1,0.960,bl_upper,0,2,tail1:1 br_lower:1,0.0388,0
+cheetah,ultra,curious,0.7743,0.6598,tail1,0.962,tail2,1,1,br_lower:1,0.0388,0
+cheetah,ultra,warn,1.4738,1.1776,tail2,0.941,tail1,1,0,,0.0388,0
+cheetah,ultra,look_left,0.7743,0.6598,tail1,0.892,chest,0,1,br_lower:1,0.0388,0
+cheetah,ultra,look_right_up,1.1471,0.7406,chest,0.686,head,3,2,head:1 br_lower:1,0.0388,0
+cheetah,ultra,look_down,0.7743,0.6765,tail1,0.873,head,1,1,br_lower:1,0.0388,0
+cheetah,ultra,alert_look,1.4009,0.7027,chest,0.805,head,0,2,tail1:1 br_lower:1,0.0388,0
+cheetah,ultra,graze_walk,2.5760,1.3473,chest,0.356,fl_upper,16,14,chest:9 neck:3,0.0544,0
+cheetah,ultra,flee_look,1.4415,1.1860,tail1,0.834,tail1,13,14,br_lower:12 tail1:1,0.0000,0
+cheetah,ultra,stalk,1.9628,1.7047,br_lower,0.479,br_foot,25,7,br_lower:6 br_foot:1,0.0901,0
+cheetah,ultra,stalk_still,1.6698,1.4340,tail1,0.486,br_foot,25,10,br_lower:9 br_foot:1,0.0844,0
+cheetah,ultra,chase,1.6083,1.3195,tail1,0.856,fl_lower,8,13,br_lower:13,0.0000,0
+cheetah,ultra,pounce,2.7029,2.4263,tail2,0.522,chest,353,14,tail1:5 br_lower:4,0.0000,0
+cheetah,ultra,tear,2.7048,2.3584,br_lower,0.280,br_upper,78,4,br_lower:3 br_foot:1,0.0620,0
+cheetah,bal,idle,0.7769,0.6931,br_lower,0.965,br_upper,1,0,,0.0387,0
+cheetah,bal,walk,1.1943,1.1167,br_lower,0.894,br_upper,1,0,,0.0425,0
+cheetah,bal,trot,1.6131,1.5678,br_lower,0.786,br_upper,3,0,,0.0387,0
+cheetah,bal,run,1.6131,1.5678,br_lower,0.786,br_upper,3,0,,0.0387,0
+cheetah,bal,gallop,1.3816,1.2523,tail1,0.843,tail1,2,0,,0.0000,0
+cheetah,bal,leap,1.8028,1.6130,tail2,0.709,tail1,43,0,,0.0000,0
+cheetah,bal,graze,2.1164,1.5775,chest,0.007,chest,17,0,,0.0395,0
+cheetah,bal,rest,2.3334,2.1495,tail2,0.772,tail2,1,0,,0.0000,0
+cheetah,bal,rest_look,2.3334,2.1495,tail2,0.772,tail2,1,0,,0.0000,0
+cheetah,bal,alert,0.5666,0.4966,tail1,0.960,bl_upper,0,0,,0.0387,0
+cheetah,bal,curious,0.7800,0.6931,br_lower,0.962,tail2,1,0,,0.0387,0
+cheetah,bal,warn,1.2937,1.1763,tail2,0.941,tail1,1,0,,0.0387,0
+cheetah,bal,look_left,0.7769,0.6931,br_lower,0.901,head,1,0,,0.0387,0
+cheetah,bal,look_right_up,0.8333,0.7507,chest,0.702,head,2,0,,0.0387,0
+cheetah,bal,look_down,0.7769,0.6931,br_lower,0.875,head,1,0,,0.0387,0
+cheetah,bal,alert_look,0.7181,0.6735,neck,0.815,head,0,0,,0.0387,0
+cheetah,bal,graze_walk,1.3614,1.2721,tail2,0.334,chest,10,0,,0.0506,0
+cheetah,bal,flee_look,1.3816,1.2523,tail1,0.843,tail1,2,0,,0.0000,0
+cheetah,bal,stalk,1.9409,1.7001,br_lower,0.483,br_lower,10,0,,0.0904,0
+cheetah,bal,stalk_still,1.6306,1.4410,br_lower,0.491,br_lower,9,0,,0.0848,0
+cheetah,bal,chase,1.5160,1.4555,tail1,0.877,fr_foot,2,0,,0.0000,0
+cheetah,bal,pounce,2.5406,2.4047,tail2,0.490,chest,101,0,,0.0000,0
+cheetah,bal,tear,2.6750,2.3675,br_lower,0.293,br_lower,25,0,,0.0624,0
+grizzly,ultra,idle,1.6191,0.6384,spine,0.935,fr_lower,5,0,,0.0692,0
+grizzly,ultra,walk,2.8907,1.0010,spine,0.833,fl_foot,13,0,,0.1021,0
+grizzly,ultra,trot,4.2535,1.5239,spine,0.670,fl_foot,41,0,,0.1389,0
+grizzly,ultra,run,4.2535,1.5239,spine,0.670,fl_foot,41,0,,0.1389,0
+grizzly,ultra,gallop,2.8163,1.2698,fr_foot,0.616,fl_foot,25,0,,0.0000,0
+grizzly,ultra,leap,4.3865,2.0899,fr_foot,0.616,fl_foot,16,0,,0.0000,0
+grizzly,ultra,graze,3.8456,1.7432,fl_upper,0.006,fl_upper,91,13,fl_lower:5 spine:4,0.0820,0
+grizzly,ultra,rest,1.5403,0.7692,spine,0.845,fl_foot,19,1,spine:1,0.0000,0
+grizzly,ultra,rest_look,1.5403,0.7692,spine,0.845,fl_foot,19,1,spine:1,0.0000,0
+grizzly,ultra,alert,1.6191,0.6384,spine,0.935,fr_lower,5,0,,0.0692,0
+grizzly,ultra,curious,1.6191,0.6428,spine,0.935,fr_lower,5,0,,0.0692,0
+grizzly,ultra,warn,1.6191,0.6384,spine,0.935,fr_lower,6,0,,0.0692,0
+grizzly,ultra,look_left,1.6191,0.6384,spine,0.863,neck,5,0,,0.0692,0
+grizzly,ultra,look_right_up,1.6191,0.7769,spine,0.804,head,6,0,,0.0692,0
+grizzly,ultra,look_down,1.6191,0.6428,spine,0.932,head,5,0,,0.0692,0
+grizzly,ultra,alert_look,1.6191,0.8599,spine,0.740,head,5,0,,0.0692,0
+grizzly,ultra,graze_walk,8.4165,2.5900,spine,0.000,fl_upper,187,22,fl_lower:8 fl_upper:5,0.0610,0
+grizzly,ultra,flee_look,2.8163,1.2698,fr_foot,0.616,fl_foot,25,0,,0.0000,0
+grizzly,ultra,stalk,2.5663,0.9190,spine,0.739,fl_foot,11,0,,0.0918,0
+grizzly,ultra,stalk_still,1.7358,0.6914,spine,0.807,fl_foot,6,0,,0.0694,0
+grizzly,ultra,chase,3.0091,1.3272,fr_foot,0.616,fl_foot,26,0,,0.0000,0
+grizzly,ultra,pounce,6.9584,3.1793,fr_foot,0.411,fr_upper,91,4,tail1:4,0.0000,0
+grizzly,ultra,tear,1.7215,0.7256,spine,0.767,fr_lower,7,0,,0.1287,0
+grizzly,bal,idle,1.5349,0.7424,fl_lower,0.935,fr_lower,0,0,,0.0622,0
+grizzly,bal,walk,2.5752,1.1683,fl_lower,0.837,fr_lower,11,0,,0.0964,0
+grizzly,bal,trot,3.6835,1.6488,fl_lower,0.686,fr_lower,20,0,,0.1383,0
+grizzly,bal,run,3.6835,1.6488,fl_lower,0.686,fr_lower,20,0,,0.1383,0
+grizzly,bal,gallop,2.3079,1.1736,fl_lower,0.640,fl_foot,12,0,,0.0000,0
+grizzly,bal,leap,2.4032,1.6227,fl_lower,0.639,fl_foot,10,0,,0.0000,0
+grizzly,bal,graze,3.1573,2.1407,fl_upper,0.019,fl_lower,35,0,,0.0751,0
+grizzly,bal,rest,1.4034,1.0202,tail1,0.854,fr_lower,7,0,,0.0000,0
+grizzly,bal,rest_look,1.4034,1.0202,tail1,0.854,fr_lower,7,0,,0.0000,0
+grizzly,bal,alert,1.5349,0.7424,fl_lower,0.935,fr_lower,0,0,,0.0622,0
+grizzly,bal,curious,1.5349,0.7424,fl_lower,0.935,fr_lower,0,0,,0.0622,0
+grizzly,bal,warn,1.5349,0.7424,fl_lower,0.935,fr_lower,0,0,,0.0622,0
+grizzly,bal,look_left,1.5349,0.7424,fl_lower,0.875,neck,0,0,,0.0622,0
+grizzly,bal,look_right_up,1.5349,0.7424,fl_lower,0.824,head,0,0,,0.0622,0
+grizzly,bal,look_down,1.5349,0.7424,fl_lower,0.932,neck,0,0,,0.0622,0
+grizzly,bal,alert_look,1.5349,0.7478,fl_lower,0.769,head,0,0,,0.0622,0
+grizzly,bal,graze_walk,6.5905,2.4867,fl_lower,0.000,fl_upper,93,0,,0.0553,0
+grizzly,bal,flee_look,2.3079,1.1736,fl_lower,0.640,fl_foot,12,0,,0.0000,0
+grizzly,bal,stalk,2.2377,1.0040,fl_lower,0.750,fr_lower,9,0,,0.0827,0
+grizzly,bal,stalk_still,1.5667,0.7733,fl_lower,0.817,fl_foot,3,0,,0.0622,0
+grizzly,bal,chase,2.3079,1.1736,fl_lower,0.640,fl_foot,11,0,,0.0000,0
+grizzly,bal,pounce,3.3314,2.6053,fl_upper,0.394,fr_upper,29,0,,0.0000,0
+grizzly,bal,tear,1.5343,0.7882,fl_lower,0.781,fr_lower,4,0,,0.1027,0
+black_bear,ultra,idle,0.5409,0.3177,tail1,0.968,chest,0,0,,0.0367,0
+black_bear,ultra,walk,0.9582,0.4884,tail1,0.938,fr_upper,0,0,,0.0538,0
+black_bear,ultra,trot,1.4743,0.7280,spine,0.842,fr_upper,1,0,,0.0599,0
+black_bear,ultra,run,1.4743,0.7280,spine,0.842,fr_upper,1,0,,0.0599,0
+black_bear,ultra,gallop,1.3131,0.7279,pelvis,0.843,tail1,3,1,fr_upper:1,0.0000,0
+black_bear,ultra,leap,2.5135,1.4272,pelvis,0.700,tail1,22,0,,0.0000,0
+black_bear,ultra,graze,0.8148,0.6404,neck,0.837,chest,0,0,,0.0367,0
+black_bear,ultra,rest,1.8627,0.7684,tail1,0.850,tail1,0,7,br_toe:5 fr_upper:1,0.0000,0
+black_bear,ultra,rest_look,1.8627,0.7684,tail1,0.850,tail1,1,7,br_toe:5 fr_upper:1,0.0000,0
+black_bear,ultra,alert,0.4663,0.3116,fr_upper,0.961,neck,0,0,,0.0367,0
+black_bear,ultra,curious,0.5600,0.3261,tail1,0.968,chest,0,0,,0.0367,0
+black_bear,ultra,warn,0.7553,0.4086,tail1,0.928,neck,0,0,,0.0367,0
+black_bear,ultra,look_left,0.9236,0.8279,neck,0.793,neck,2,0,,0.0367,0
+black_bear,ultra,look_right_up,0.5409,0.4295,tail1,0.920,neck,0,0,,0.0367,0
+black_bear,ultra,look_down,0.5823,0.4900,neck,0.886,neck,0,0,,0.0367,0
+black_bear,ultra,alert_look,1.0809,0.9202,head,0.735,neck,2,0,,0.0367,0
+black_bear,ultra,graze_walk,0.9002,0.4766,tail1,0.895,chest,0,0,,0.0506,0
+black_bear,ultra,flee_look,1.3131,0.7993,pelvis,0.833,chest,5,1,fr_upper:1,0.0000,0
+black_bear,ultra,stalk,1.1694,0.5687,tail1,0.844,br_upper,0,0,,0.0589,0
+black_bear,ultra,stalk_still,0.9324,0.4891,tail1,0.846,br_upper,0,0,,0.0480,0
+black_bear,ultra,chase,1.4338,0.7863,pelvis,0.848,fl_lower,2,1,fr_upper:1,0.0000,0
+black_bear,ultra,pounce,4.6484,2.7831,spine,0.283,pelvis,132,10,tail1:5 bl_upper:2,0.0000,0
+black_bear,ultra,tear,1.4024,0.7751,tail1,0.535,br_upper,15,0,,0.0390,0
+black_bear,bal,idle,0.3506,0.3008,fr_upper,0.967,neck,0,0,,0.0362,0
+black_bear,bal,walk,0.4581,0.4286,fl_upper,0.940,fr_upper,0,0,,0.0530,0
+black_bear,bal,trot,0.7307,0.6074,fl_upper,0.848,fl_lower,1,0,,0.0593,0
+black_bear,bal,run,0.7307,0.6074,fl_upper,0.848,fl_lower,1,0,,0.0593,0
+black_bear,bal,gallop,0.6913,0.5454,fr_upper,0.843,tail1,1,0,,0.0000,0
+black_bear,bal,leap,1.2305,0.9971,bl_upper,0.700,tail1,1,0,,0.0000,0
+black_bear,bal,graze,0.7013,0.5848,spine,0.830,spine,0,0,,0.0361,0
+black_bear,bal,rest,0.8276,0.7022,tail1,0.858,br_lower,1,0,,0.0000,0
+black_bear,bal,rest_look,0.8276,0.7022,tail1,0.858,br_lower,1,0,,0.0000,0
+black_bear,bal,alert,0.3984,0.3052,neck,0.960,neck,0,0,,0.0362,0
+black_bear,bal,curious,0.3506,0.3132,fr_upper,0.965,neck,0,0,,0.0362,0
+black_bear,bal,warn,0.3820,0.3598,chest,0.930,neck,0,0,,0.0362,0
+black_bear,bal,look_left,0.9007,0.8742,neck,0.811,neck,4,0,,0.0362,0
+black_bear,bal,look_right_up,0.4767,0.4485,neck,0.921,neck,0,0,,0.0362,0
+black_bear,bal,look_down,0.5687,0.4889,neck,0.888,neck,0,0,,0.0362,0
+black_bear,bal,alert_look,1.0051,0.9689,neck,0.745,neck,2,0,,0.0362,0
+black_bear,bal,graze_walk,0.4961,0.4227,chest,0.893,neck,0,0,,0.0499,0
+black_bear,bal,flee_look,0.7859,0.7429,chest,0.829,neck,2,0,,0.0000,0
+black_bear,bal,stalk,0.5393,0.4202,bl_upper,0.844,br_lower,0,0,,0.0584,0
+black_bear,bal,stalk_still,0.4582,0.3653,fl_lower,0.847,br_lower,0,0,,0.0477,0
+black_bear,bal,chase,0.7184,0.5771,fr_upper,0.848,fl_lower,1,0,,0.0000,0
+black_bear,bal,pounce,2.0642,1.8313,fr_upper,0.257,pelvis,20,0,,0.0000,0
+black_bear,bal,tear,0.7185,0.6621,tail1,0.536,br_lower,1,0,,0.0365,0
+polar_bear,ultra,idle,0.6567,0.3228,bl_lower,0.993,tail1,0,0,,0.0152,0
+polar_bear,ultra,walk,1.4902,0.5969,tail1,0.962,fl_lower,1,0,,0.0325,0
+polar_bear,ultra,trot,2.6014,0.9826,tail1,0.848,fl_lower,1,0,,0.0499,0
+polar_bear,ultra,run,2.6014,0.9826,tail1,0.848,fl_lower,1,0,,0.0499,0
+polar_bear,ultra,gallop,2.2917,1.0987,spine,0.848,fl_lower,32,0,,0.0000,0
+polar_bear,ultra,leap,5.4054,2.5561,spine,0.759,tail1,37,0,,0.0000,0
+polar_bear,ultra,graze,3.2030,1.2420,spine,0.739,chest,1,2,head:2,0.0152,0
+polar_bear,ultra,rest,2.0390,1.2704,tail1,0.858,tail1,19,1,head:1,0.0000,0
+polar_bear,ultra,rest_look,2.0390,1.2704,tail1,0.858,tail1,19,0,,0.0000,0
+polar_bear,ultra,alert,0.6567,0.2761,bl_lower,0.981,tail1,0,0,,0.0152,0
+polar_bear,ultra,curious,0.6567,0.3228,bl_lower,0.986,tail1,0,0,,0.0152,0
+polar_bear,ultra,warn,1.4782,0.6567,spine,0.941,neck,1,0,,0.0152,0
+polar_bear,ultra,look_left,1.0792,0.4965,spine,0.927,neck,1,1,head:1,0.0152,0
+polar_bear,ultra,look_right_up,1.5172,0.5195,spine,0.885,neck,0,1,head:1,0.0152,0
+polar_bear,ultra,look_down,0.6567,0.4248,bl_lower,0.887,neck,1,3,head:3,0.0152,0
+polar_bear,ultra,alert_look,1.1652,0.5452,spine,0.866,neck,0,0,,0.0152,0
+polar_bear,ultra,graze_walk,1.9967,0.9037,spine,0.862,fr_upper,1,1,head:1,0.0347,0
+polar_bear,ultra,flee_look,2.2917,1.0987,spine,0.848,fl_lower,33,1,head:1,0.0000,0
+polar_bear,ultra,stalk,4.0044,0.9311,fl_upper,0.631,fr_upper,6,0,,0.0260,0
+polar_bear,ultra,stalk_still,3.4351,0.8293,fl_upper,0.631,fr_upper,4,0,,0.0175,0
+polar_bear,ultra,chase,2.5100,1.2156,spine,0.848,fl_lower,28,0,,0.0000,0
+polar_bear,ultra,pounce,11.7504,5.6403,spine,0.307,spine,151,21,tail2:5 fl_upper:5,0.0000,0
+polar_bear,ultra,tear,2.2544,1.1892,spine,0.695,chest,7,0,,0.0380,0
+polar_bear,bal,idle,0.2570,0.2204,neck,0.993,neck,1,0,,0.0166,0
+polar_bear,bal,walk,0.4166,0.3255,bl_upper,0.962,fr_lower,1,0,,0.0342,0
+polar_bear,bal,trot,0.7469,0.4785,bl_upper,0.848,fr_lower,1,0,,0.0469,0
+polar_bear,bal,run,0.7469,0.4785,bl_upper,0.848,fr_lower,1,0,,0.0469,0
+polar_bear,bal,gallop,0.7405,0.5678,spine,0.849,fl_lower,1,0,,0.0000,0
+polar_bear,bal,leap,1.6409,1.0430,spine,0.776,tail1,2,0,,0.0000,0
+polar_bear,bal,graze,1.8533,0.6495,neck,0.748,chest,4,0,,0.0166,0
+polar_bear,bal,rest,0.7527,0.6059,tail1,0.849,tail1,1,0,,0.0000,0
+polar_bear,bal,rest_look,0.7527,0.6059,tail1,0.849,tail1,1,0,,0.0000,0
+polar_bear,bal,alert,0.2611,0.1941,bl_lower,0.985,tail1,0,0,,0.0166,0
+polar_bear,bal,curious,0.2471,0.2216,neck,0.988,tail1,1,0,,0.0166,0
+polar_bear,bal,warn,0.4749,0.3893,neck,0.940,neck,3,0,,0.0166,0
+polar_bear,bal,look_left,0.3950,0.3535,fr_upper,0.905,neck,1,0,,0.0166,0
+polar_bear,bal,look_right_up,0.5506,0.5008,neck,0.888,neck,3,0,,0.0166,0
+polar_bear,bal,look_down,0.7374,0.4734,neck,0.887,head,1,0,,0.0166,0
+polar_bear,bal,alert_look,0.6467,0.5481,head,0.870,head,4,0,,0.0166,0
+polar_bear,bal,graze_walk,1.2942,0.4397,neck,0.867,chest,3,0,,0.0348,0
+polar_bear,bal,flee_look,0.7405,0.5678,spine,0.849,fl_lower,1,0,,0.0000,0
+polar_bear,bal,stalk,0.8705,0.6660,fl_upper,0.675,fr_upper,1,0,,0.0282,0
+polar_bear,bal,stalk_still,0.7115,0.6289,fr_upper,0.675,fr_upper,1,0,,0.0195,0
+polar_bear,bal,chase,0.8051,0.6114,spine,0.849,fl_lower,3,0,,0.0000,0
+polar_bear,bal,pounce,3.3937,2.2663,spine,0.374,spine,15,0,,0.0000,0
+polar_bear,bal,tear,1.7218,0.6844,neck,0.711,chest,6,0,,0.0344,0
+bison,ultra,idle,1.0625,0.5520,tail2,0.969,br_upper,2,23,bl_lower:6 br_lower:5,0.0326,0
+bison,ultra,walk,1.7627,0.9147,tail2,0.950,br_upper,7,24,bl_lower:6 br_lower:6,0.0584,0
+bison,ultra,trot,2.4167,1.3628,tail2,0.848,fr_foot,19,21,br_lower:6 bl_lower:5,0.0859,0
+bison,ultra,run,2.4167,1.3628,tail2,0.848,fr_foot,19,21,br_lower:6 bl_lower:5,0.0859,0
+bison,ultra,gallop,2.2655,1.5560,tail2,0.833,tail2,326,29,tail2:17 br_lower:5,0.0000,0
+bison,ultra,leap,4.0930,2.9615,fr_lower,0.693,fr_lower,488,13,tail1:7 tail2:2,0.0000,0
+bison,ultra,graze,2.4026,1.1100,neck,0.631,spine,38,37,head:8 bl_lower:6,0.0326,0
+bison,ultra,rest,3.7267,2.4621,tail2,0.871,tail2,14,26,bl_lower:7 br_lower:7,0.0000,0
+bison,ultra,rest_look,3.7267,2.4621,tail2,0.871,tail2,17,27,bl_lower:7 br_lower:7,0.0000,0
+bison,ultra,alert,0.9030,0.6912,br_lower,0.968,br_upper,45,37,tail2:18 bl_lower:6,0.0326,0
+bison,ultra,curious,1.0625,0.5553,tail2,0.968,tail2,2,24,bl_lower:6 br_lower:6,0.0326,0
+bison,ultra,warn,1.9852,1.1213,tail2,0.959,tail1,2,20,bl_lower:5 br_lower:5,0.0326,0
+bison,ultra,look_left,1.6816,0.7171,spine,0.808,head,7,26,bl_lower:6 br_lower:5,0.0326,0
+bison,ultra,look_right_up,1.6240,0.7036,spine,0.771,head,8,27,bl_lower:6 br_lower:5,0.0326,0
+bison,ultra,look_down,1.6810,0.9000,spine,0.905,head,2,23,bl_lower:6 br_lower:5,0.0326,0
+bison,ultra,alert_look,2.1982,0.8790,fr_lower,0.700,head,53,39,tail2:18 bl_lower:6,0.0326,0
+bison,ultra,graze_walk,1.6725,0.8575,neck,0.816,fl_upper,8,29,br_lower:7 bl_lower:5,0.0418,0
+bison,ultra,flee_look,2.2655,1.5560,tail2,0.833,tail2,328,32,tail2:17 br_lower:5,0.0000,0
+bison,bal,idle,0.4961,0.3695,tail2,0.972,br_upper,0,0,,0.0318,0
+bison,bal,walk,0.9557,0.6983,br_lower,0.955,br_upper,0,0,,0.0589,0
+bison,bal,trot,1.5584,1.1238,br_lower,0.848,fr_foot,2,0,,0.0863,0
+bison,bal,run,1.5584,1.1238,br_lower,0.848,fr_foot,2,0,,0.0863,0
+bison,bal,gallop,1.2622,1.2173,tail2,0.836,br_lower,67,0,,0.0000,0
+bison,bal,leap,2.6094,2.3327,tail2,0.705,br_lower,93,0,,0.0000,0
+bison,bal,graze,2.1865,1.1439,neck,0.624,spine,20,0,,0.0318,0
+bison,bal,rest,2.9415,2.2482,br_lower,0.875,tail2,1,0,,0.0000,0
+bison,bal,rest_look,2.9415,2.2482,br_lower,0.875,tail2,0,0,,0.0000,0
+bison,bal,alert,0.8329,0.7362,bl_lower,0.969,br_upper,10,0,,0.0318,0
+bison,bal,curious,0.4961,0.3760,tail2,0.968,tail2,0,0,,0.0318,0
+bison,bal,warn,1.3157,0.9780,br_lower,0.960,bl_upper,1,0,,0.0318,0
+bison,bal,look_left,1.0166,0.6156,spine,0.816,fl_upper,0,0,,0.0318,0
+bison,bal,look_right_up,0.9406,0.9003,spine,0.778,fr_upper,2,0,,0.0318,0
+bison,bal,look_down,0.8283,0.7167,spine,0.906,head,0,0,,0.0318,0
+bison,bal,alert_look,1.2538,0.8329,spine,0.712,head,11,0,,0.0318,0
+bison,bal,graze_walk,1.5352,0.7641,neck,0.813,fl_upper,4,0,,0.0425,0
+bison,bal,flee_look,1.2622,1.2173,tail2,0.836,br_lower,67,0,,0.0000,0
+boar,ultra,idle,0.7438,0.4152,br_lower,0.909,head,0,0,,0.0478,0
+boar,ultra,walk,1.2940,0.6600,br_lower,0.863,head,0,0,,0.0489,0
+boar,ultra,trot,1.8461,1.0098,fr_lower,0.760,bl_upper,10,0,,0.0478,0
+boar,ultra,run,1.8461,1.0098,fr_lower,0.760,bl_upper,10,0,,0.0478,0
+boar,ultra,gallop,2.3031,1.2239,br_lower,0.694,fl_lower,5,0,,0.0000,0
+boar,ultra,leap,3.6540,2.1812,br_lower,0.428,br_lower,33,1,pelvis:1,0.0000,0
+boar,ultra,graze,1.4906,0.5872,spine,0.785,head,3,0,,0.0478,0
+boar,ultra,rest,0.9100,0.5791,spine,0.818,bl_upper,1,1,pelvis:1,0.0000,0
+boar,ultra,rest_look,1.2928,0.7106,spine,0.700,head,1,1,pelvis:1,0.0000,0
+boar,ultra,alert,0.7438,0.4603,br_lower,0.876,head,0,0,,0.0478,0
+boar,ultra,curious,0.8518,0.4488,spine,0.895,head,0,0,,0.0478,0
+boar,ultra,warn,0.7438,0.4274,br_lower,0.896,fl_upper,2,1,pelvis:1,0.0478,0
+boar,ultra,look_left,1.9186,0.7747,spine,0.483,head,6,0,,0.0478,0
+boar,ultra,look_right_up,0.7891,0.5445,spine,0.836,head,0,0,,0.0478,0
+boar,ultra,look_down,1.5221,0.5422,spine,0.803,head,0,0,,0.0478,0
+boar,ultra,alert_look,2.8800,0.9478,spine,0.358,head,7,0,,0.0478,0
+boar,ultra,graze_walk,1.1376,0.6046,br_lower,0.821,head,2,0,,0.0499,0
+boar,ultra,flee_look,2.3031,1.2704,br_lower,0.548,head,13,0,,0.0000,0
+boar,bal,idle,0.5566,0.4265,spine,0.909,head,0,0,,0.0485,0
+boar,bal,walk,0.9588,0.6673,br_lower,0.863,head,0,0,,0.0497,0
+boar,bal,trot,1.3879,1.0436,br_lower,0.762,fl_lower,1,0,,0.0485,0
+boar,bal,run,1.3879,1.0436,br_lower,0.762,fl_lower,1,0,,0.0485,0
+boar,bal,gallop,1.8429,1.4231,br_lower,0.698,fl_lower,5,0,,0.0000,0
+boar,bal,leap,3.1875,2.3771,br_lower,0.424,br_lower,6,0,,0.0000,0
+boar,bal,graze,1.1891,0.6142,spine,0.784,head,0,0,,0.0485,0
+boar,bal,rest,0.7104,0.5383,spine,0.817,bl_upper,0,0,,0.0000,0
+boar,bal,rest_look,1.2260,0.6074,spine,0.700,head,0,0,,0.0000,0
+boar,bal,alert,0.5440,0.4265,fl_lower,0.876,head,0,0,,0.0485,0
+boar,bal,curious,0.8520,0.4203,spine,0.896,head,0,0,,0.0485,0
+boar,bal,warn,0.6511,0.4265,spine,0.897,head,0,0,,0.0485,0
+boar,bal,look_left,1.7129,0.7756,spine,0.483,head,1,0,,0.0485,0
+boar,bal,look_right_up,0.6528,0.5313,fr_lower,0.836,head,1,0,,0.0485,0
+boar,bal,look_down,1.1929,0.5632,spine,0.802,head,0,0,,0.0485,0
+boar,bal,alert_look,2.5092,0.8207,spine,0.358,head,1,0,,0.0485,0
+boar,bal,graze_walk,0.9157,0.6418,spine,0.821,head,0,0,,0.0508,0
+boar,bal,flee_look,1.8429,1.4231,br_lower,0.548,head,7,0,,0.0000,0
+pronghorn,ultra,idle,0.3570,0.0945,neck,0.996,neck,0,0,,0.0056,0
+pronghorn,ultra,walk,0.4992,0.1868,neck,0.969,fl_foot,1,0,,0.0116,0
+pronghorn,ultra,trot,0.7034,0.3101,fl_upper,0.875,fl_foot,3,0,,0.0097,0
+pronghorn,ultra,run,0.7034,0.3101,fl_upper,0.875,fl_foot,3,0,,0.0097,0
+pronghorn,ultra,gallop,1.1454,0.3358,neck,0.875,fl_foot,2,1,tail1:1,0.0000,0
+pronghorn,ultra,leap,1.3103,0.5049,pelvis,0.764,bl_upper,3,1,tail1:1,0.0000,0
+pronghorn,ultra,graze,4.4777,1.0240,neck,0.227,fr_upper,20,8,neck:4 fr_upper:3,0.0056,0
+pronghorn,ultra,rest,0.5935,0.2900,neck,0.894,bl_upper,1,14,fl_toe:5 bl_toe:4,0.0000,0
+pronghorn,ultra,rest_look,0.9903,0.3138,neck,0.894,bl_upper,1,14,fl_toe:5 bl_toe:4,0.0000,0
+pronghorn,ultra,alert,1.2175,0.2578,neck,0.957,neck,0,1,tail1:1,0.0056,0
+pronghorn,ultra,curious,0.4163,0.1364,fl_upper,0.979,tail2,1,0,,0.0056,0
+pronghorn,ultra,warn,0.3400,0.2185,neck,0.977,head,0,0,,0.0056,0
+pronghorn,ultra,look_left,0.4075,0.2417,head,0.835,neck,3,0,,0.0056,0
+pronghorn,ultra,look_right_up,2.2668,0.5634,neck,0.766,neck,0,0,,0.0056,0
+pronghorn,ultra,look_down,0.5420,0.3460,neck,0.938,head,2,0,,0.0056,0
+pronghorn,ultra,alert_look,2.6883,0.6783,neck,0.701,neck,5,1,tail1:1,0.0056,0
+pronghorn,ultra,graze_walk,2.2391,0.6506,neck,0.646,fr_upper,5,0,,0.0108,0
+pronghorn,ultra,flee_look,1.0725,0.3397,neck,0.860,neck,3,1,tail1:1,0.0000,0
+pronghorn,bal,idle,0.1909,0.1444,fl_upper,0.993,neck,0,0,,0.0053,0
+pronghorn,bal,walk,0.4487,0.2277,fl_upper,0.972,tail2,0,0,,0.0116,0
+pronghorn,bal,trot,0.8419,0.3632,fl_upper,0.937,fr_lower,1,0,,0.0092,0
+pronghorn,bal,run,0.8419,0.3632,fl_upper,0.937,fr_lower,1,0,,0.0092,0
+pronghorn,bal,gallop,0.6688,0.4165,neck,0.888,bl_upper,0,0,,0.0000,0
+pronghorn,bal,leap,0.7589,0.5843,fr_upper,0.768,bl_upper,0,0,,0.0000,0
+pronghorn,bal,graze,2.1523,1.2292,neck,0.243,fr_upper,11,0,,0.0053,0
+pronghorn,bal,rest,0.4667,0.3436,neck,0.897,bl_upper,2,0,,0.0000,0
+pronghorn,bal,rest_look,0.5370,0.4030,neck,0.897,bl_upper,1,0,,0.0000,0
+pronghorn,bal,alert,0.7527,0.4492,neck,0.949,neck,0,0,,0.0053,0
+pronghorn,bal,curious,0.4362,0.1839,fl_upper,0.979,tail2,1,0,,0.0053,0
+pronghorn,bal,warn,0.2700,0.1909,head,0.977,head,0,0,,0.0053,0
+pronghorn,bal,look_left,0.2944,0.2306,neck,0.826,neck,1,0,,0.0053,0
+pronghorn,bal,look_right_up,1.6575,0.5750,neck,0.757,neck,0,0,,0.0053,0
+pronghorn,bal,look_down,0.3953,0.3213,neck,0.938,head,1,0,,0.0053,0
+pronghorn,bal,alert_look,1.8126,1.0306,fl_upper,0.682,neck,1,0,,0.0053,0
+pronghorn,bal,graze_walk,1.3936,0.6578,neck,0.647,fr_upper,2,0,,0.0108,0
+pronghorn,bal,flee_look,0.6240,0.3959,neck,0.832,neck,1,0,,0.0000,0
+grouse,ultra,idle,0.1329,0.0851,wing_r,0.997,neck,1,0,,0.0000,0
+grouse,ultra,walk,1.2449,0.4543,r_lower,0.897,l_lower,2,0,,0.0140,0
+grouse,ultra,trot,2.4278,0.8898,r_lower,0.622,l_lower,4,0,,0.0186,0
+grouse,ultra,run,2.4278,0.8898,r_lower,0.622,l_lower,4,0,,0.0186,0
+grouse,ultra,graze,3.4200,2.1377,wing_l,0.474,wing_l,13,2,tail1:1 neck:1,0.0000,0
+grouse,ultra,rest,0.1519,0.0957,wing_r,0.996,tail1,1,0,,0.0000,0
+grouse,ultra,rest_look,0.1641,0.1260,neck,0.976,neck,1,0,,0.0000,0
+grouse,ultra,alert,0.1845,0.1426,tail1,0.968,wing_l,2,0,,0.0179,0
+grouse,ultra,curious,0.1519,0.1050,wing_r,0.990,neck,1,0,,0.0000,0
+grouse,ultra,warn,0.2959,0.1751,wing_l,0.950,neck,2,0,,0.0000,0
+grouse,ultra,look_left,0.4501,0.2436,neck,0.911,neck,1,0,,0.0000,0
+grouse,ultra,look_right_up,0.3773,0.2522,neck,0.884,neck,3,0,,0.0000,0
+grouse,ultra,look_down,0.2894,0.2192,head,0.897,head,2,0,,0.0000,0
+grouse,ultra,alert_look,0.3337,0.2902,head,0.860,neck,3,0,,0.0179,0
+grouse,ultra,graze_walk,2.2226,1.3547,wing_r,0.663,wing_l,7,1,tail1:1,0.0072,0
+grouse,ultra,flee_look,2.4012,0.7695,r_lower,0.622,l_lower,5,0,,0.0000,0
+grouse,ultra,swim,2.5487,0.9288,r_lower,0.490,l_lower,5,0,,0.0000,0
+grouse,ultra,fly_top,0.7844,0.6896,r_lower,0.653,l_lower,22,18,l_foot:7 r_foot:6,0.0000,0
+grouse,ultra,fly_down,0.7844,0.6896,r_lower,0.653,l_lower,22,18,l_foot:7 r_foot:6,0.0000,0
+grouse,ultra,fly_bottom,0.7844,0.6896,r_lower,0.653,l_lower,22,18,l_foot:7 r_foot:6,0.0000,0
+grouse,ultra,fly_up,0.7844,0.6896,r_lower,0.653,l_lower,22,18,l_foot:7 r_foot:6,0.0000,0
+grouse,ultra,takeoff,0.8132,0.5377,r_lower,0.813,wing_r,12,17,r_foot:7 r_lower:6,0.0000,0
+grouse,ultra,glide,0.8173,0.7147,r_lower,0.658,l_foot,28,20,l_foot:8 r_foot:6,0.0000,0
+grouse,ultra,landing,0.7512,0.7385,tail2,0.908,wing_l,1,4,tail1:2 tail2:2,0.0000,0
+grouse,ultra,drum,1.4954,0.8907,l_lower,0.223,l_lower,24,17,l_foot:10 tail1:2,0.0000,0
+grouse,ultra,dead_fall,0.5462,0.4279,wing_r,0.692,neck,4,0,,0.0000,0
+grouse,ultra,dead_down,1.0695,0.7139,tail1,0.633,neck,5,0,,0.0000,0
+grouse,bal,idle,0.1089,0.0909,tail1,0.997,chest,0,0,,0.0000,0
+grouse,bal,walk,1.0071,0.6283,r_lower,0.895,r_lower,0,0,,0.0121,0
+grouse,bal,trot,2.0058,1.2307,r_lower,0.614,r_lower,2,0,,0.0166,0
+grouse,bal,run,2.0058,1.2307,r_lower,0.614,r_lower,2,0,,0.0166,0
+grouse,bal,graze,2.6553,2.4250,tail1,0.509,wing_l,12,0,,0.0000,0
+grouse,bal,rest,0.1089,0.0930,tail1,0.995,tail1,0,0,,0.0000,0
+grouse,bal,rest_look,0.1097,0.1089,head,0.977,neck,0,0,,0.0000,0
+grouse,bal,alert,0.1456,0.1257,tail1,0.968,tail1,0,0,,0.0178,0
+grouse,bal,curious,0.1089,0.0930,tail1,0.990,neck,0,0,,0.0000,0
+grouse,bal,warn,0.2124,0.1736,l_lower,0.951,neck,0,0,,0.0000,0
+grouse,bal,look_left,0.2014,0.1925,head,0.916,neck,0,0,,0.0000,0
+grouse,bal,look_right_up,0.2352,0.2134,head,0.884,neck,0,0,,0.0000,0
+grouse,bal,look_down,0.2593,0.1604,head,0.897,neck,0,0,,0.0000,0
+grouse,bal,alert_look,0.2723,0.2207,head,0.861,neck,0,0,,0.0178,0
+grouse,bal,graze_walk,1.7779,1.5535,tail1,0.686,l_lower,5,0,,0.0056,0
+grouse,bal,flee_look,1.9881,1.2262,r_lower,0.605,r_lower,2,0,,0.0000,0
+grouse,bal,swim,2.1084,1.2907,r_lower,0.479,r_lower,2,0,,0.0000,0
+grouse,bal,fly_top,0.9125,0.8293,l_lower,0.639,tail1,11,0,,0.0000,0
+grouse,bal,fly_down,0.9125,0.8293,l_lower,0.639,tail1,11,0,,0.0000,0
+grouse,bal,fly_bottom,0.9125,0.8293,l_lower,0.639,tail1,11,0,,0.0000,0
+grouse,bal,fly_up,0.9125,0.8293,l_lower,0.639,tail1,11,0,,0.0000,0
+grouse,bal,takeoff,0.7740,0.6729,l_lower,0.807,wing_r,10,0,,0.0000,0
+grouse,bal,glide,0.9138,0.8112,l_lower,0.661,r_foot,15,0,,0.0000,0
+grouse,bal,landing,0.7492,0.7483,tail2,0.917,l_lower,0,0,,0.0000,0
+grouse,bal,drum,1.3958,1.3213,tail1,0.160,tail1,12,0,,0.0000,0
+grouse,bal,dead_fall,0.3707,0.3529,l_lower,0.709,neck,0,0,,0.0000,0
+grouse,bal,dead_down,0.8379,0.8211,tail1,0.656,chest,0,0,,0.0000,0
+duck,ultra,idle,0.1178,0.0723,tail1,0.996,neck,0,0,,0.0000,0
+duck,ultra,walk,0.5033,0.2502,r_lower,0.908,l_lower,0,1,r_lower:1,0.0282,0
+duck,ultra,trot,1.3189,0.4705,r_lower,0.664,l_lower,1,1,r_lower:1,0.0398,0
+duck,ultra,run,1.3189,0.4705,r_lower,0.664,l_lower,1,1,r_lower:1,0.0398,0
+duck,ultra,graze,0.7808,0.5696,tail2,0.614,wing_l,3,0,,0.0028,0
+duck,ultra,rest,0.1856,0.0934,tail1,0.992,wing_r,0,1,r_lower:1,0.0000,0
+duck,ultra,rest_look,0.3420,0.1516,neck,0.953,neck,0,1,r_lower:1,0.0000,0
+duck,ultra,alert,0.2258,0.1850,tail2,0.962,chest,0,0,,0.0000,0
+duck,ultra,curious,0.2038,0.1070,tail1,0.985,tail2,0,1,r_lower:1,0.0000,0
+duck,ultra,warn,0.3011,0.1457,neck,0.970,head,0,1,r_lower:1,0.0000,0
+duck,ultra,look_left,0.2993,0.2176,neck,0.894,neck,0,0,,0.0000,0
+duck,ultra,look_right_up,0.5032,0.3364,neck,0.816,neck,1,0,,0.0000,0
+duck,ultra,look_down,0.4192,0.1842,neck,0.949,head,0,0,,0.0000,0
+duck,ultra,alert_look,0.7131,0.3470,neck,0.777,neck,0,0,,0.0000,0
+duck,ultra,graze_walk,0.6149,0.3718,tail2,0.772,l_lower,0,0,,0.0283,0
+duck,ultra,flee_look,1.3100,0.4634,r_lower,0.653,l_lower,1,0,,0.0000,0
+duck,ultra,swim,1.6130,0.5749,r_lower,0.541,l_lower,1,1,r_lower:1,0.0000,0
+duck,ultra,fly_top,0.7918,0.6126,wing_r,0.639,tail2,7,1,l_lower:1,0.0000,0
+duck,ultra,fly_down,0.7918,0.6126,wing_r,0.639,tail2,7,1,l_lower:1,0.0000,0
+duck,ultra,fly_bottom,0.7918,0.6126,wing_r,0.639,tail2,7,1,l_lower:1,0.0000,0
+duck,ultra,fly_up,0.7918,0.6126,wing_r,0.639,tail2,7,1,l_lower:1,0.0000,0
+duck,ultra,takeoff,0.6264,0.5388,r_lower,0.803,wing_l,3,2,tail2:2,0.0000,0
+duck,ultra,glide,0.7843,0.6126,neck,0.658,r_lower,7,1,l_lower:1,0.0000,0
+duck,ultra,landing,0.7458,0.7016,tail2,0.905,head,1,2,tail2:2,0.0000,0
+duck,ultra,dead_fall,0.5330,0.3983,wing_r,0.749,neck,2,1,r_lower:1,0.0000,0
+duck,ultra,dead_down,0.8454,0.5413,r_lower,0.700,neck,4,0,,0.0000,0
+duck,bal,idle,0.0960,0.0661,tail1,0.996,neck,0,0,,0.0000,0
+duck,bal,walk,0.3793,0.2862,r_lower,0.903,l_lower,0,0,,0.0242,0
+duck,bal,trot,1.0164,0.5292,r_lower,0.645,l_lower,1,0,,0.0351,0
+duck,bal,run,1.0164,0.5292,r_lower,0.645,l_lower,1,0,,0.0351,0
+duck,bal,graze,0.6625,0.5497,wing_r,0.614,l_lower,2,0,,0.0031,0
+duck,bal,rest,0.1511,0.1043,tail1,0.992,wing_l,0,0,,0.0000,0
+duck,bal,rest_look,0.2145,0.1818,neck,0.954,neck,0,0,,0.0000,0
+duck,bal,alert,0.1720,0.1658,l_lower,0.962,neck,0,0,,0.0000,0
+duck,bal,curious,0.1648,0.1082,tail1,0.985,wing_l,0,0,,0.0000,0
+duck,bal,warn,0.2214,0.1638,neck,0.970,head,0,0,,0.0000,0
+duck,bal,look_left,0.2496,0.2121,neck,0.896,neck,0,0,,0.0000,0
+duck,bal,look_right_up,0.3618,0.3238,neck,0.819,neck,0,0,,0.0000,0
+duck,bal,look_down,0.3182,0.2408,neck,0.949,head,0,0,,0.0000,0
+duck,bal,alert_look,0.4519,0.3849,neck,0.781,neck,0,0,,0.0000,0
+duck,bal,graze_walk,0.6287,0.5214,wing_r,0.768,l_lower,1,0,,0.0248,0
+duck,bal,flee_look,1.0252,0.5945,r_lower,0.641,l_lower,1,0,,0.0000,0
+duck,bal,swim,1.1436,0.6684,r_lower,0.519,l_lower,1,0,,0.0000,0
+duck,bal,fly_top,0.7403,0.7075,wing_l,0.640,r_lower,3,0,,0.0000,0
+duck,bal,fly_down,0.7403,0.7075,wing_l,0.640,r_lower,3,0,,0.0000,0
+duck,bal,fly_bottom,0.7403,0.7075,wing_l,0.640,r_lower,3,0,,0.0000,0
+duck,bal,fly_up,0.7403,0.7075,wing_l,0.640,r_lower,3,0,,0.0000,0
+duck,bal,takeoff,0.6596,0.6332,wing_l,0.800,wing_l,1,0,,0.0000,0
+duck,bal,glide,0.7208,0.6992,l_lower,0.659,r_foot,4,0,,0.0000,0
+duck,bal,landing,0.7429,0.6952,tail2,0.905,head,0,0,,0.0000,0
+duck,bal,dead_fall,0.4410,0.4208,wing_r,0.754,neck,0,0,,0.0000,0
+duck,bal,dead_down,0.6978,0.6023,r_lower,0.705,neck,0,0,,0.0000,0

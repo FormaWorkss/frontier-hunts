@@ -1,0 +1,11 @@
+.gradle/
+build/
+run/
+build-release/
+*.log
+hs_err_pid*
+.idea/
+.vscode/
+*.iml
+__pycache__/
+*.pyc

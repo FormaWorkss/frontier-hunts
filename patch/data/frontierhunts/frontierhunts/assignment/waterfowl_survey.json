@@ -1,0 +1,13 @@
+{
+  "title": "Waterfowl count",
+  "briefing": "The marsh count needs birds in hand. Put out decoys on open water, use the Duck Call, and take three mallards over the spread.",
+  "objective": "harvest",
+  "target": 3,
+  "minimum_mass": 0,
+  "chest_only": false,
+  "duration": 0,
+  "tokens": 50,
+  "experience": 70,
+  "cooldown": 9000,
+  "hunt": "duck:spread"
+}

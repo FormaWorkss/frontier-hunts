@@ -1,0 +1,19 @@
+{
+ "type": "frontierhunts:bench_shapeless",
+ "category": "equipment",
+ "ingredients": [
+  {
+   "item": "frontierhunts:jerry_can"
+  },
+  {
+   "item": "minecraft:lava_bucket"
+  }
+ ],
+ "result": {
+  "id": "frontierhunts:jerry_can",
+  "count": 1,
+  "components": {
+   "frontierhunts:fuel_liters": 10.0
+  }
+ }
+}

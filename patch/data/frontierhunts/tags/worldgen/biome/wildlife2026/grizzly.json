@@ -1,0 +1,31 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_taiga",
+    "minecraft:meadow",
+    {
+      "id": "frontierhunts:alpine_meadow",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:larch_highlands",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:pine_highlands",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:riverwood",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:misty_falls",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:fireweed_burn",
+      "required": false
+    }
+  ]
+}

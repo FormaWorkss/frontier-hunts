@@ -1,0 +1,72 @@
+{
+  "weather_blizzard_loop": {
+    "sounds": [
+      {
+        "name": "frontierhunts:weather/blizzard_loop",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitles.frontierhunts.weather_blizzard"
+  },
+  "weather_rain_loop": {
+    "sounds": [
+      {
+        "name": "frontierhunts:weather/rain_loop",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitles.frontierhunts.weather_downpour"
+  },
+  "weather_dust_loop": {
+    "sounds": [
+      {
+        "name": "frontierhunts:weather/dust_loop",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitles.frontierhunts.weather_dust"
+  },
+  "weather_wind_loop": {
+    "sounds": [
+      {
+        "name": "frontierhunts:weather/wind_loop",
+        "stream": true
+      }
+    ],
+    "subtitle": "subtitles.frontierhunts.weather_gale"
+  },
+  "weather_gust_howl": {
+    "sounds": [
+      {
+        "name": "frontierhunts:weather/gust_howl_0",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "frontierhunts:weather/gust_howl_1",
+        "attenuation_distance": 48
+      },
+      {
+        "name": "frontierhunts:weather/gust_howl_2",
+        "attenuation_distance": 48
+      }
+    ],
+    "subtitle": "subtitles.frontierhunts.weather_howl"
+  },
+  "weather_gust_rush": {
+    "sounds": [
+      {
+        "name": "frontierhunts:weather/gust_rush_0",
+        "attenuation_distance": 40
+      },
+      {
+        "name": "frontierhunts:weather/gust_rush_1",
+        "attenuation_distance": 40
+      },
+      {
+        "name": "frontierhunts:weather/gust_rush_2",
+        "attenuation_distance": 40
+      }
+    ],
+    "subtitle": "subtitles.frontierhunts.weather_gust"
+  }
+}

@@ -1,0 +1,11 @@
+{
+ "dimensions": {
+  "minecraft:overworld": {
+   "generator": {
+    "snow_country": true,
+    "snow_biome": "frontierhunts:snowy_foothills",
+    "snow_version": 2
+   }
+  }
+ }
+}

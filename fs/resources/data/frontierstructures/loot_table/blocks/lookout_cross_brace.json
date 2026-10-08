@@ -1,0 +1,1 @@
+{"type":"minecraft:block","pools":[{"rolls":1,"entries":[{"type":"minecraft:item","name":"frontierstructures:lookout_cross_brace"}],"conditions":[{"condition":"minecraft:survives_explosion"}]}]}

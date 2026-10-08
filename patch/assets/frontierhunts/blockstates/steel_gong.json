@@ -1,0 +1,34 @@
+{
+ "variants": {
+  "facing=north,swing=false": {
+   "model": "frontierhunts:block/steel_gong"
+  },
+  "facing=east,swing=false": {
+   "model": "frontierhunts:block/steel_gong",
+   "y": 90
+  },
+  "facing=south,swing=false": {
+   "model": "frontierhunts:block/steel_gong",
+   "y": 180
+  },
+  "facing=west,swing=false": {
+   "model": "frontierhunts:block/steel_gong",
+   "y": 270
+  },
+  "facing=north,swing=true": {
+   "model": "frontierhunts:block/steel_gong_swing"
+  },
+  "facing=east,swing=true": {
+   "model": "frontierhunts:block/steel_gong_swing",
+   "y": 90
+  },
+  "facing=south,swing=true": {
+   "model": "frontierhunts:block/steel_gong_swing",
+   "y": 180
+  },
+  "facing=west,swing=true": {
+   "model": "frontierhunts:block/steel_gong_swing",
+   "y": 270
+  }
+ }
+}

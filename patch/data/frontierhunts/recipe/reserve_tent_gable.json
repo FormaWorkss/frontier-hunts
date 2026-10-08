@@ -1,0 +1,22 @@
+{
+  "type": "frontierhunts:bench_shaped",
+  "group": "frontierhunts:reserve_building",
+  "category": "building",
+  "pattern": [
+    " C ",
+    "C C",
+    " S "
+  ],
+  "key": {
+    "C": {
+      "item": "frontierhunts:canvas_wall"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:tent_gable",
+    "count": 6
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "block.frontierhunts.whitetail_skull": "Whitetail Skull",
+  "block.frontierhunts.elk_skull": "Elk Skull",
+  "block.frontierhunts.moose_skull": "Moose Skull",
+  "block.frontierhunts.bison_skull": "Bison Skull",
+  "block.frontierhunts.scattered_bones": "Scattered Bones",
+  "block.frontierhunts.shed_antler": "Shed Antler",
+  "entity.frontierhunts.kill_carcass": "Carcass",
+  "subtitles.frontierhunts.wolf_howl": "Wolf howls",
+  "subtitles.frontierhunts.wolf_chorus": "Wolf pack howls"
+}

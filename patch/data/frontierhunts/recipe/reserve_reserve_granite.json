@@ -1,0 +1,13 @@
+{
+  "type": "frontierhunts:bench_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:granite"
+    }
+  ],
+  "result": {
+    "id": "frontierhunts:reserve_granite",
+    "count": 1
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "type": "frontierhunts:camp_cooking",
+  "group": "camp_cooking",
+  "ingredients": [
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    {
+      "item": "minecraft:wheat"
+    },
+    [
+      {
+        "item": "frontierhunts:game_fat"
+      },
+      {
+        "item": "frontierhunts:tallow"
+      }
+    ],
+    {
+      "item": "frontierhunts:salt"
+    }
+  ],
+  "result": {
+    "id": "frontierhunts:camp_bannock",
+    "count": 4
+  },
+  "cookingtime": 400
+}

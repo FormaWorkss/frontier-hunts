@@ -1,0 +1,12 @@
+{
+  "title": "A measured shot",
+  "briefing": "Patience makes the difference. Recover a whitetail you dropped with a heart or lung shot - bow or rifle. A poor placement does not satisfy this assignment.",
+  "objective": "harvest",
+  "target": 1,
+  "minimum_mass": 0,
+  "chest_only": true,
+  "duration": 0,
+  "tokens": 60,
+  "experience": 80,
+  "cooldown": 6000
+}

@@ -1,0 +1,65 @@
+{
+ "frontier_workbench": {
+  "authored": 162,
+  "faces": 847,
+  "culled": 293,
+  "left": 71,
+  "right": 119,
+  "inventory": 190,
+  "atlas": 256,
+  "bounds": [
+   [
+    0.25,
+    0.0,
+    0.0
+   ],
+   [
+    31.75,
+    26.0,
+    16.0
+   ]
+  ]
+ },
+ "gunsmith_bench": {
+  "authored": 151,
+  "faces": 756,
+  "culled": 324,
+  "left": 93,
+  "right": 81,
+  "inventory": 174,
+  "atlas": 256,
+  "bounds": [
+   [
+    0.25,
+    0.0,
+    2.0
+   ],
+   [
+    31.75,
+    26.0,
+    16.0
+   ]
+  ]
+ },
+ "reloading_bench": {
+  "authored": 213,
+  "faces": 1065,
+  "culled": 357,
+  "left": 110,
+  "right": 127,
+  "inventory": 237,
+  "atlas": 256,
+  "bounds": [
+   [
+    0.25,
+    0.0,
+    0.35740000000000016
+   ],
+   [
+    31.75,
+    26.0,
+    16.0
+   ]
+  ]
+ }
+}

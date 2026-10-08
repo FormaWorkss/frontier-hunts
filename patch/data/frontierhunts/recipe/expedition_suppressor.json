@@ -1,0 +1,24 @@
+{
+  "type": "frontierhunts:bench_shaped",
+  "category": "equipment",
+  "pattern": [
+    "III",
+    "NWN",
+    "III"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "N": {
+      "item": "minecraft:iron_nugget"
+    },
+    "W": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:suppressor",
+    "count": 1
+  }
+}

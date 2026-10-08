@@ -1,0 +1,9 @@
+fhqa persist nocommit
+fhqa persist join
+#sleep 3
+fhqa persist licence
+fhqa persist permit
+fhqa persist snapshot
+fhqa persist leave
+fhqa persist crash
+#sleep 8

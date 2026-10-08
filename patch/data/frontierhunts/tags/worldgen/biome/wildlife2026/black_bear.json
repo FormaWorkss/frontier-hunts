@@ -1,0 +1,30 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_forest",
+    {
+      "id": "frontierhunts:maple_woodland",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:autumn_maple_hollow",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:birch_grove",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:mosswood",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:cedar_valley",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:golden_aspen_grove",
+      "required": false
+    }
+  ]
+}

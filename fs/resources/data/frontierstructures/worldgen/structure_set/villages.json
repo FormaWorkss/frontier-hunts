@@ -1,0 +1,27 @@
+{
+  "structures": [
+    {
+      "structure": "frontierstructures:village_outpost",
+      "weight": 1
+    },
+    {
+      "structure": "frontierstructures:village_lakeside",
+      "weight": 1
+    },
+    {
+      "structure": "frontierstructures:village_crowsnest",
+      "weight": 1
+    },
+    {
+      "structure": "frontierstructures:village_junction",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 64,
+    "separation": 28,
+    "frequency": 0.55,
+    "salt": 78236411
+  }
+}

@@ -1,0 +1,34 @@
+{
+ "parent": "minecraft:recipes/root",
+ "criteria": {
+  "has_the_recipe": {
+   "trigger": "minecraft:recipe_unlocked",
+   "conditions": {
+    "recipe": "frontierhunts:jerry_can_from_lava"
+   }
+  },
+  "has_material_0": {
+   "trigger": "minecraft:inventory_changed",
+   "conditions": {
+    "items": [
+     {
+      "items": [
+       "frontierhunts:jerry_can"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "requirements": [
+  [
+   "has_material_0",
+   "has_the_recipe"
+  ]
+ ],
+ "rewards": {
+  "recipes": [
+   "frontierhunts:jerry_can_from_lava"
+  ]
+ }
+}

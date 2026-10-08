@@ -1,0 +1,19 @@
+{
+ "parent": "frontierhunts:legend/root",
+ "display": {
+  "icon": {
+   "id": "frontierhunts:whitetail_trophy"
+  },
+  "title": "The Old Ridge Buck",
+  "description": "Take the legend of the ridges, fair and tagged",
+  "frame": "challenge",
+  "show_toast": true,
+  "announce_to_chat": true,
+  "hidden": false
+ },
+ "criteria": {
+  "taken": {
+   "trigger": "minecraft:impossible"
+  }
+ }
+}

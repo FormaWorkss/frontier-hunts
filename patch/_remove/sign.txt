@@ -1,0 +1,4 @@
+# [sign] mock scrape kit removed (old stacks are aliased to frontierhunts:bait in ExpeditionContent)
+assets/frontierhunts/models/item/mock_scrape_kit.json
+assets/frontierhunts/textures/item/mock_scrape_kit.png
+data/frontierhunts/recipe/mock_scrape_kit.json

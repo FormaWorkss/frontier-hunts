@@ -1,0 +1,11 @@
+{
+  "type": "frontierhunts:bench_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {"tag": "minecraft:planks"},
+    {"item": "minecraft:stick"},
+    {"item": "minecraft:string"},
+    {"item": "minecraft:gold_nugget"}
+  ],
+  "result": {"id": "frontierhunts:duck_call", "count": 1}
+}

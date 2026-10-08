@@ -1,0 +1,19 @@
+{
+ "display": {
+  "icon": {
+   "id": "frontierhunts:whitetail_trophy"
+  },
+  "title": "Legends of the Reserve",
+  "description": "Three animals nobody has taken. The end of the Hunter's Path.",
+  "frame": "task",
+  "show_toast": false,
+  "announce_to_chat": false,
+  "hidden": false,
+  "background": "minecraft:textures/block/spruce_planks.png"
+ },
+ "criteria": {
+  "start": {
+   "trigger": "minecraft:tick"
+  }
+ }
+}

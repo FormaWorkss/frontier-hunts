@@ -1,0 +1,20 @@
+{
+  "type": "frontierhunts:clothing_table",
+  "group": "fur_layers",
+  "category": "misc",
+  "pattern": [
+    "BH"
+  ],
+  "key": {
+    "B": {
+      "item": "frontierhunts:bear_fur"
+    },
+    "H": {
+      "item": "frontierhunts:tanned_hide"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:fur_lining",
+    "count": 1
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "entries": {
+    "frontierhunts:venison_stew": {
+      "protein": 18,
+      "fat": 8,
+      "energy": 20,
+      "source": "game",
+      "shelf_days": 2
+    },
+    "frontierhunts:venison_chili": {
+      "protein": 18,
+      "fat": 9,
+      "energy": 22,
+      "source": "game",
+      "shelf_days": 2
+    },
+    "frontierhunts:bear_pot_roast": {
+      "protein": 20,
+      "fat": 24,
+      "energy": 14,
+      "source": "game",
+      "shelf_days": 4
+    },
+    "frontierhunts:backstrap_mushrooms": {
+      "protein": 26,
+      "fat": 8,
+      "energy": 12,
+      "source": "game",
+      "shelf_days": 4
+    },
+    "frontierhunts:fowl_berry_roast": {
+      "protein": 16,
+      "fat": 6,
+      "energy": 14,
+      "source": "game",
+      "shelf_days": 4
+    },
+    "frontierhunts:fowl_wild_rice": {
+      "protein": 14,
+      "fat": 5,
+      "energy": 24,
+      "source": "game",
+      "shelf_days": 2
+    },
+    "frontierhunts:heart_liver_fry": {
+      "protein": 20,
+      "fat": 10,
+      "energy": 10,
+      "source": "game",
+      "shelf_days": 3
+    },
+    "frontierhunts:hunters_breakfast": {
+      "protein": 20,
+      "fat": 16,
+      "energy": 26,
+      "source": "game",
+      "shelf_days": 3
+    },
+    "frontierhunts:fish_chowder": {
+      "protein": 14,
+      "fat": 10,
+      "energy": 18,
+      "source": "fish",
+      "shelf_days": 1.5
+    },
+    "frontierhunts:camp_bannock": {
+      "protein": 3,
+      "fat": 8,
+      "energy": 24,
+      "source": "crop",
+      "shelf_days": 6
+    },
+    "frontierhunts:honey_pemmican": {
+      "protein": 14,
+      "fat": 20,
+      "energy": 22,
+      "source": "game"
+    },
+    "frontierhunts:smoked_game_sausage": {
+      "protein": 10,
+      "fat": 10,
+      "energy": 6,
+      "source": "game",
+      "shelf_days": 15
+    },
+    "frontierhunts:raw_game_sausage": {
+      "protein": 8,
+      "fat": 8,
+      "energy": 3,
+      "source": "game",
+      "shelf_days": 2,
+      "raw": true
+    }
+  }
+}

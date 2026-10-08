@@ -1,0 +1,80 @@
+{
+ "guns.water_hit_small": {
+  "sounds": [
+   {
+    "name": "minecraft:entity.fishing_bobber.splash",
+    "type": "event",
+    "pitch": 1.45,
+    "volume": 0.8,
+    "attenuation_distance": 32
+   },
+   {
+    "name": "minecraft:entity.fishing_bobber.splash",
+    "type": "event",
+    "pitch": 1.65,
+    "volume": 0.75,
+    "attenuation_distance": 32
+   },
+   {
+    "name": "minecraft:entity.generic.splash",
+    "type": "event",
+    "pitch": 1.75,
+    "volume": 0.45,
+    "attenuation_distance": 32
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.guns.water_hit"
+ },
+ "guns.water_hit_large": {
+  "sounds": [
+   {
+    "name": "minecraft:entity.generic.splash",
+    "type": "event",
+    "pitch": 1.25,
+    "volume": 0.75,
+    "attenuation_distance": 48
+   },
+   {
+    "name": "minecraft:entity.generic.splash",
+    "type": "event",
+    "pitch": 1.4,
+    "volume": 0.7,
+    "attenuation_distance": 48
+   },
+   {
+    "name": "minecraft:entity.fishing_bobber.splash",
+    "type": "event",
+    "pitch": 1.05,
+    "volume": 1.0,
+    "attenuation_distance": 48
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.guns.water_hit"
+ },
+ "guns.water_hit_shot": {
+  "sounds": [
+   {
+    "name": "minecraft:entity.fishing_bobber.splash",
+    "type": "event",
+    "pitch": 1.8,
+    "volume": 0.6,
+    "attenuation_distance": 40
+   },
+   {
+    "name": "minecraft:entity.fishing_bobber.splash",
+    "type": "event",
+    "pitch": 1.95,
+    "volume": 0.55,
+    "attenuation_distance": 40
+   },
+   {
+    "name": "minecraft:entity.generic.splash",
+    "type": "event",
+    "pitch": 1.95,
+    "volume": 0.35,
+    "attenuation_distance": 40
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.guns.water_hit"
+ }
+}

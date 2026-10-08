@@ -1,0 +1,24 @@
+{
+  "type": "frontierhunts:bench_shaped",
+  "category": "misc",
+  "pattern": [
+    "SRS",
+    "S S",
+    "LLL"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:stick"
+    },
+    "R": {
+      "item": "minecraft:string"
+    },
+    "L": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:tanning_rack",
+    "count": 1
+  }
+}

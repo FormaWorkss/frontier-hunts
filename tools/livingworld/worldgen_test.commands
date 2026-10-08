@@ -1,0 +1,155 @@
+# [livingworld] world-generation test (tools/livingworld/server_test.sh <jar> tools/livingworld/worldgen_test.commands <dir>)
+# console source sits at world spawn; "~" = spawn height
+fhqa registry
+frontierhunts sites
+frontierhunts sites spawn
+#sleep 2
+locate structure frontierhunts:hunting_camp
+locate structure frontierhunts:abandoned_camp
+locate structure frontierhunts:elk_camp
+locate structure frontierhunts:outfitter_post
+locate structure frontierhunts:ranger_station
+locate structure frontierhunts:trapper_cabin
+locate structure frontierhunts:meat_shed
+locate structure frontierhunts:trailhead
+locate structure frontierhunts:stand_line
+locate structure frontierhunts:ground_blind_plot
+locate structure frontierhunts:duck_blind
+locate structure frontierhunts:glassing_point
+locate structure frontierhunts:fence_line
+locate structure frontierhunts:antler_cache
+#sleep 3
+# naturally generate a block of new chunks (sites appear as in normal play / Distant Horizons)
+forceload add -128 -128 127 127
+#sleep 150
+fhqa count minecraft:overworld
+forceload add 1000 1000
+#sleep 6
+place structure frontierhunts:hunting_camp 1000 ~ 1000
+#sleep 3
+forceload remove 1000 1000
+#sleep 4
+forceload add 1200 1000
+#sleep 6
+place structure frontierhunts:abandoned_camp 1200 ~ 1000
+#sleep 3
+forceload remove 1200 1000
+#sleep 4
+forceload add 1400 1000
+#sleep 6
+place structure frontierhunts:elk_camp 1400 ~ 1000
+#sleep 3
+forceload remove 1400 1000
+#sleep 4
+forceload add 1600 1000
+#sleep 6
+place structure frontierhunts:outfitter_post 1600 ~ 1000
+#sleep 3
+forceload remove 1600 1000
+#sleep 4
+forceload add 1800 1000
+#sleep 6
+place structure frontierhunts:ranger_station 1800 ~ 1000
+#sleep 3
+forceload remove 1800 1000
+#sleep 4
+forceload add 1000 1200
+#sleep 6
+place structure frontierhunts:trapper_cabin 1000 ~ 1200
+#sleep 3
+forceload remove 1000 1200
+#sleep 4
+forceload add 1200 1200
+#sleep 6
+place structure frontierhunts:meat_shed 1200 ~ 1200
+#sleep 3
+forceload remove 1200 1200
+#sleep 4
+forceload add 1400 1200
+#sleep 6
+place structure frontierhunts:trailhead 1400 ~ 1200
+#sleep 3
+forceload remove 1400 1200
+#sleep 4
+forceload add 1600 1200
+#sleep 6
+place structure frontierhunts:stand_line 1600 ~ 1200
+#sleep 3
+forceload remove 1600 1200
+#sleep 4
+forceload add 1800 1200
+#sleep 6
+place structure frontierhunts:ground_blind_plot 1800 ~ 1200
+#sleep 3
+forceload remove 1800 1200
+#sleep 4
+forceload add 1000 1400
+#sleep 6
+place structure frontierhunts:duck_blind 1000 ~ 1400
+#sleep 3
+forceload remove 1000 1400
+#sleep 4
+forceload add 1200 1400
+#sleep 6
+place structure frontierhunts:glassing_point 1200 ~ 1400
+#sleep 3
+forceload remove 1200 1400
+#sleep 4
+forceload add 1400 1400
+#sleep 6
+place structure frontierhunts:fence_line 1400 ~ 1400
+#sleep 3
+forceload remove 1400 1400
+#sleep 4
+forceload add 1600 1400
+#sleep 6
+place structure frontierhunts:antler_cache 1600 ~ 1400
+#sleep 3
+forceload remove 1600 1400
+#sleep 4
+fhqa player tp @s -1000 150 -1000
+fhqa player frontierhunts sites place hunting_camp
+#sleep 4
+fhqa player tp @s -1120 150 -1000
+fhqa player frontierhunts sites place abandoned_camp
+#sleep 4
+fhqa player tp @s -1240 150 -1000
+fhqa player frontierhunts sites place elk_camp
+#sleep 4
+fhqa player tp @s -1360 150 -1000
+fhqa player frontierhunts sites place outfitter_post
+#sleep 4
+fhqa player tp @s -1480 150 -1000
+fhqa player frontierhunts sites place ranger_station
+#sleep 4
+fhqa player tp @s -1000 150 -1120
+fhqa player frontierhunts sites place trapper_cabin
+#sleep 4
+fhqa player tp @s -1120 150 -1120
+fhqa player frontierhunts sites place meat_shed
+#sleep 4
+fhqa player tp @s -1240 150 -1120
+fhqa player frontierhunts sites place trailhead
+#sleep 4
+fhqa player tp @s -1360 150 -1120
+fhqa player frontierhunts sites place stand_line
+#sleep 4
+fhqa player tp @s -1480 150 -1120
+fhqa player frontierhunts sites place ground_blind_plot
+#sleep 4
+fhqa player tp @s -1000 150 -1240
+fhqa player frontierhunts sites place duck_blind
+#sleep 4
+fhqa player tp @s -1120 150 -1240
+fhqa player frontierhunts sites place glassing_point
+#sleep 4
+fhqa player tp @s -1240 150 -1240
+fhqa player frontierhunts sites place fence_line
+#sleep 4
+fhqa player tp @s -1360 150 -1240
+fhqa player frontierhunts sites place antler_cache
+#sleep 4
+fhqa player frontierhunts sites locate all
+#sleep 20
+save-all flush
+#sleep 10

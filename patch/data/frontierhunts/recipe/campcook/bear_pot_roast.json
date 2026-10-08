@@ -1,0 +1,26 @@
+{
+  "type": "frontierhunts:camp_cooking",
+  "group": "camp_cooking",
+  "ingredients": [
+    {
+      "item": "frontierhunts:bear_meat"
+    },
+    {
+      "item": "frontierhunts:bear_meat"
+    },
+    {
+      "item": "minecraft:potato"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "frontierhunts:salt"
+    }
+  ],
+  "result": {
+    "id": "frontierhunts:bear_pot_roast",
+    "count": 3
+  },
+  "cookingtime": 1000
+}

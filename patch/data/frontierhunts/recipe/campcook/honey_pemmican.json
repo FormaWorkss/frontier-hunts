@@ -1,0 +1,22 @@
+{
+  "type": "frontierhunts:bench_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "frontierhunts:jerky"
+    },
+    {
+      "item": "frontierhunts:jerky"
+    },
+    {
+      "item": "frontierhunts:tallow"
+    },
+    {
+      "item": "minecraft:honey_bottle"
+    }
+  ],
+  "result": {
+    "id": "frontierhunts:honey_pemmican",
+    "count": 3
+  }
+}

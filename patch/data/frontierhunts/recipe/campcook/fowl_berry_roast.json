@@ -1,0 +1,23 @@
+{
+  "type": "frontierhunts:camp_cooking",
+  "group": "camp_cooking",
+  "ingredients": [
+    {
+      "item": "frontierhunts:wild_fowl"
+    },
+    {
+      "item": "frontierhunts:wild_fowl"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    },
+    {
+      "item": "minecraft:sweet_berries"
+    }
+  ],
+  "result": {
+    "id": "frontierhunts:fowl_berry_roast",
+    "count": 2
+  },
+  "cookingtime": 600
+}

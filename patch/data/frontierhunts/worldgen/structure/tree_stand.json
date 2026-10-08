@@ -1,0 +1,14 @@
+{
+  "type": "frontierhunts:living_site",
+  "kind": "tree_stand",
+  "biomes": "#frontierhunts:has_structure/living_land",
+  "step": "top_layer_modification",
+  "spawn_overrides": {},
+  "terrain_adaptation": "none",
+  "avoid": [
+    "frontierstructures:villages",
+    "minecraft:villages",
+    "frontierhunts:living_camps"
+  ],
+  "avoid_chunks": 1
+}

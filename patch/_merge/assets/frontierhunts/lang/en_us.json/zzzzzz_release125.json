@@ -1,0 +1,15 @@
+{
+ "item.frontierhunts.snowmobile": "Snowmobile",
+ "entity.frontierhunts.snowmobile": "Snowmobile",
+ "item.frontierhunts.snowmobile.desc1": "A two-up mountain sled: it glides over the snow and climbs the mountainsides, and only runs on snow or ice. Runs on gasoline: pour a jerry can into it.",
+ "item.frontierhunts.snowmobile.desc2": "Forward: throttle · Back: brake, then reverse · Left/right: steer. Break it (a few hits) to get the item back.",
+ "item.frontierhunts.snowmobile.fuel": "Fuel: %s / %s L",
+ "hint.frontierhunts.snowmobile.ride": "Use: ride (two seats) · Jerry can: refuel · Break it to pick it up",
+ "message.frontierhunts.snowmobile_no_fuel": "The engine turns over but won't catch: the tank is dry. Use a jerry can on it.",
+ "message.frontierhunts.snowmobile_out_of_fuel": "Out of gas: the engine dies.",
+ "message.frontierhunts.snowmobile_tank_full": "The tank is full (%s L).",
+ "message.frontierhunts.snowmobile_fuel_level": "Fuel: %s / %s L",
+ "subtitles.frontierhunts.snowmobile_engine": "Snowmobile engine",
+ "subtitles.frontierhunts.snowmobile_track": "Snowmobile track",
+ "hint.frontierhunts.snowmobile.no_snow": "A snowmobile only runs on snow or ice: the track has nothing to grip here."
+}

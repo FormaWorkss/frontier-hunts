@@ -1,0 +1,15 @@
+{
+  "optic.zoom_click": {
+    "subtitle": "subtitles.frontierhunts.optic.zoom_click",
+    "sounds": [
+      {"name": "frontierhunts:optic/zoom_click_0", "volume": 1.0},
+      {"name": "frontierhunts:optic/zoom_click_1", "volume": 1.0}
+    ]
+  },
+  "optic.zoom_stop": {
+    "subtitle": "subtitles.frontierhunts.optic.zoom_click",
+    "sounds": [
+      {"name": "frontierhunts:optic/zoom_stop"}
+    ]
+  }
+}

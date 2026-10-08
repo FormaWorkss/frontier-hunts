@@ -1,0 +1,7 @@
+{
+ "parent": "minecraft:block/cube_column",
+ "textures": {
+  "side": "frontierhunts:block/alpine_maple_log",
+  "end": "frontierhunts:block/alpine_maple_log_top"
+ }
+}

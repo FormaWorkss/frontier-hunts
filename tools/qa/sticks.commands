@@ -1,0 +1,5 @@
+# [sticks] Console script for tools/qa/server_smoke.sh: shooting sticks (place, rest a rifle, hold factors, arc clamp,
+# release, fold back to exactly one item, NBT save/load). Every verdict line reads "[FHQA] sticks PASS ..." or
+# "[FHQA] sticks FAIL ...". Across a real restart: sticks_persist1.commands, then sticks_persist2.commands with
+# QA_WORLD=<first run's world> (see docs/ws/sticks.md).
+fhqa sticks all

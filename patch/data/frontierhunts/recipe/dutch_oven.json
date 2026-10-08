@@ -1,0 +1,21 @@
+{
+  "type": "frontierhunts:bench_shaped",
+  "category": "misc",
+  "pattern": [
+    " N ",
+    "I I",
+    "III"
+  ],
+  "key": {
+    "N": {
+      "item": "minecraft:iron_nugget"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:dutch_oven",
+    "count": 1
+  }
+}

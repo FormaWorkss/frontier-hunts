@@ -1,0 +1,19 @@
+{
+  "type": "frontierhunts:bench_shaped",
+  "category": "building",
+  "group": "frontierhunts:reserve_building",
+  "pattern": [
+    "PP",
+    "PP",
+    "PP"
+  ],
+  "key": {
+    "P": {
+      "item": "frontierhunts:pine_planks"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:cabin_door",
+    "count": 3
+  }
+}

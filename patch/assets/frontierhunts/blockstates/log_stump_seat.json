@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "frontierhunts:block/seat/log_stump_seat"
+  },
+  "facing=east": {
+   "model": "frontierhunts:block/seat/log_stump_seat",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "frontierhunts:block/seat/log_stump_seat",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "frontierhunts:block/seat/log_stump_seat",
+   "y": 270
+  }
+ }
+}

@@ -1,0 +1,32 @@
+{
+  "type": "frontierhunts:camp_cooking",
+  "group": "camp_cooking",
+  "ingredients": [
+    {
+      "item": "frontierhunts:venison"
+    },
+    {
+      "item": "frontierhunts:venison"
+    },
+    {
+      "item": "minecraft:carrot"
+    },
+    {
+      "item": "minecraft:potato"
+    },
+    [
+      {
+        "item": "minecraft:brown_mushroom"
+      },
+      {
+        "item": "minecraft:red_mushroom"
+      }
+    ]
+  ],
+  "result": {
+    "id": "frontierhunts:venison_stew",
+    "count": 3
+  },
+  "cookingtime": 800,
+  "bowls": 3
+}

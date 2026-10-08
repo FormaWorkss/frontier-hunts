@@ -1,0 +1,8 @@
+# [benches] Console script for tools/qa/server_smoke.sh: the three workbenches. One command per line (no leading slash).
+# Every verdict line reads "[FHQA] bench PASS ..." or "[FHQA] bench FAIL ...".
+fhqa bench recipes
+fhqa bench table
+fhqa bench craft
+fhqa bench batch
+fhqa bench refit
+fhqa bench old

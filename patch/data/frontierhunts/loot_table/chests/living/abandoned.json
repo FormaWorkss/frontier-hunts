@@ -1,0 +1,336 @@
+{
+ "type": "minecraft:chest",
+ "pools": [
+  {
+   "rolls": {
+    "type": "minecraft:uniform",
+    "min": 3,
+    "max": 6
+   },
+   "bonus_rolls": 0,
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:rotten_flesh",
+     "weight": 3,
+     "functions": [
+      {
+       "function": "minecraft:set_count",
+       "count": {
+        "type": "minecraft:uniform",
+        "min": 1,
+        "max": 3
+       }
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:bone",
+     "weight": 4,
+     "functions": [
+      {
+       "function": "minecraft:set_count",
+       "count": {
+        "type": "minecraft:uniform",
+        "min": 1,
+        "max": 4
+       }
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:string",
+     "weight": 3,
+     "functions": [
+      {
+       "function": "minecraft:set_count",
+       "count": {
+        "type": "minecraft:uniform",
+        "min": 1,
+        "max": 3
+       }
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "frontierhunts:spoiled_meat",
+     "weight": 2,
+     "functions": [
+      {
+       "function": "minecraft:set_count",
+       "count": {
+        "type": "minecraft:uniform",
+        "min": 1,
+        "max": 2
+       }
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:leather",
+     "weight": 2,
+     "functions": [
+      {
+       "function": "minecraft:set_count",
+       "count": {
+        "type": "minecraft:uniform",
+        "min": 1,
+        "max": 2
+       }
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:iron_nugget",
+     "weight": 2,
+     "functions": [
+      {
+       "function": "minecraft:set_count",
+       "count": {
+        "type": "minecraft:uniform",
+        "min": 1,
+        "max": 4
+       }
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:arrow",
+     "weight": 2,
+     "functions": [
+      {
+       "function": "minecraft:set_count",
+       "count": {
+        "type": "minecraft:uniform",
+        "min": 1,
+        "max": 4
+       }
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "frontierhunts:field_arrow",
+     "weight": 1,
+     "functions": [
+      {
+       "function": "minecraft:set_count",
+       "count": {
+        "type": "minecraft:uniform",
+        "min": 1,
+        "max": 3
+       }
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "frontierhunts:tanned_hide",
+     "weight": 1
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:glass_bottle",
+     "weight": 2
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:coal",
+     "weight": 2,
+     "functions": [
+      {
+       "function": "minecraft:set_count",
+       "count": {
+        "type": "minecraft:uniform",
+        "min": 1,
+        "max": 3
+       }
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:compass",
+     "weight": 1
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:torch",
+     "weight": 2,
+     "functions": [
+      {
+       "function": "minecraft:set_count",
+       "count": {
+        "type": "minecraft:uniform",
+        "min": 1,
+        "max": 3
+       }
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "frontierhunts:frontier_handbook",
+     "weight": 1
+    }
+   ]
+  },
+  {
+   "rolls": 1,
+   "bonus_rolls": 0,
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:paper",
+     "weight": 3,
+     "functions": [
+      {
+       "function": "minecraft:set_name",
+       "target": "item_name",
+       "name": {
+        "translate": "frontierhunts.lw.note.abandoned.0.title"
+       }
+      },
+      {
+       "function": "minecraft:set_lore",
+       "mode": "replace_all",
+       "lore": [
+        {
+         "translate": "frontierhunts.lw.note.abandoned.0.1",
+         "italic": true,
+         "color": "gray"
+        },
+        {
+         "translate": "frontierhunts.lw.note.abandoned.0.2",
+         "italic": true,
+         "color": "gray"
+        },
+        {
+         "translate": "frontierhunts.lw.note.abandoned.0.3",
+         "italic": true,
+         "color": "gray"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:paper",
+     "weight": 3,
+     "functions": [
+      {
+       "function": "minecraft:set_name",
+       "target": "item_name",
+       "name": {
+        "translate": "frontierhunts.lw.note.abandoned.1.title"
+       }
+      },
+      {
+       "function": "minecraft:set_lore",
+       "mode": "replace_all",
+       "lore": [
+        {
+         "translate": "frontierhunts.lw.note.abandoned.1.1",
+         "italic": true,
+         "color": "gray"
+        },
+        {
+         "translate": "frontierhunts.lw.note.abandoned.1.2",
+         "italic": true,
+         "color": "gray"
+        },
+        {
+         "translate": "frontierhunts.lw.note.abandoned.1.3",
+         "italic": true,
+         "color": "gray"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:paper",
+     "weight": 3,
+     "functions": [
+      {
+       "function": "minecraft:set_name",
+       "target": "item_name",
+       "name": {
+        "translate": "frontierhunts.lw.note.abandoned.2.title"
+       }
+      },
+      {
+       "function": "minecraft:set_lore",
+       "mode": "replace_all",
+       "lore": [
+        {
+         "translate": "frontierhunts.lw.note.abandoned.2.1",
+         "italic": true,
+         "color": "gray"
+        },
+        {
+         "translate": "frontierhunts.lw.note.abandoned.2.2",
+         "italic": true,
+         "color": "gray"
+        },
+        {
+         "translate": "frontierhunts.lw.note.abandoned.2.3",
+         "italic": true,
+         "color": "gray"
+        }
+       ]
+      }
+     ]
+    },
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:written_book",
+     "weight": 3,
+     "functions": [
+      {
+       "function": "minecraft:set_book_cover",
+       "title": "Last Entries",
+       "author": "unsigned",
+       "generation": 1
+      },
+      {
+       "function": "minecraft:set_written_book_pages",
+       "mode": "replace_all",
+       "pages": [
+        {
+         "translate": "frontierhunts.lw.book.lastentries.1"
+        },
+        {
+         "translate": "frontierhunts.lw.book.lastentries.2"
+        },
+        {
+         "translate": "frontierhunts.lw.book.lastentries.3"
+        },
+        {
+         "translate": "frontierhunts.lw.book.lastentries.4"
+        }
+       ]
+      },
+      {
+       "function": "minecraft:set_name",
+       "target": "custom_name",
+       "name": {
+        "translate": "frontierhunts.lw.book.lastentries.title",
+        "italic": false
+       }
+      }
+     ]
+    }
+   ]
+  }
+ ],
+ "random_sequence": "frontierhunts:chests/living/abandoned"
+}

@@ -1,0 +1,13 @@
+{
+  "title": "Upland count",
+  "briefing": "Walk the aspen edges and record the grouse you flush. Take two on the wing for the survey.",
+  "objective": "harvest",
+  "target": 2,
+  "minimum_mass": 0,
+  "chest_only": false,
+  "duration": 0,
+  "tokens": 45,
+  "experience": 60,
+  "cooldown": 9000,
+  "hunt": "grouse:wing"
+}

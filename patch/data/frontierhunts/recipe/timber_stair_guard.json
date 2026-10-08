@@ -1,0 +1,18 @@
+{
+  "type": "frontierhunts:bench_shapeless",
+  "ingredients": [
+    {
+      "item": "frontierhunts:timber_brace"
+    },
+    {
+      "item": "frontierhunts:timber_brace"
+    },
+    {
+      "tag": "minecraft:planks"
+    }
+  ],
+  "result": {
+    "id": "frontierhunts:timber_stair_guard",
+    "count": 1
+  }
+}

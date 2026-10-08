@@ -1,0 +1,142 @@
+{
+ "parent": "frontierhunts:block/lookout_stair_rail",
+ "gui_light": "side",
+ "display": {
+  "ground": {
+   "rotation": [
+    0,
+    0,
+    0
+   ],
+   "translation": [
+    0,
+    3,
+    0
+   ],
+   "scale": [
+    0.122,
+    0.122,
+    0.122
+   ]
+  },
+  "fixed": {
+   "rotation": [
+    0,
+    0,
+    0
+   ],
+   "translation": [
+    0,
+    0,
+    0
+   ],
+   "scale": [
+    0.245,
+    0.245,
+    0.245
+   ]
+  },
+  "thirdperson_righthand": {
+   "rotation": [
+    75,
+    45,
+    0
+   ],
+   "translation": [
+    0,
+    2.5,
+    0
+   ],
+   "scale": [
+    0.183,
+    0.183,
+    0.183
+   ]
+  },
+  "thirdperson_lefthand": {
+   "rotation": [
+    75,
+    45,
+    0
+   ],
+   "translation": [
+    0,
+    2.5,
+    0
+   ],
+   "scale": [
+    0.183,
+    0.183,
+    0.183
+   ]
+  },
+  "firstperson_righthand": {
+   "rotation": [
+    0,
+    45,
+    0
+   ],
+   "translation": [
+    0,
+    0,
+    0
+   ],
+   "scale": [
+    0.196,
+    0.196,
+    0.196
+   ]
+  },
+  "firstperson_lefthand": {
+   "rotation": [
+    0,
+    225,
+    0
+   ],
+   "translation": [
+    0,
+    0,
+    0
+   ],
+   "scale": [
+    0.196,
+    0.196,
+    0.196
+   ]
+  },
+  "head": {
+   "rotation": [
+    0,
+    0,
+    0
+   ],
+   "translation": [
+    0,
+    0,
+    0
+   ],
+   "scale": [
+    0.489,
+    0.489,
+    0.489
+   ]
+  },
+  "gui": {
+   "rotation": [
+    25,
+    110,
+    0
+   ],
+   "translation": [
+    -0.0,
+    -3.212,
+    0
+   ],
+   "scale": [
+    0.47,
+    0.47,
+    0.47
+   ]
+  }
+ }
+}

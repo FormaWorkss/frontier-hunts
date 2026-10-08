@@ -1,0 +1,30 @@
+# [presets] Balanced-only assets, retired with the Balanced graphics preset (only Vanilla and Ultra remain).
+# Settings card art of the Balanced preset
+assets/frontierhunts/textures/gui/settings/preset_balanced.png
+# Rifle mesh of the middle effects tier (Standard effects now use the close mesh, see CamoRifleModel)
+assets/frontierhunts/models/item/camo_rifle_balanced.fhrm
+# Minecraft+ (BLOCKY) deer/elk/moose coats (Vanilla keeps the *_vanilla_* coats)
+assets/frontierhunts/textures/entity/blocky/whitetail_enhanced_summer.png
+assets/frontierhunts/textures/entity/blocky/whitetail_enhanced_winter.png
+assets/frontierhunts/textures/entity/blocky/elk_enhanced_summer.png
+assets/frontierhunts/textures/entity/blocky/elk_enhanced_winter.png
+assets/frontierhunts/textures/entity/blocky/moose_enhanced_summer.png
+assets/frontierhunts/textures/entity/blocky/moose_enhanced_winter.png
+# Balanced pixel-art coats of the 14 wildlife species and the tracking hound (Ultra keeps the *_bal.fhsk low meshes
+# as its distant level of detail, with real/*_far.png coats)
+assets/frontierhunts/textures/entity/wildlife/bal/bison.png
+assets/frontierhunts/textures/entity/wildlife/bal/black_bear.png
+assets/frontierhunts/textures/entity/wildlife/bal/boar.png
+assets/frontierhunts/textures/entity/wildlife/bal/cheetah.png
+assets/frontierhunts/textures/entity/wildlife/bal/cougar.png
+assets/frontierhunts/textures/entity/wildlife/bal/coyote.png
+assets/frontierhunts/textures/entity/wildlife/bal/duck.png
+assets/frontierhunts/textures/entity/wildlife/bal/grizzly.png
+assets/frontierhunts/textures/entity/wildlife/bal/grouse.png
+assets/frontierhunts/textures/entity/wildlife/bal/hound_bluetick.png
+assets/frontierhunts/textures/entity/wildlife/bal/hound_redbone.png
+assets/frontierhunts/textures/entity/wildlife/bal/lion.png
+assets/frontierhunts/textures/entity/wildlife/bal/panther.png
+assets/frontierhunts/textures/entity/wildlife/bal/polar_bear.png
+assets/frontierhunts/textures/entity/wildlife/bal/pronghorn.png
+assets/frontierhunts/textures/entity/wildlife/bal/wolf.png

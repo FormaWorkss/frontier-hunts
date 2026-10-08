@@ -1,0 +1,24 @@
+{
+  "type": "frontierhunts:bench_shaped",
+  "category": "equipment",
+  "pattern": [
+    "ILI",
+    "ICI",
+    "ILI"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:iron_ingot"
+    },
+    "L": {
+      "item": "minecraft:ladder"
+    },
+    "C": {
+      "item": "frontierhunts:canvas_wall"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:tree_stand",
+    "count": 1
+  }
+}

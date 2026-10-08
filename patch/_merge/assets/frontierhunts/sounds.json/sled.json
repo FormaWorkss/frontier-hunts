@@ -1,0 +1,20 @@
+{
+ "sled_glide": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ride/sled_glide",
+    "attenuation_distance": 24
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.sled_glide"
+ },
+ "sled_carve": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ride/sled_carve",
+    "attenuation_distance": 24
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.sled_carve"
+ }
+}

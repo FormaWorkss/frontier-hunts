@@ -1,0 +1,19 @@
+{
+ "parent": "frontierhunts:legend/root",
+ "display": {
+  "icon": {
+   "id": "frontierhunts:whitetail_trophy"
+  },
+  "title": "The Bog King",
+  "description": "Take the legend of the northern bogs, fair and tagged",
+  "frame": "challenge",
+  "show_toast": true,
+  "announce_to_chat": true,
+  "hidden": false
+ },
+ "criteria": {
+  "taken": {
+   "trigger": "minecraft:impossible"
+  }
+ }
+}

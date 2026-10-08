@@ -1,0 +1,82 @@
+{
+  "entries": {
+    "#c:foods/raw_meat": {
+      "protein": 12,
+      "fat": 8,
+      "energy": 2,
+      "source": "farm",
+      "shelf_days": 3,
+      "raw": true
+    },
+    "#c:foods/cooked_meat": {
+      "protein": 15,
+      "fat": 10,
+      "energy": 3,
+      "source": "farm",
+      "shelf_days": 5
+    },
+    "#c:foods/raw_fish": {
+      "protein": 9,
+      "fat": 3,
+      "energy": 0,
+      "source": "fish",
+      "shelf_days": 2,
+      "raw": true
+    },
+    "#c:foods/cooked_fish": {
+      "protein": 12,
+      "fat": 4,
+      "energy": 1,
+      "source": "fish",
+      "shelf_days": 3
+    },
+    "#c:foods/berry": {
+      "protein": 0,
+      "fat": 0,
+      "energy": 4,
+      "source": "forage"
+    },
+    "#c:foods/fruit": {
+      "protein": 0.5,
+      "fat": 0.2,
+      "energy": 9,
+      "source": "crop"
+    },
+    "#c:foods/vegetable": {
+      "protein": 1,
+      "fat": 0,
+      "energy": 7,
+      "source": "crop"
+    },
+    "#c:foods/bread": {
+      "protein": 4,
+      "fat": 1,
+      "energy": 20,
+      "source": "crop"
+    },
+    "#c:foods/cookie": {
+      "protein": 0.5,
+      "fat": 2,
+      "energy": 6,
+      "source": "crop"
+    },
+    "#c:foods/soup": {
+      "protein": 4,
+      "fat": 2,
+      "energy": 12,
+      "source": "crop"
+    },
+    "#c:foods/pie": {
+      "protein": 3,
+      "fat": 6,
+      "energy": 18,
+      "source": "crop"
+    },
+    "#c:foods/candy": {
+      "protein": 0,
+      "fat": 1,
+      "energy": 10,
+      "source": "crop"
+    }
+  }
+}

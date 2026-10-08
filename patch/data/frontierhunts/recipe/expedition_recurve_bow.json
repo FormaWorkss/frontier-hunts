@@ -1,0 +1,27 @@
+{
+  "type": "frontierhunts:bench_shaped",
+  "category": "equipment",
+  "pattern": [
+    "BPT",
+    "L T",
+    "BPT"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:bone"
+    },
+    "P": {
+      "tag": "minecraft:planks"
+    },
+    "T": {
+      "item": "minecraft:string"
+    },
+    "L": {
+      "item": "minecraft:leather"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:recurve_bow",
+    "count": 1
+  }
+}

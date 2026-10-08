@@ -1,0 +1,19 @@
+{
+  "type": "frontierhunts:bench_shapeless",
+  "category": "building",
+  "ingredients": [
+    {
+      "item": "minecraft:short_grass"
+    },
+    {
+      "item": "minecraft:short_grass"
+    },
+    {
+      "item": "minecraft:fern"
+    }
+  ],
+  "result": {
+    "id": "frontierhunts:alpine_pasture",
+    "count": 3
+  }
+}

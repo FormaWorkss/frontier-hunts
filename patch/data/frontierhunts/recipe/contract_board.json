@@ -1,0 +1,24 @@
+{
+  "type": "frontierhunts:bench_shaped",
+  "category": "misc",
+  "pattern": [
+    "LLL",
+    "PPP",
+    "S S"
+  ],
+  "key": {
+    "L": {
+      "tag": "minecraft:planks"
+    },
+    "P": {
+      "item": "minecraft:paper"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:contract_board",
+    "count": 1
+  }
+}

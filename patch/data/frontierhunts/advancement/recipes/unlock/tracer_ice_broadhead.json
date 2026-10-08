@@ -1,0 +1,47 @@
+{
+ "parent": "minecraft:recipes/root",
+ "criteria": {
+  "has_the_recipe": {
+   "trigger": "minecraft:recipe_unlocked",
+   "conditions": {
+    "recipe": "frontierhunts:tracer_ice_broadhead"
+   }
+  },
+  "has_material_0": {
+   "trigger": "minecraft:inventory_changed",
+   "conditions": {
+    "items": [
+     {
+      "items": [
+       "frontierhunts:cut_on_contact_broadhead"
+      ]
+     }
+    ]
+   }
+  },
+  "has_material_1": {
+   "trigger": "minecraft:inventory_changed",
+   "conditions": {
+    "items": [
+     {
+      "items": [
+       "frontierhunts:cut_on_contact_broadhead"
+      ]
+     }
+    ]
+   }
+  }
+ },
+ "requirements": [
+  [
+   "has_material_0",
+   "has_material_1",
+   "has_the_recipe"
+  ]
+ ],
+ "rewards": {
+  "recipes": [
+   "frontierhunts:tracer_ice_broadhead"
+  ]
+ }
+}

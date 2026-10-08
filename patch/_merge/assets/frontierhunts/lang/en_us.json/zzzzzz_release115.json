@@ -1,0 +1,20 @@
+{
+ "onboard.frontierhunts.card.key_skip": "%s · Handbook (stuck? skip this step there)",
+ "onboard.frontierhunts.task.licence.card": "Get a Hunting Licence: 6 tokens at an expedition board, or free after the Archery Range. An unlicensed first deer only earns a warning.",
+ "onboard.frontierhunts.task.licence.how": "Pass the Archery Range and the Ranger Academy issues a free Hunting Licence, or buy one at an expedition board (Handbook, Journal: Licence & Tags). Big game also needs a tag, game birds a stamp. Under the default Relaxed rules a hunt without one only earns a warning the first time.",
+ "onboard.frontierhunts.task.bench.card": "Craft a Bow Tuning Rack: three string over planks. String comes from spiders and cobwebs.",
+ "onboard.frontierhunts.task.bench.how": "Three string over planks (spiders drop string at night; cobwebs give it too). It fits tips to whole stacks and makes bows. No string yet? Skip this step in the Handbook and come back later.",
+ "onboard.frontierhunts.step.4.p1": "Whitetails live in forests, taiga, groves, meadows, plains and swamps, in small herds. They smell you long before they see you: check the wind with a Wind Checker and walk with the wind in your face.",
+ "guide.frontierhunts.lesson.glass.p2": "Hold Use with Binoculars to look through them. A Rangefinder tells you how far away the animal is.",
+ "guide.frontierhunts.lesson.tips.card": "Optional: read the field tips in the Handbook.",
+ "expedition.frontierhunts.ui.next.starter_detail": "Handbook, field bow and arrows, knives, float rod and an expedition board. The survey only starts once you have them.",
+ "onboard.frontierhunts.next.done.body": "You know the frontier. Your Journal's Up next always shows what to do next: rewards waiting to be claimed, the next Ranger Academy course, Mara's next mission, contracts and checklist goals.",
+ "onboard.frontierhunts.btn.up_next": "Open Up next",
+ "journal.frontierhunts.home.claim": "Claim",
+ "journal.frontierhunts.home.claim_assignment": "Ranger assignment complete",
+ "journal.frontierhunts.home.claim_assignment_sub": "Reward waiting · opens Ranger Assignments (K)",
+ "journal.frontierhunts.home.claim_survey": "Habitat survey finished",
+ "journal.frontierhunts.home.claim_hunt": "First hunt finished",
+ "journal.frontierhunts.home.claim_reserve_sub": "Tokens waiting · claim on the Reserve tab",
+ "journal.frontierhunts.home.next_academy": "Ranger Academy · next course (K)"
+}

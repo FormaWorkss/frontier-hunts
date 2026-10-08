@@ -1,0 +1,21 @@
+{
+ "type": "frontierhunts:bench_shaped",
+ "category": "transportation",
+ "pattern": [
+  "S  ",
+  "PPP",
+  "PPP"
+ ],
+ "key": {
+  "S": {
+   "item": "minecraft:string"
+  },
+  "P": {
+   "tag": "minecraft:planks"
+  }
+ },
+ "result": {
+  "id": "frontierhunts:sled",
+  "count": 1
+ }
+}

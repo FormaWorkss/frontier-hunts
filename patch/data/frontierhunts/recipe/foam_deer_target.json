@@ -1,0 +1,21 @@
+{
+  "type": "frontierhunts:bench_shaped",
+  "category": "misc",
+  "pattern": [
+    " WW",
+    "WWW",
+    "S S"
+  ],
+  "key": {
+    "W": {
+      "item": "minecraft:brown_wool"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:foam_deer_target",
+    "count": 1
+  }
+}

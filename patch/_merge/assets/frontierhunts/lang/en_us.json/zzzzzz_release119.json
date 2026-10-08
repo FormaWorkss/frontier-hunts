@@ -1,0 +1,9 @@
+{
+ "item.frontierhunts.beta_egg.not_ready": "This animal isn't ready yet. It comes to the reserve in a future update.",
+ "tooltip.frontierhunts.beta.title": "Not ready yet",
+ "tooltip.frontierhunts.beta.egg": "This animal is still being built and comes in a future update. Only server operators can spawn it.",
+ "hunts.frontierhunts.card.beta": "Coming in a future update. This animal doesn't live on the reserve yet and its contracts are not posted.",
+ "journal.frontierhunts.soon.animals.note": "Wild herds, seasons, tags and contracts come with each one as it arrives.",
+ "licence.frontierhunts.page.seasons.varmints": "Coyotes, gray wolves and wild boar: not on the reserve yet. Their seasons open when they arrive.",
+ "biome.frontierhunts.snowy_foothills": "Snowy Foothills"
+}

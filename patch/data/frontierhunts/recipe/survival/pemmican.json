@@ -1,0 +1,22 @@
+{
+  "type": "frontierhunts:bench_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "frontierhunts:jerky"
+    },
+    {
+      "item": "frontierhunts:jerky"
+    },
+    {
+      "item": "frontierhunts:tallow"
+    },
+    {
+      "tag": "c:foods/berry"
+    }
+  ],
+  "result": {
+    "id": "frontierhunts:pemmican",
+    "count": 3
+  }
+}

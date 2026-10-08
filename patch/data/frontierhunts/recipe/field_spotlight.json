@@ -1,0 +1,19 @@
+{
+  "type": "frontierhunts:bench_shaped",
+  "category": "equipment",
+  "pattern": [
+    "IGI",
+    "CRC",
+    " I "
+  ],
+  "key": {
+    "I": { "item": "minecraft:iron_ingot" },
+    "G": { "item": "minecraft:glass_pane" },
+    "C": { "item": "minecraft:copper_ingot" },
+    "R": { "item": "minecraft:redstone_lamp" }
+  },
+  "result": {
+    "id": "frontierhunts:field_spotlight",
+    "count": 1
+  }
+}

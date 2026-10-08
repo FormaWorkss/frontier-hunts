@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "building",
+ "group": "dark_oak_log",
+ "ingredients": [
+  {
+   "item": "frontierhunts:cedar_log"
+  },
+  {
+   "item": "frontierhunts:cedar_log"
+  }
+ ],
+ "result": {
+  "id": "minecraft:dark_oak_log",
+  "count": 2
+ }
+}

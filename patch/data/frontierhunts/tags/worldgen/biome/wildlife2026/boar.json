@@ -1,0 +1,26 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_forest",
+    {
+      "id": "frontierhunts:maple_woodland",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:mosswood",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:alder_carr",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:cottonwood_bottom",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:autumn_maple_hollow",
+      "required": false
+    }
+  ]
+}

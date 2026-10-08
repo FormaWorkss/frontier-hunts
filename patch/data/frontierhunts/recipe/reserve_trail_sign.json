@@ -1,0 +1,22 @@
+{
+  "type": "frontierhunts:bench_shaped",
+  "group": "frontierhunts:reserve_building",
+  "category": "building",
+  "pattern": [
+    " P ",
+    "PPP",
+    " S "
+  ],
+  "key": {
+    "P": {
+      "item": "frontierhunts:pine_planks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:trail_sign",
+    "count": 1
+  }
+}

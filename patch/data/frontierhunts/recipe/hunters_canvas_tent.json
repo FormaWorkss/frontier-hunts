@@ -1,0 +1,27 @@
+{
+ "type": "frontierhunts:bench_shaped",
+ "category": "misc",
+ "pattern": [
+  "CCC",
+  "PLP",
+  "S S"
+ ],
+ "key": {
+  "C": {
+   "item": "frontierhunts:canvas_wall"
+  },
+  "P": {
+   "item": "minecraft:stick"
+  },
+  "L": {
+   "item": "minecraft:lantern"
+  },
+  "S": {
+   "item": "minecraft:string"
+  }
+ },
+ "result": {
+  "id": "frontierhunts:hunters_canvas_tent",
+  "count": 1
+ }
+}

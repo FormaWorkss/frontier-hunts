@@ -1,0 +1,19 @@
+{
+ "frontierhunts.lw.spawn_camp.1": "HUNTERS'",
+ "frontierhunts.lw.spawn_camp.2": "%s m %s",
+ "frontierhunts.lw.spawn_camp.3": "CAMP",
+ "frontierstructures.village.outpost.sign1": "Frontier",
+ "frontierstructures.village.outpost.sign2": "Outpost",
+ "frontierstructures.village.lakeside.sign1": "Reedbank",
+ "frontierstructures.village.lakeside.sign2": "Landing",
+ "frontierstructures.village.crowsnest.sign1": "Crowsnest",
+ "frontierstructures.village.crowsnest.sign2": "Ridge",
+ "frontierstructures.village.junction.sign1": "Pine",
+ "frontierstructures.village.junction.sign2": "Junction",
+ "frontierstructures.village.board.welcome1": "Hunters",
+ "frontierstructures.village.board.welcome2": "Welcome",
+ "frontierstructures.village.board.rule1": "Tag every",
+ "frontierstructures.village.board.rule2": "harvest.",
+ "frontierstructures.village.board.rule3": "Douse your",
+ "frontierstructures.village.board.rule4": "fires."
+}

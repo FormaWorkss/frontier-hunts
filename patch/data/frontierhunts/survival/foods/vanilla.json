@@ -1,0 +1,281 @@
+{
+  "entries": {
+    "minecraft:apple": {
+      "protein": 0.5,
+      "fat": 0.3,
+      "energy": 10,
+      "source": "crop"
+    },
+    "minecraft:baked_potato": {
+      "protein": 2,
+      "fat": 0.2,
+      "energy": 16,
+      "source": "crop"
+    },
+    "minecraft:beetroot": {
+      "protein": 1,
+      "fat": 0,
+      "energy": 5,
+      "source": "crop"
+    },
+    "minecraft:beetroot_soup": {
+      "protein": 3,
+      "fat": 1,
+      "energy": 14,
+      "source": "crop"
+    },
+    "minecraft:bread": {
+      "protein": 4,
+      "fat": 1,
+      "energy": 22,
+      "source": "crop"
+    },
+    "minecraft:carrot": {
+      "protein": 0.5,
+      "fat": 0,
+      "energy": 7,
+      "source": "crop"
+    },
+    "minecraft:golden_carrot": {
+      "protein": 1,
+      "fat": 0,
+      "energy": 14,
+      "source": "crop"
+    },
+    "minecraft:golden_apple": {
+      "protein": 1,
+      "fat": 0.5,
+      "energy": 16,
+      "source": "crop"
+    },
+    "minecraft:enchanted_golden_apple": {
+      "protein": 2,
+      "fat": 1,
+      "energy": 30,
+      "source": "crop"
+    },
+    "minecraft:chorus_fruit": {
+      "protein": 0,
+      "fat": 0,
+      "energy": 6,
+      "source": "forage"
+    },
+    "minecraft:cookie": {
+      "protein": 0.5,
+      "fat": 2,
+      "energy": 6,
+      "source": "crop"
+    },
+    "minecraft:dried_kelp": {
+      "protein": 1,
+      "fat": 0,
+      "energy": 3,
+      "source": "forage"
+    },
+    "minecraft:glow_berries": {
+      "protein": 0,
+      "fat": 0,
+      "energy": 4,
+      "source": "forage"
+    },
+    "minecraft:sweet_berries": {
+      "protein": 0,
+      "fat": 0,
+      "energy": 4,
+      "source": "forage"
+    },
+    "minecraft:honey_bottle": {
+      "protein": 0,
+      "fat": 0,
+      "energy": 14,
+      "source": "crop"
+    },
+    "minecraft:melon_slice": {
+      "protein": 0,
+      "fat": 0,
+      "energy": 4,
+      "source": "crop"
+    },
+    "minecraft:mushroom_stew": {
+      "protein": 4,
+      "fat": 1,
+      "energy": 12,
+      "source": "forage"
+    },
+    "minecraft:poisonous_potato": {
+      "protein": 0,
+      "fat": 0,
+      "energy": 2,
+      "source": "crop"
+    },
+    "minecraft:potato": {
+      "protein": 1,
+      "fat": 0,
+      "energy": 8,
+      "source": "crop"
+    },
+    "minecraft:pumpkin_pie": {
+      "protein": 3,
+      "fat": 6,
+      "energy": 18,
+      "source": "crop"
+    },
+    "minecraft:rabbit_stew": {
+      "protein": 14,
+      "fat": 3,
+      "energy": 14,
+      "source": "game"
+    },
+    "minecraft:suspicious_stew": {
+      "protein": 3,
+      "fat": 1,
+      "energy": 10,
+      "source": "forage"
+    },
+    "minecraft:cake": {
+      "protein": 4,
+      "fat": 10,
+      "energy": 40,
+      "source": "crop"
+    },
+    "minecraft:milk_bucket": {
+      "protein": 6,
+      "fat": 6,
+      "energy": 8,
+      "source": "farm"
+    },
+    "minecraft:beef": {
+      "protein": 13,
+      "fat": 8,
+      "energy": 3,
+      "source": "farm",
+      "shelf_days": 3,
+      "raw": true
+    },
+    "minecraft:cooked_beef": {
+      "protein": 16,
+      "fat": 10,
+      "energy": 4,
+      "source": "farm",
+      "shelf_days": 5
+    },
+    "minecraft:porkchop": {
+      "protein": 11,
+      "fat": 12,
+      "energy": 2,
+      "source": "farm",
+      "shelf_days": 3,
+      "raw": true
+    },
+    "minecraft:cooked_porkchop": {
+      "protein": 14,
+      "fat": 14,
+      "energy": 3,
+      "source": "farm",
+      "shelf_days": 5
+    },
+    "minecraft:mutton": {
+      "protein": 10,
+      "fat": 9,
+      "energy": 2,
+      "source": "farm",
+      "shelf_days": 3,
+      "raw": true
+    },
+    "minecraft:cooked_mutton": {
+      "protein": 12,
+      "fat": 11,
+      "energy": 3,
+      "source": "farm",
+      "shelf_days": 5
+    },
+    "minecraft:chicken": {
+      "protein": 10,
+      "fat": 3,
+      "energy": 1,
+      "source": "farm",
+      "shelf_days": 2,
+      "raw": true
+    },
+    "minecraft:cooked_chicken": {
+      "protein": 12,
+      "fat": 4,
+      "energy": 2,
+      "source": "farm",
+      "shelf_days": 4
+    },
+    "minecraft:rabbit": {
+      "protein": 12,
+      "fat": 1,
+      "energy": 1,
+      "source": "game",
+      "shelf_days": 2,
+      "raw": true,
+      "dry": true
+    },
+    "minecraft:cooked_rabbit": {
+      "protein": 15,
+      "fat": 1,
+      "energy": 2,
+      "source": "game",
+      "shelf_days": 4
+    },
+    "minecraft:cod": {
+      "protein": 9,
+      "fat": 1,
+      "energy": 0,
+      "source": "fish",
+      "shelf_days": 2,
+      "raw": true
+    },
+    "minecraft:cooked_cod": {
+      "protein": 11,
+      "fat": 2,
+      "energy": 1,
+      "source": "fish",
+      "shelf_days": 3
+    },
+    "minecraft:salmon": {
+      "protein": 10,
+      "fat": 6,
+      "energy": 0,
+      "source": "fish",
+      "shelf_days": 2,
+      "raw": true
+    },
+    "minecraft:cooked_salmon": {
+      "protein": 12,
+      "fat": 8,
+      "energy": 1,
+      "source": "fish",
+      "shelf_days": 3
+    },
+    "minecraft:tropical_fish": {
+      "protein": 6,
+      "fat": 1,
+      "energy": 0,
+      "source": "fish",
+      "shelf_days": 2,
+      "raw": true
+    },
+    "minecraft:pufferfish": {
+      "protein": 4,
+      "fat": 1,
+      "energy": 0,
+      "source": "fish"
+    },
+    "minecraft:rotten_flesh": {
+      "protein": 4,
+      "fat": 1,
+      "energy": 1,
+      "source": "farm",
+      "spoiled": true
+    },
+    "minecraft:spider_eye": {
+      "protein": 2,
+      "fat": 0,
+      "energy": 1,
+      "source": "forage"
+    }
+  }
+}

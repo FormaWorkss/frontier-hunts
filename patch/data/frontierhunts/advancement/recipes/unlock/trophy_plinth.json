@@ -1,0 +1,32 @@
+{
+ "parent": "minecraft:recipes/root",
+ "criteria": {
+  "has_the_recipe": {
+   "trigger": "minecraft:recipe_unlocked",
+   "conditions": {
+    "recipe": "frontierhunts:trophy_plinth"
+   }
+  },
+  "has_material_0": {
+   "trigger": "minecraft:inventory_changed",
+   "conditions": {
+    "items": [
+     {
+      "items": "#minecraft:wooden_slabs"
+     }
+    ]
+   }
+  }
+ },
+ "requirements": [
+  [
+   "has_material_0",
+   "has_the_recipe"
+  ]
+ ],
+ "rewards": {
+  "recipes": [
+   "frontierhunts:trophy_plinth"
+  ]
+ }
+}

@@ -1,0 +1,2 @@
+# [1.2.8] plain Minecraft water: no whitewater cascades added to rivers and streams
+data/frontierhunts/neoforge/biome_modifier/cascade.json

@@ -1,0 +1,15 @@
+{
+  "vertex": "frontierhunts:killcam_grade",
+  "fragment": "frontierhunts:killcam_grade",
+  "attributes": ["Position"],
+  "samplers": [{"name": "Sampler0"}],
+  "uniforms": [
+    {"name":"Desat","type":"float","count":1,"values":[0.0]},
+    {"name":"Dark","type":"float","count":1,"values":[0.0]},
+    {"name":"TintAmount","type":"float","count":1,"values":[0.0]},
+    {"name":"Tint","type":"float","count":3,"values":[1.0,1.0,1.0]},
+    {"name":"Vignette","type":"float","count":1,"values":[0.0]},
+    {"name":"Flash","type":"float","count":1,"values":[0.0]},
+    {"name":"Contrast","type":"float","count":1,"values":[1.0]}
+  ]
+}

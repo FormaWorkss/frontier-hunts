@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "ingredient": {
+    "item": "frontierhunts:organ_meat"
+  },
+  "result": {
+    "id": "frontierhunts:cooked_organ_meat"
+  },
+  "experience": 0.35,
+  "cookingtime": 600
+}

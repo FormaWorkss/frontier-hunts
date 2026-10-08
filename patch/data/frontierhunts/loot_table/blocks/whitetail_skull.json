@@ -1,0 +1,58 @@
+{
+ "type": "minecraft:block",
+ "pools": [
+  {
+   "rolls": 1,
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "frontierhunts:whitetail_skull"
+    }
+   ],
+   "conditions": [
+    {
+     "condition": "minecraft:block_state_property",
+     "block": "frontierhunts:whitetail_skull",
+     "properties": {
+      "antlers": "true"
+     }
+    },
+    {
+     "condition": "minecraft:survives_explosion"
+    }
+   ]
+  },
+  {
+   "rolls": 1,
+   "entries": [
+    {
+     "type": "minecraft:item",
+     "name": "minecraft:bone",
+     "functions": [
+      {
+       "function": "minecraft:set_count",
+       "count": {
+        "type": "minecraft:uniform",
+        "min": 1,
+        "max": 2
+       }
+      },
+      {
+       "function": "minecraft:explosion_decay"
+      }
+     ]
+    }
+   ],
+   "conditions": [
+    {
+     "condition": "minecraft:block_state_property",
+     "block": "frontierhunts:whitetail_skull",
+     "properties": {
+      "antlers": "false"
+     }
+    }
+   ]
+  }
+ ],
+ "random_sequence": "frontierhunts:blocks/whitetail_skull"
+}

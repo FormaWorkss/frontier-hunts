@@ -1,0 +1,3 @@
+# [herds] second run on the world tools/qa/herds.commands left behind (QA_WORLD): groups, leaders and positions after a restart
+#sleep 15
+fhqa herds persist check

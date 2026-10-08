@@ -1,0 +1,8 @@
+fhqa persist load
+fhqa persist check
+fhqa persist login
+fhqa persist harvest pickup
+fhqa persist contract
+fhqa persist snapshot
+fhqa persist crash
+#sleep 8

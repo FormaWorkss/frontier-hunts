@@ -1,0 +1,48 @@
+fhqa flow begin
+#sleep 2
+fhqa flow permit
+fhqa flow easyherd
+#sleep 6
+fhqa flow area
+fhqa flow easy first
+fhqa flow easyherd2
+#sleep 6
+fhqa flow another
+fhqa flow easy another
+#sleep 2
+fhqa flow empty
+#sleep 2
+fhqa flow home
+fhqa flow signs
+fhqa flow wind up
+#sleep 3
+fhqa flow windcheck up
+fhqa flow wind down
+#sleep 3
+fhqa flow windcheck down
+fhqa flow hide
+fhqa flow status
+fhqa persist harvest spawn
+#sleep 2
+fhqa persist harvest shoot
+#sleep 2
+fhqa persist harvest hit
+fhqa persist harvest shoot
+#sleep 2
+fhqa persist harvest hit
+fhqa persist harvest shoot
+#sleep 2
+fhqa persist harvest hit
+#sleep 10
+fhqa persist harvest hit
+fhqa flow track
+fhqa persist harvest tag
+#sleep 15
+fhqa persist harvest hit
+#sleep 20
+fhqa persist harvest hit
+fhqa persist harvest done
+fhqa flow status
+fhqa flow claim
+fhqa flow status
+#sleep 6

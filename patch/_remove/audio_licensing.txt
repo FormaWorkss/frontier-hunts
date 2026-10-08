@@ -1,0 +1,11 @@
+# [1.1.5] audio licensing clean-up: one credits file (AUDIO_CREDITS.txt) for the sounds that actually ship
+# [1.1.8] equipment/deer_caller_single.ogg is back (patch/): the mod author confirmed he recorded it himself
+audio-provenance/user-deer-call-dev18.json
+# preparation record of the msantoro11 contact sounds, which no longer ship
+audio-provenance/deer-contact-preparation.json
+# credit for a deer-call asset that never shipped under that name
+META-INF/frontierhunts-deer-call-credit.json
+# superseded by AUDIO_CREDITS.txt (still described noncommercial and private-play files that no longer ship)
+WILDLIFE_AUDIO_LICENSES.md
+FRONTIER_AUDIO_CREDITS.txt
+assets/frontierhunts/CREDITS-SOUNDS.txt

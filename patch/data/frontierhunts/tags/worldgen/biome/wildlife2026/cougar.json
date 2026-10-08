@@ -1,0 +1,32 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_mountain",
+    "minecraft:windswept_hills",
+    "minecraft:windswept_forest",
+    {
+      "id": "frontierhunts:rocky_foothills",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:limestone_bluff",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:boulder_talus",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:cascade_gorge",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:cedar_valley",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:rowan_slope",
+      "required": false
+    }
+  ]
+}

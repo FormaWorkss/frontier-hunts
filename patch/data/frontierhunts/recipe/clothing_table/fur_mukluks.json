@@ -1,0 +1,24 @@
+{
+  "type": "frontierhunts:clothing_table",
+  "group": "frontier_furs",
+  "category": "equipment",
+  "pattern": [
+    "F F",
+    "HSH"
+  ],
+  "key": {
+    "F": {
+      "tag": "frontierhunts:tanned_furs"
+    },
+    "H": {
+      "tag": "frontierhunts:tanned_hides"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:fur_mukluks",
+    "count": 1
+  }
+}

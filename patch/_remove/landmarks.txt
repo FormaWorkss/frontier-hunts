@@ -1,0 +1,12 @@
+# [gear20] the expedition "landmarks" (watering hole / fishing shallows: a square clay-edged pond with a fishing
+# station; feeding ground / migration trail: a flat dirt pad with hay) read as placeholder squares in the world.
+# Removed entirely: set, structures and templates.
+data/frontierhunts/worldgen/structure_set/expedition_landmarks.json
+data/frontierhunts/worldgen/structure/watering_hole.json
+data/frontierhunts/worldgen/structure/fishing_shallows.json
+data/frontierhunts/worldgen/structure/feeding_ground.json
+data/frontierhunts/worldgen/structure/migration_trail.json
+data/frontierhunts/structure/expedition/watering_hole.nbt
+data/frontierhunts/structure/expedition/fishing_shallows.nbt
+data/frontierhunts/structure/expedition/feeding_ground.nbt
+data/frontierhunts/structure/expedition/migration_trail.nbt

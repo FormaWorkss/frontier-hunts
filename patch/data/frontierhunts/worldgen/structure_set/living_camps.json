@@ -1,0 +1,23 @@
+{
+  "structures": [
+    {
+      "structure": "frontierhunts:hunting_camp",
+      "weight": 7
+    },
+    {
+      "structure": "frontierhunts:elk_camp",
+      "weight": 3
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 44,
+    "separation": 18,
+    "frequency": 0.6,
+    "exclusion_zone": {
+      "other_set": "frontierstructures:villages",
+      "chunk_count": 8
+    },
+    "salt": 410012601
+  }
+}

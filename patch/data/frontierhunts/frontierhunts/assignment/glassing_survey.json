@@ -1,0 +1,13 @@
+{
+  "title": "Glassing survey",
+  "briefing": "Count big game from a distance. From a ridge or open edge, glass three different animals at 100 m or more with binoculars or a rangefinder.",
+  "objective": "harvest",
+  "target": 3,
+  "minimum_mass": 0,
+  "chest_only": false,
+  "duration": 0,
+  "tokens": 35,
+  "experience": 50,
+  "cooldown": 6000,
+  "hunt": "*:glass100"
+}

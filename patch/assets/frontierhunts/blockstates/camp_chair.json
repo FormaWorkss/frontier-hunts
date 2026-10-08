@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "frontierhunts:block/seat/camp_chair"
+  },
+  "facing=east": {
+   "model": "frontierhunts:block/seat/camp_chair",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "frontierhunts:block/seat/camp_chair",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "frontierhunts:block/seat/camp_chair",
+   "y": 270
+  }
+ }
+}

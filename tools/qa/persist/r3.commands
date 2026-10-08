@@ -1,0 +1,26 @@
+fhqa persist load
+fhqa persist check
+fhqa persist login
+fhqa persist harvest spawn
+#sleep 2
+fhqa persist harvest hit
+fhqa persist harvest shoot
+#sleep 2
+fhqa persist harvest hit
+fhqa persist harvest shoot
+#sleep 2
+fhqa persist harvest hit
+fhqa persist harvest shoot
+#sleep 2
+fhqa persist harvest hit
+fhqa persist harvest shoot
+#sleep 15
+fhqa persist harvest hit
+fhqa persist harvest tag
+#sleep 12
+fhqa persist harvest hit
+#sleep 3
+fhqa persist harvest done
+fhqa persist snapshot
+fhqa persist crash
+#sleep 8

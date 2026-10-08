@@ -1,0 +1,124 @@
+# ADS alignment: measured sight axis (drawn glass centres) vs FieldWeaponSockets.opticalAxisY / eyeZ (gun space)
+weapon               sight                  socketY    frontY     rearY   dY(mm*)        x  eye-rear result
+lever_rifle          reflex_sight            0.1275    0.1265    0.1265     -1.00  +0.0000    0.1818 OK (tilt +0.00 mm, 1 glass groups)
+lever_rifle          micro_red_dot           0.1365    0.1370    0.1370     +0.50  +0.0000    0.1886 OK (tilt +0.00 mm, 1 glass groups)
+lever_rifle          holographic_sight       0.1355    0.1350    0.1350     -0.50  +0.0000    0.1900 OK (tilt +0.00 mm, 1 glass groups)
+lever_rifle          two_power_prism         0.1445    0.1450    0.1450     +0.50  +0.0000    0.0952 OK (tilt +0.00 mm, 2 glass groups)
+    objective glass z -0.0665 r 0.0185: housing centre offset 0.00 mm (192 verts), blocking verts 0 OK
+    ocular    glass z +0.0248 r 0.0185: housing centre offset 0.00 mm (768 verts), blocking verts 0 OK
+lever_rifle          six_power_scope         0.1510    0.1510    0.1510     -0.00  +0.0000    0.0898 OK (tilt +0.00 mm, 2 glass groups)
+    objective glass z -0.1992 r 0.0230: housing centre offset 0.00 mm (108 verts), blocking verts 0 OK
+    ocular    glass z +0.1902 r 0.0180: housing centre offset 0.00 mm (216 verts), blocking verts 0 OK
+lever_rifle          eight_power_scope       0.1510    0.1510    0.1510     -0.00  +0.0000    0.0898 OK (tilt +0.00 mm, 2 glass groups)
+    objective glass z -0.2442 r 0.0280: housing centre offset 0.00 mm (108 verts), blocking verts 0 OK
+    ocular    glass z +0.1902 r 0.0180: housing centre offset 0.00 mm (216 verts), blocking verts 0 OK
+lever_rifle          twelve_power_scope      0.1510    0.1510    0.1510     -0.00  +0.0000    0.0898 OK (tilt -0.00 mm, 2 glass groups)
+    objective glass z -0.2842 r 0.0330: housing centre offset 0.00 mm (108 verts), blocking verts 0 OK
+    ocular    glass z +0.1902 r 0.0180: housing centre offset 0.00 mm (216 verts), blocking verts 0 OK
+lever_rifle          thermal_scope           0.1510    0.1510    0.1510     -0.00  +0.0000    0.0898 OK (tilt -0.00 mm, 2 glass groups)
+    objective glass z -0.1642 r 0.0270: housing centre offset 0.00 mm (108 verts), blocking verts 216 FAIL
+    ocular    glass z +0.1902 r 0.0180: housing centre offset 0.00 mm (216 verts), blocking verts 0 OK
+semi_auto_rifle      reflex_sight            0.1280    0.1270    0.1270     -1.00  +0.0000    0.1818 OK (tilt +0.00 mm, 1 glass groups)
+semi_auto_rifle      micro_red_dot           0.1370    0.1375    0.1375     +0.50  +0.0000    0.1886 OK (tilt +0.00 mm, 1 glass groups)
+semi_auto_rifle      holographic_sight       0.1360    0.1355    0.1355     -0.50  +0.0000    0.1900 OK (tilt +0.00 mm, 1 glass groups)
+semi_auto_rifle      two_power_prism         0.1450    0.1455    0.1455     +0.50  +0.0000    0.0952 OK (tilt +0.00 mm, 2 glass groups)
+    objective glass z -0.0705 r 0.0185: housing centre offset 0.00 mm (192 verts), blocking verts 0 OK
+    ocular    glass z +0.0208 r 0.0185: housing centre offset 0.00 mm (768 verts), blocking verts 0 OK
+semi_auto_rifle      six_power_scope         0.1515    0.1515    0.1515     +0.00  +0.0000    0.0898 OK (tilt +0.00 mm, 2 glass groups)
+    objective glass z -0.2032 r 0.0230: housing centre offset 0.00 mm (108 verts), blocking verts 0 OK
+    ocular    glass z +0.1862 r 0.0180: housing centre offset 0.00 mm (216 verts), blocking verts 0 OK
+semi_auto_rifle      eight_power_scope       0.1515    0.1515    0.1515     +0.00  +0.0000    0.0898 OK (tilt +0.00 mm, 2 glass groups)
+    objective glass z -0.2482 r 0.0280: housing centre offset 0.00 mm (108 verts), blocking verts 0 OK
+    ocular    glass z +0.1862 r 0.0180: housing centre offset 0.00 mm (216 verts), blocking verts 0 OK
+semi_auto_rifle      twelve_power_scope      0.1515    0.1515    0.1515     +0.00  +0.0000    0.0898 OK (tilt +0.00 mm, 2 glass groups)
+    objective glass z -0.2882 r 0.0330: housing centre offset 0.00 mm (108 verts), blocking verts 0 OK
+    ocular    glass z +0.1862 r 0.0180: housing centre offset 0.00 mm (216 verts), blocking verts 0 OK
+semi_auto_rifle      thermal_scope           0.1515    0.1515    0.1515     -0.00  +0.0000    0.0898 OK (tilt -0.00 mm, 2 glass groups)
+    objective glass z -0.1682 r 0.0270: housing centre offset 0.00 mm (108 verts), blocking verts 216 FAIL
+    ocular    glass z +0.1862 r 0.0180: housing centre offset 0.00 mm (216 verts), blocking verts 0 OK
+pump_shotgun         reflex_sight            0.1275    0.1265    0.1265     -1.00  +0.0000    0.1818 OK (tilt +0.00 mm, 1 glass groups)
+pump_shotgun         micro_red_dot           0.1365    0.1370    0.1370     +0.50  +0.0000    0.1886 OK (tilt +0.00 mm, 1 glass groups)
+pump_shotgun         holographic_sight       0.1355    0.1350    0.1350     -0.50  +0.0000    0.1900 OK (tilt +0.00 mm, 1 glass groups)
+pump_shotgun         two_power_prism         0.1445    0.1450    0.1450     +0.50  +0.0000    0.0952 OK (tilt +0.00 mm, 2 glass groups)
+    objective glass z -0.0605 r 0.0185: housing centre offset 0.00 mm (192 verts), blocking verts 0 OK
+    ocular    glass z +0.0308 r 0.0185: housing centre offset 0.00 mm (768 verts), blocking verts 0 OK
+pump_shotgun         six_power_scope         0.1510    0.1510    0.1510     -0.00  +0.0000    0.0898 OK (tilt +0.00 mm, 2 glass groups)
+    objective glass z -0.1932 r 0.0230: housing centre offset 0.00 mm (108 verts), blocking verts 0 OK
+    ocular    glass z +0.1962 r 0.0180: housing centre offset 0.00 mm (216 verts), blocking verts 0 OK
+pump_shotgun         eight_power_scope       0.1510    0.1510    0.1510     -0.00  +0.0000    0.0898 OK (tilt +0.00 mm, 2 glass groups)
+    objective glass z -0.2382 r 0.0280: housing centre offset 0.00 mm (108 verts), blocking verts 0 OK
+    ocular    glass z +0.1962 r 0.0180: housing centre offset 0.00 mm (216 verts), blocking verts 0 OK
+pump_shotgun         twelve_power_scope      0.1510    0.1510    0.1510     -0.00  +0.0000    0.0898 OK (tilt -0.00 mm, 2 glass groups)
+    objective glass z -0.2782 r 0.0330: housing centre offset 0.00 mm (108 verts), blocking verts 0 OK
+    ocular    glass z +0.1962 r 0.0180: housing centre offset 0.00 mm (216 verts), blocking verts 0 OK
+pump_shotgun         thermal_scope           0.1510    0.1510    0.1510     -0.00  +0.0000    0.0898 OK (tilt -0.00 mm, 2 glass groups)
+    objective glass z -0.1582 r 0.0270: housing centre offset 0.00 mm (108 verts), blocking verts 216 FAIL
+    ocular    glass z +0.1962 r 0.0180: housing centre offset 0.00 mm (216 verts), blocking verts 0 OK
+double_barrel        reflex_sight            0.1235    0.1225    0.1225     -1.00  +0.0000    0.1818 OK (tilt +0.00 mm, 1 glass groups)
+double_barrel        micro_red_dot           0.1325    0.1330    0.1330     +0.50  +0.0000    0.1886 OK (tilt +0.00 mm, 1 glass groups)
+double_barrel        holographic_sight       0.1315    0.1310    0.1310     -0.50  +0.0000    0.1900 OK (tilt +0.00 mm, 1 glass groups)
+semi_auto_shotgun    reflex_sight            0.1325    0.1315    0.1315     -1.00  +0.0000    0.1818 OK (tilt +0.00 mm, 1 glass groups)
+semi_auto_shotgun    micro_red_dot           0.1415    0.1420    0.1420     +0.50  +0.0000    0.1886 OK (tilt +0.00 mm, 1 glass groups)
+semi_auto_shotgun    holographic_sight       0.1405    0.1400    0.1400     -0.50  +0.0000    0.1900 OK (tilt +0.00 mm, 1 glass groups)
+semi_auto_shotgun    two_power_prism         0.1495    0.1500    0.1500     +0.50  +0.0000    0.0952 OK (tilt +0.00 mm, 2 glass groups)
+    objective glass z -0.0405 r 0.0185: housing centre offset 0.00 mm (192 verts), blocking verts 0 OK
+    ocular    glass z +0.0508 r 0.0185: housing centre offset 0.00 mm (768 verts), blocking verts 0 OK
+semi_auto_shotgun    six_power_scope         0.1560    0.1560    0.1560     +0.00  +0.0000    0.0898 OK (tilt +0.00 mm, 2 glass groups)
+    objective glass z -0.1732 r 0.0230: housing centre offset 0.00 mm (108 verts), blocking verts 0 OK
+    ocular    glass z +0.2162 r 0.0180: housing centre offset 0.00 mm (216 verts), blocking verts 0 OK
+semi_auto_shotgun    eight_power_scope       0.1560    0.1560    0.1560     +0.00  +0.0000    0.0898 OK (tilt +0.00 mm, 2 glass groups)
+    objective glass z -0.2182 r 0.0280: housing centre offset 0.00 mm (108 verts), blocking verts 0 OK
+    ocular    glass z +0.2162 r 0.0180: housing centre offset 0.00 mm (216 verts), blocking verts 0 OK
+semi_auto_shotgun    twelve_power_scope      0.1560    0.1560    0.1560     +0.00  +0.0000    0.0898 OK (tilt +0.00 mm, 2 glass groups)
+    objective glass z -0.2582 r 0.0330: housing centre offset 0.00 mm (108 verts), blocking verts 0 OK
+    ocular    glass z +0.2162 r 0.0180: housing centre offset 0.00 mm (216 verts), blocking verts 0 OK
+semi_auto_shotgun    thermal_scope           0.1560    0.1560    0.1560     +0.00  +0.0000    0.0898 OK (tilt +0.00 mm, 2 glass groups)
+    objective glass z -0.1382 r 0.0270: housing centre offset 0.00 mm (108 verts), blocking verts 216 FAIL
+    ocular    glass z +0.2162 r 0.0180: housing centre offset 0.00 mm (216 verts), blocking verts 0 OK
+revolver             reflex_sight            0.1235    0.1225    0.1225     -1.00  +0.0000    0.5338 OK (tilt +0.00 mm, 1 glass groups)
+revolver             micro_red_dot           0.1325    0.1330    0.1330     +0.50  +0.0000    0.5406 OK (tilt +0.00 mm, 1 glass groups)
+revolver             holographic_sight       0.1315    0.1310    0.1310     -0.50  +0.0000    0.5420 OK (tilt +0.00 mm, 1 glass groups)
+field_pistol         reflex_sight            0.1720    0.1710    0.1710     -1.00  +0.0000    0.5778 OK (tilt +0.00 mm, 1 glass groups)
+field_pistol         micro_red_dot           0.1810    0.1815    0.1815     +0.50  +0.0000    0.5846 OK (tilt +0.00 mm, 1 glass groups)
+field_pistol         holographic_sight       0.1800    0.1795    0.1795     -0.50  +0.0000    0.5860 OK (tilt +0.00 mm, 1 glass groups)
+tranquilizer_rifle   reflex_sight            0.1245    0.1235    0.1235     -1.00  +0.0000    0.1818 OK (tilt +0.00 mm, 1 glass groups)
+tranquilizer_rifle   micro_red_dot           0.1335    0.1340    0.1340     +0.50  +0.0000    0.1886 OK (tilt +0.00 mm, 1 glass groups)
+tranquilizer_rifle   holographic_sight       0.1325    0.1320    0.1320     -0.50  +0.0000    0.1900 OK (tilt +0.00 mm, 1 glass groups)
+tranquilizer_rifle   two_power_prism         0.1415    0.1420    0.1420     +0.50  +0.0000    0.0952 OK (tilt +0.00 mm, 2 glass groups)
+    objective glass z -0.0705 r 0.0185: housing centre offset 0.00 mm (192 verts), blocking verts 0 OK
+    ocular    glass z +0.0208 r 0.0185: housing centre offset 0.00 mm (768 verts), blocking verts 0 OK
+tranquilizer_rifle   six_power_scope         0.1480    0.1480    0.1480     +0.00  +0.0000    0.0898 OK (tilt +0.00 mm, 2 glass groups)
+    objective glass z -0.2032 r 0.0230: housing centre offset 0.00 mm (108 verts), blocking verts 0 OK
+    ocular    glass z +0.1862 r 0.0180: housing centre offset 0.00 mm (216 verts), blocking verts 0 OK
+tranquilizer_rifle   eight_power_scope       0.1480    0.1480    0.1480     +0.00  +0.0000    0.0898 OK (tilt +0.00 mm, 2 glass groups)
+    objective glass z -0.2482 r 0.0280: housing centre offset 0.00 mm (108 verts), blocking verts 0 OK
+    ocular    glass z +0.1862 r 0.0180: housing centre offset 0.00 mm (216 verts), blocking verts 0 OK
+tranquilizer_rifle   twelve_power_scope      0.1480    0.1480    0.1480     +0.00  +0.0000    0.0898 OK (tilt -0.00 mm, 2 glass groups)
+    objective glass z -0.2882 r 0.0330: housing centre offset 0.00 mm (108 verts), blocking verts 0 OK
+    ocular    glass z +0.1862 r 0.0180: housing centre offset 0.00 mm (216 verts), blocking verts 0 OK
+tranquilizer_rifle   thermal_scope           0.1480    0.1480    0.1480     +0.00  +0.0000    0.0898 OK (tilt -0.00 mm, 2 glass groups)
+    objective glass z -0.1682 r 0.0270: housing centre offset 0.00 mm (108 verts), blocking verts 216 FAIL
+    ocular    glass z +0.1862 r 0.0180: housing centre offset 0.00 mm (216 verts), blocking verts 0 OK
+ridgeline            four_power_optic        0.1562    0.1562    0.1562     -0.00  +0.0000    0.0851 OK (tilt +0.00 mm, 2 glass groups)
+    objective glass z -0.1480 r 0.0218: housing centre offset 0.00 mm (108 verts), blocking verts 0 OK
+    ocular    glass z +0.2025 r 0.0164: housing centre offset 0.00 mm (108 verts), blocking verts 0 OK
+ridgeline            six_power_scope         0.1640    0.1640    0.1640     -0.00  +0.0000    0.0898 OK (tilt +0.00 mm, 2 glass groups)
+    objective glass z -0.1145 r 0.0179: housing centre offset 0.00 mm (432 verts), blocking verts 0 OK
+    ocular    glass z +0.1892 r 0.0140: housing centre offset 0.00 mm (216 verts), blocking verts 0 OK
+ridgeline            eight_power_scope       0.1640    0.1640    0.1640     -0.00  +0.0000    0.0898 OK (tilt +0.00 mm, 2 glass groups)
+    objective glass z -0.1496 r 0.0218: housing centre offset 0.00 mm (432 verts), blocking verts 0 OK
+    ocular    glass z +0.1892 r 0.0140: housing centre offset 0.00 mm (216 verts), blocking verts 0 OK
+ridgeline            twelve_power_scope      0.1640    0.1640    0.1640     -0.00  +0.0000    0.0898 OK (tilt +0.00 mm, 2 glass groups)
+    objective glass z -0.1808 r 0.0257: housing centre offset 0.00 mm (432 verts), blocking verts 0 OK
+    ocular    glass z +0.1892 r 0.0140: housing centre offset 0.00 mm (216 verts), blocking verts 0 OK
+ridgeline            thermal_scope           0.1640    0.1640    0.1640     -0.00  +0.0000    0.0898 OK (tilt +0.00 mm, 2 glass groups)
+    objective glass z -0.0872 r 0.0211: housing centre offset 0.00 mm (432 verts), blocking verts 216 FAIL
+    ocular    glass z +0.1892 r 0.0140: housing centre offset 0.00 mm (216 verts), blocking verts 0 OK
+ridgeline            reflex_sight            0.1512    0.1499    0.1499     -1.29  +0.0000    0.1787 OK (tilt +0.00 mm, 1 glass groups)
+ridgeline            micro_red_dot           0.1590    0.1590    0.1590     -0.00  +0.0000    0.1846 OK (tilt +0.00 mm, 1 glass groups)
+ridgeline            holographic_sight       0.1581    0.1573    0.1573     -0.86  +0.0000    0.1858 OK (tilt +0.00 mm, 1 glass groups)
+ridgeline            two_power_prism         0.1659    0.1659    0.1659     +0.00  +0.0000    0.0819 OK (tilt +0.00 mm, 2 glass groups)
+    objective glass z +0.0733 r 0.0159: housing centre offset 0.00 mm (384 verts), blocking verts 0 OK
+    ocular    glass z +0.1518 r 0.0159: housing centre offset 0.00 mm (768 verts), blocking verts 0 OK
+# mm* = millimetres at Minecraft scale (1 block = 1 m); first person draws guns x1.35 / x1.22
+FAILURES 6

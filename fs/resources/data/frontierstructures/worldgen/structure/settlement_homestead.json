@@ -1,0 +1,9 @@
+{
+  "type": "frontierstructures:expedition_site",
+  "template": "frontierstructures:expedition/settlement_homestead",
+  "biomes": "#frontierstructures:has_settlement",
+  "step": "top_layer_modification",
+  "spawn_overrides": {},
+  "terrain_adaptation": "none",
+  "max_relief": 11
+}

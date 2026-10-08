@@ -1,0 +1,19 @@
+{
+ "parent": "frontierhunts:legend/root",
+ "display": {
+  "icon": {
+   "id": "frontierhunts:whitetail_trophy"
+  },
+  "title": "The Ghost Bull",
+  "description": "Take the legend of the high parks, fair and tagged",
+  "frame": "challenge",
+  "show_toast": true,
+  "announce_to_chat": true,
+  "hidden": false
+ },
+ "criteria": {
+  "taken": {
+   "trigger": "minecraft:impossible"
+  }
+ }
+}

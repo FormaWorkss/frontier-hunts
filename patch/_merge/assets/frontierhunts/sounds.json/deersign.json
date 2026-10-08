@@ -1,0 +1,103 @@
+{
+  "deer_rub": {
+    "subtitle": "subtitles.frontierhunts.deer_rub",
+    "sounds": [
+      {
+        "name": "frontierhunts:deersign/rub_0",
+        "attenuation_distance": 28
+      },
+      {
+        "name": "frontierhunts:deersign/rub_1",
+        "attenuation_distance": 28
+      },
+      {
+        "name": "frontierhunts:deersign/rub_2",
+        "attenuation_distance": 28
+      },
+      {
+        "name": "frontierhunts:deersign/rub_3",
+        "attenuation_distance": 28
+      },
+      {
+        "name": "frontierhunts:deersign/rub_4",
+        "attenuation_distance": 28
+      }
+    ]
+  },
+  "deer_paw": {
+    "subtitle": "subtitles.frontierhunts.deer_paw",
+    "sounds": [
+      {
+        "name": "frontierhunts:deersign/paw_0",
+        "attenuation_distance": 22
+      },
+      {
+        "name": "frontierhunts:deersign/paw_1",
+        "attenuation_distance": 22
+      },
+      {
+        "name": "frontierhunts:deersign/paw_2",
+        "attenuation_distance": 22
+      },
+      {
+        "name": "frontierhunts:deersign/paw_3",
+        "attenuation_distance": 22
+      },
+      {
+        "name": "frontierhunts:deersign/paw_4",
+        "attenuation_distance": 22
+      }
+    ]
+  },
+  "deer_licking_branch": {
+    "subtitle": "subtitles.frontierhunts.deer_licking_branch",
+    "sounds": [
+      {
+        "name": "frontierhunts:deersign/branch_0",
+        "attenuation_distance": 18
+      },
+      {
+        "name": "frontierhunts:deersign/branch_1",
+        "attenuation_distance": 18
+      },
+      {
+        "name": "frontierhunts:deersign/branch_2",
+        "attenuation_distance": 18
+      },
+      {
+        "name": "frontierhunts:deersign/branch_3",
+        "attenuation_distance": 18
+      }
+    ]
+  },
+  "deer_twig_snap": {
+    "subtitle": "subtitles.frontierhunts.deer_twig_snap",
+    "sounds": [
+      {
+        "name": "frontierhunts:deersign/snap_0",
+        "attenuation_distance": 24
+      },
+      {
+        "name": "frontierhunts:deersign/snap_1",
+        "attenuation_distance": 24
+      },
+      {
+        "name": "frontierhunts:deersign/snap_2",
+        "attenuation_distance": 24
+      }
+    ]
+  },
+  "deer_trickle": {
+    "subtitle": "subtitles.frontierhunts.deer_trickle",
+    "sounds": [
+      {
+        "name": "frontierhunts:deersign/trickle_0",
+        "attenuation_distance": 10
+      },
+      {
+        "name": "frontierhunts:deersign/trickle_1",
+        "attenuation_distance": 10
+      }
+    ]
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "entity.frontierhunts.tracking_hound": "Tracking Hound",
+  "item.frontierhunts.hound_lead": "Hound Lead",
+  "item.frontierhunts.hound_lead.tip1": "Use: your own tracking hound (one per hunter) · then: come",
+  "item.frontierhunts.hound_lead.tip2": "Sneak-use: heel · Right-click the hound: sit / stay",
+  "item.frontierhunts.hound_lead.tip3": "Use while aiming at blood or prints: put the hound on the track"
+}

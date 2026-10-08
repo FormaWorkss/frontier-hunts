@@ -1,0 +1,15 @@
+{
+ "loader": "neoforge:separate_transforms",
+ "gui_light": "front",
+ "base": {
+  "parent": "frontierhunts:item/tracking_lamp_3d"
+ },
+ "perspectives": {
+  "gui": {
+   "parent": "minecraft:item/generated",
+   "textures": {
+    "layer0": "frontierhunts:item/tracking_lamp"
+   }
+  }
+ }
+}

@@ -1,0 +1,2257 @@
+[
+  {
+    "name": "settlement_lodge",
+    "title": "Three Pines Lodge",
+    "size": [
+      26,
+      19,
+      30
+    ],
+    "blocks": 6860,
+    "sha256": "5996ee9999a512e7444b136ff2822149c92143535fe96aeb87734eabec90d3a3",
+    "ground_air_y": 2,
+    "entrances": [
+      [
+        15,
+        3,
+        11
+      ]
+    ],
+    "routes": [
+      {
+        "name": "entry",
+        "points": [
+          [
+            15.5,
+            2,
+            4.5
+          ],
+          [
+            15.5,
+            3,
+            9.5
+          ],
+          [
+            15.5,
+            3,
+            12.5
+          ],
+          [
+            15.5,
+            3,
+            26.5
+          ]
+        ]
+      },
+      {
+        "name": "loft-up-and-down",
+        "points": [
+          [
+            19.5,
+            3,
+            15.5
+          ],
+          [
+            19.5,
+            8,
+            21.5
+          ],
+          [
+            19.5,
+            8,
+            23.5
+          ],
+          [
+            19.5,
+            8,
+            21.5
+          ],
+          [
+            19.5,
+            3,
+            15.5
+          ]
+        ]
+      }
+    ],
+    "stores": [
+      [
+        7,
+        3,
+        12
+      ],
+      [
+        19,
+        8,
+        26
+      ]
+    ],
+    "cots": [
+      [
+        [
+          11,
+          8,
+          25
+        ],
+        [
+          11,
+          8,
+          26
+        ]
+      ],
+      [
+        [
+          13,
+          8,
+          25
+        ],
+        [
+          13,
+          8,
+          26
+        ]
+      ],
+      [
+        [
+          15,
+          8,
+          25
+        ],
+        [
+          15,
+          8,
+          26
+        ]
+      ],
+      [
+        [
+          17,
+          8,
+          25
+        ],
+        [
+          17,
+          8,
+          26
+        ]
+      ]
+    ],
+    "workplaces": [
+      {
+        "id": "frontierhunts:lodge_stove",
+        "pos": [
+          23,
+          3,
+          24
+        ]
+      },
+      {
+        "id": "frontierhunts:expedition_board",
+        "pos": [
+          21,
+          3,
+          12
+        ]
+      },
+      {
+        "id": "frontierhunts:gun_rack",
+        "pos": [
+          23,
+          3,
+          16
+        ]
+      },
+      {
+        "id": "frontierhunts:trophy_plinth",
+        "pos": [
+          23,
+          3,
+          19
+        ]
+      }
+    ],
+    "cameras": [
+      {
+        "name": "main-room",
+        "eye": [
+          15.5,
+          4.62,
+          11.5
+        ],
+        "target": [
+          8,
+          4,
+          26
+        ]
+      },
+      {
+        "name": "bunk-loft",
+        "eye": [
+          20.5,
+          9.62,
+          22.5
+        ],
+        "target": [
+          12,
+          8.7,
+          26
+        ]
+      },
+      {
+        "name": "kitchen-and-stair",
+        "eye": [
+          19.5,
+          4.62,
+          24
+        ],
+        "target": [
+          22,
+          4,
+          27
+        ]
+      }
+    ],
+    "acceptance": "PENDING_NATIVE_REVIEW",
+    "station_pairs": [
+      [
+        [
+          21,
+          3,
+          12
+        ],
+        [
+          22,
+          3,
+          12
+        ]
+      ]
+    ]
+  },
+  {
+    "name": "settlement_outfitter",
+    "title": "Pine Junction Outfitters",
+    "size": [
+      29,
+      19,
+      25
+    ],
+    "blocks": 4918,
+    "sha256": "2a6788821139f2fdc653e9ca85767f934c6c87207ee20fbef8a95206a857ecc2",
+    "ground_air_y": 2,
+    "entrances": [
+      [
+        12,
+        3,
+        10
+      ]
+    ],
+    "routes": [
+      {
+        "name": "entry",
+        "points": [
+          [
+            12.5,
+            2,
+            3.5
+          ],
+          [
+            12.5,
+            3,
+            8.5
+          ],
+          [
+            12.5,
+            3,
+            11.5
+          ],
+          [
+            12.5,
+            3,
+            21.5
+          ]
+        ]
+      }
+    ],
+    "stores": [
+      [
+        6,
+        3,
+        11
+      ],
+      [
+        26,
+        3,
+        21
+      ]
+    ],
+    "cots": [],
+    "workplaces": [
+      {
+        "id": "frontierhunts:expedition_board",
+        "pos": [
+          16,
+          3,
+          11
+        ]
+      },
+      {
+        "id": "frontierhunts:weapons_workbench",
+        "pos": [
+          6,
+          3,
+          15
+        ]
+      },
+      {
+        "id": "frontierhunts:ammo_reloader",
+        "pos": [
+          6,
+          3,
+          19
+        ]
+      },
+      {
+        "id": "frontierhunts:bow_tuning_rack",
+        "pos": [
+          16,
+          3,
+          22
+        ]
+      },
+      {
+        "id": "frontierhunts:clothing_workbench",
+        "pos": [
+          10,
+          3,
+          22
+        ]
+      },
+      {
+        "id": "frontierhunts:gun_rack",
+        "pos": [
+          18,
+          3,
+          15
+        ]
+      },
+      {
+        "id": "frontierhunts:gun_rack",
+        "pos": [
+          18,
+          3,
+          18
+        ]
+      },
+      {
+        "id": "frontierhunts:tent_bench",
+        "pos": [
+          22,
+          3,
+          14
+        ]
+      },
+      {
+        "id": "frontierhunts:fishing_station",
+        "pos": [
+          22,
+          3,
+          19
+        ]
+      }
+    ],
+    "cameras": [
+      {
+        "name": "main-room",
+        "eye": [
+          12.5,
+          4.62,
+          10.5
+        ],
+        "target": [
+          7,
+          4,
+          21
+        ]
+      }
+    ],
+    "acceptance": "PENDING_NATIVE_REVIEW",
+    "station_pairs": [
+      [
+        [
+          16,
+          3,
+          11
+        ],
+        [
+          17,
+          3,
+          11
+        ]
+      ],
+      [
+        [
+          6,
+          3,
+          15
+        ],
+        [
+          6,
+          3,
+          16
+        ]
+      ],
+      [
+        [
+          6,
+          3,
+          19
+        ],
+        [
+          6,
+          3,
+          20
+        ]
+      ],
+      [
+        [
+          16,
+          3,
+          22
+        ],
+        [
+          17,
+          3,
+          22
+        ]
+      ],
+      [
+        [
+          10,
+          3,
+          22
+        ],
+        [
+          11,
+          3,
+          22
+        ]
+      ],
+      [
+        [
+          22,
+          3,
+          14
+        ],
+        [
+          22,
+          3,
+          15
+        ]
+      ],
+      [
+        [
+          22,
+          3,
+          19
+        ],
+        [
+          22,
+          3,
+          20
+        ]
+      ]
+    ]
+  },
+  {
+    "name": "settlement_trapper",
+    "title": "Alder Run Trapper Cabin",
+    "size": [
+      23,
+      19,
+      21
+    ],
+    "blocks": 2622,
+    "sha256": "4ff2efd45bd732d583405d0b4911a6efd5c2f8b54a11bed93865d0742506475a",
+    "ground_air_y": 2,
+    "entrances": [
+      [
+        10,
+        3,
+        10
+      ]
+    ],
+    "routes": [
+      {
+        "name": "entry",
+        "points": [
+          [
+            10.5,
+            2,
+            3.5
+          ],
+          [
+            10.5,
+            3,
+            8.5
+          ],
+          [
+            10.5,
+            3,
+            11.5
+          ],
+          [
+            10.5,
+            3,
+            17.5
+          ]
+        ]
+      }
+    ],
+    "stores": [
+      [
+        6,
+        3,
+        11
+      ],
+      [
+        20,
+        3,
+        17
+      ]
+    ],
+    "cots": [
+      [
+        [
+          6,
+          3,
+          17
+        ],
+        [
+          6,
+          3,
+          18
+        ]
+      ],
+      [
+        [
+          8,
+          3,
+          17
+        ],
+        [
+          8,
+          3,
+          18
+        ]
+      ]
+    ],
+    "workplaces": [
+      {
+        "id": "frontierhunts:lodge_stove",
+        "pos": [
+          14,
+          3,
+          15
+        ]
+      },
+      {
+        "id": "frontierhunts:expedition_board",
+        "pos": [
+          12,
+          3,
+          11
+        ]
+      },
+      {
+        "id": "frontierhunts:tanning_rack",
+        "pos": [
+          18,
+          3,
+          12
+        ]
+      }
+    ],
+    "cameras": [
+      {
+        "name": "main-room",
+        "eye": [
+          10.5,
+          4.62,
+          10.5
+        ],
+        "target": [
+          7,
+          4,
+          17
+        ]
+      }
+    ],
+    "acceptance": "PENDING_NATIVE_REVIEW",
+    "station_pairs": [
+      [
+        [
+          12,
+          3,
+          11
+        ],
+        [
+          13,
+          3,
+          11
+        ]
+      ],
+      [
+        [
+          18,
+          3,
+          12
+        ],
+        [
+          19,
+          3,
+          12
+        ]
+      ]
+    ]
+  },
+  {
+    "name": "settlement_homestead",
+    "title": "Birch Hollow Homestead",
+    "size": [
+      25,
+      19,
+      30
+    ],
+    "blocks": 3608,
+    "sha256": "b99c68cfe305477745a0f4dda9e77fcdf7ca3c2bf386be0b4f6cc32a8eebc4fe",
+    "ground_air_y": 2,
+    "entrances": [
+      [
+        11,
+        3,
+        10
+      ]
+    ],
+    "routes": [
+      {
+        "name": "entry",
+        "points": [
+          [
+            11.5,
+            2,
+            3.5
+          ],
+          [
+            11.5,
+            3,
+            8.5
+          ],
+          [
+            11.5,
+            3,
+            11.5
+          ],
+          [
+            11.5,
+            3,
+            19.5
+          ]
+        ]
+      }
+    ],
+    "stores": [
+      [
+        6,
+        3,
+        11
+      ],
+      [
+        22,
+        3,
+        17
+      ]
+    ],
+    "cots": [
+      [
+        [
+          6,
+          3,
+          19
+        ],
+        [
+          6,
+          3,
+          20
+        ]
+      ],
+      [
+        [
+          8,
+          3,
+          19
+        ],
+        [
+          8,
+          3,
+          20
+        ]
+      ],
+      [
+        [
+          10,
+          3,
+          19
+        ],
+        [
+          10,
+          3,
+          20
+        ]
+      ]
+    ],
+    "workplaces": [
+      {
+        "id": "frontierhunts:lodge_stove",
+        "pos": [
+          16,
+          3,
+          17
+        ]
+      },
+      {
+        "id": "frontierhunts:expedition_board",
+        "pos": [
+          14,
+          3,
+          11
+        ]
+      }
+    ],
+    "cameras": [
+      {
+        "name": "main-room",
+        "eye": [
+          11.5,
+          4.62,
+          10.5
+        ],
+        "target": [
+          7,
+          4,
+          19
+        ]
+      }
+    ],
+    "acceptance": "PENDING_NATIVE_REVIEW",
+    "station_pairs": [
+      [
+        [
+          14,
+          3,
+          11
+        ],
+        [
+          15,
+          3,
+          11
+        ]
+      ]
+    ]
+  },
+  {
+    "name": "settlement_lookout",
+    "title": "Crowsnest Timber Lookout",
+    "size": [
+      20,
+      36,
+      21
+    ],
+    "blocks": 1603,
+    "sha256": "d7b236e3d4a1d47247e878309c33682735f74754d996eb8aee41c53f9d2ae27e",
+    "ground_air_y": 2,
+    "entrances": [
+      [
+        10,
+        26,
+        13
+      ]
+    ],
+    "routes": [
+      {
+        "name": "four-flights-up-and-down",
+        "points": [
+          [
+            8,
+            2,
+            3.5
+          ],
+          [
+            8,
+            8,
+            11.5
+          ],
+          [
+            13.5,
+            8,
+            11.5
+          ],
+          [
+            13.5,
+            14,
+            4.5
+          ],
+          [
+            8,
+            14,
+            4.5
+          ],
+          [
+            8,
+            20,
+            11.5
+          ],
+          [
+            13.5,
+            20,
+            11.5
+          ],
+          [
+            13.5,
+            26,
+            4.5
+          ],
+          [
+            10.5,
+            26,
+            4.5
+          ],
+          [
+            10.5,
+            26,
+            14.5
+          ],
+          [
+            10.5,
+            26,
+            4.5
+          ],
+          [
+            13.5,
+            26,
+            4.5
+          ],
+          [
+            13.5,
+            20,
+            11.5
+          ],
+          [
+            8,
+            20,
+            11.5
+          ],
+          [
+            8,
+            14,
+            4.5
+          ],
+          [
+            13.5,
+            14,
+            4.5
+          ],
+          [
+            13.5,
+            8,
+            11.5
+          ],
+          [
+            8,
+            8,
+            11.5
+          ],
+          [
+            8,
+            2,
+            3.5
+          ]
+        ]
+      }
+    ],
+    "stores": [
+      [
+        15,
+        26,
+        17
+      ]
+    ],
+    "cots": [
+      [
+        [
+          7,
+          26,
+          16
+        ],
+        [
+          7,
+          26,
+          17
+        ]
+      ]
+    ],
+    "workplaces": [
+      {
+        "id": "frontierhunts:expedition_board",
+        "pos": [
+          14,
+          26,
+          14
+        ]
+      },
+      {
+        "id": "frontierhunts:lodge_stove",
+        "pos": [
+          14,
+          26,
+          17
+        ]
+      }
+    ],
+    "cameras": [
+      {
+        "name": "lookout-room",
+        "eye": [
+          10.5,
+          27.62,
+          14.5
+        ],
+        "target": [
+          14,
+          27,
+          17
+        ]
+      },
+      {
+        "name": "stair-landings",
+        "eye": [
+          10.5,
+          12,
+          16
+        ],
+        "target": [
+          10.5,
+          7,
+          7
+        ]
+      },
+      {
+        "name": "balcony",
+        "eye": [
+          17.5,
+          27.62,
+          4
+        ],
+        "target": [
+          9,
+          28,
+          16
+        ]
+      }
+    ],
+    "acceptance": "PENDING_NATIVE_REVIEW",
+    "station_pairs": [
+      [
+        [
+          14,
+          26,
+          14
+        ],
+        [
+          15,
+          26,
+          14
+        ]
+      ]
+    ]
+  },
+  {
+    "name": "settlement_smokehouse",
+    "title": "Split Antler Smokehouse and Tannery",
+    "size": [
+      27,
+      19,
+      21
+    ],
+    "blocks": 3293,
+    "sha256": "533561a866e2ec5193bb4b5f32474f29a268252ea929301aa9194ca15e69b5b6",
+    "ground_air_y": 2,
+    "entrances": [
+      [
+        11,
+        3,
+        10
+      ]
+    ],
+    "routes": [
+      {
+        "name": "entry",
+        "points": [
+          [
+            11.5,
+            2,
+            3.5
+          ],
+          [
+            11.5,
+            3,
+            8.5
+          ],
+          [
+            11.5,
+            3,
+            11.5
+          ],
+          [
+            11.5,
+            3,
+            17.5
+          ]
+        ]
+      }
+    ],
+    "stores": [
+      [
+        6,
+        3,
+        11
+      ],
+      [
+        24,
+        3,
+        18
+      ]
+    ],
+    "cots": [],
+    "workplaces": [
+      {
+        "id": "frontierhunts:smokehouse",
+        "pos": [
+          6,
+          3,
+          14
+        ]
+      },
+      {
+        "id": "frontierhunts:tanning_rack",
+        "pos": [
+          13,
+          3,
+          18
+        ]
+      },
+      {
+        "id": "frontierhunts:weapons_workbench",
+        "pos": [
+          15,
+          3,
+          12
+        ]
+      },
+      {
+        "id": "frontierhunts:tanning_rack",
+        "pos": [
+          20,
+          3,
+          14
+        ]
+      }
+    ],
+    "cameras": [
+      {
+        "name": "main-room",
+        "eye": [
+          11.5,
+          4.62,
+          10.5
+        ],
+        "target": [
+          7,
+          4,
+          17
+        ]
+      }
+    ],
+    "acceptance": "PENDING_NATIVE_REVIEW",
+    "station_pairs": [
+      [
+        [
+          6,
+          3,
+          14
+        ],
+        [
+          6,
+          3,
+          15
+        ]
+      ],
+      [
+        [
+          13,
+          3,
+          18
+        ],
+        [
+          14,
+          3,
+          18
+        ]
+      ],
+      [
+        [
+          15,
+          3,
+          12
+        ],
+        [
+          15,
+          3,
+          11
+        ]
+      ],
+      [
+        [
+          20,
+          3,
+          14
+        ],
+        [
+          20,
+          3,
+          15
+        ]
+      ]
+    ]
+  },
+  {
+    "name": "settlement_fishing",
+    "title": "Reedbank Fishing Hut and Pond Dock",
+    "size": [
+      32,
+      19,
+      25
+    ],
+    "blocks": 4016,
+    "sha256": "67254628ea16003da42bedadccc02c03c4aa51563bf305c87522c50caabca871",
+    "ground_air_y": 2,
+    "entrances": [
+      [
+        10,
+        3,
+        10
+      ],
+      [
+        14,
+        3,
+        17
+      ]
+    ],
+    "routes": [
+      {
+        "name": "entry",
+        "points": [
+          [
+            10.5,
+            2,
+            3.5
+          ],
+          [
+            10.5,
+            3,
+            8.5
+          ],
+          [
+            10.5,
+            3,
+            11.5
+          ],
+          [
+            10.5,
+            3,
+            17.5
+          ]
+        ]
+      },
+      {
+        "name": "dock",
+        "points": [
+          [
+            10.5,
+            3,
+            16.5
+          ],
+          [
+            13.5,
+            3,
+            16.5
+          ],
+          [
+            13.5,
+            3,
+            17.5
+          ],
+          [
+            15.5,
+            3,
+            17.5
+          ],
+          [
+            22.5,
+            3,
+            17.5
+          ]
+        ]
+      }
+    ],
+    "stores": [
+      [
+        6,
+        3,
+        11
+      ]
+    ],
+    "cots": [
+      [
+        [
+          6,
+          3,
+          17
+        ],
+        [
+          6,
+          3,
+          18
+        ]
+      ]
+    ],
+    "workplaces": [
+      {
+        "id": "frontierhunts:lodge_stove",
+        "pos": [
+          14,
+          3,
+          18
+        ]
+      },
+      {
+        "id": "frontierhunts:fishing_station",
+        "pos": [
+          12,
+          3,
+          11
+        ]
+      }
+    ],
+    "cameras": [
+      {
+        "name": "main-room",
+        "eye": [
+          10.5,
+          4.62,
+          10.5
+        ],
+        "target": [
+          7,
+          4,
+          17
+        ]
+      },
+      {
+        "name": "pond-dock",
+        "eye": [
+          29,
+          5,
+          22
+        ],
+        "target": [
+          17,
+          3,
+          17
+        ]
+      }
+    ],
+    "acceptance": "PENDING_NATIVE_REVIEW",
+    "station_pairs": [
+      [
+        [
+          12,
+          3,
+          11
+        ],
+        [
+          13,
+          3,
+          11
+        ]
+      ]
+    ]
+  },
+  {
+    "name": "settlement_hamlet",
+    "title": "Pine Junction Hunting Hamlet",
+    "size": [
+      125,
+      36,
+      79
+    ],
+    "blocks": 29630,
+    "sha256": "b2f01db59cf9a2bfdd16f3d47cbb466e088147be02553a1d273c296d51faeb5c",
+    "ground_air_y": 2,
+    "entrances": [
+      [
+        13,
+        3,
+        21
+      ],
+      [
+        60,
+        3,
+        18
+      ],
+      [
+        10,
+        3,
+        58
+      ],
+      [
+        39,
+        3,
+        59
+      ],
+      [
+        72,
+        3,
+        58
+      ],
+      [
+        102,
+        3,
+        18
+      ],
+      [
+        98,
+        3,
+        11
+      ],
+      [
+        108,
+        26,
+        61
+      ]
+    ],
+    "routes": [
+      {
+        "name": "settlement_lodge/entry",
+        "points": [
+          [
+            13.5,
+            2,
+            28.5
+          ],
+          [
+            13.5,
+            3,
+            23.5
+          ],
+          [
+            13.5,
+            3,
+            20.5
+          ],
+          [
+            13.5,
+            3,
+            6.5
+          ]
+        ]
+      },
+      {
+        "name": "settlement_lodge/loft-up-and-down",
+        "points": [
+          [
+            9.5,
+            3,
+            17.5
+          ],
+          [
+            9.5,
+            8,
+            11.5
+          ],
+          [
+            9.5,
+            8,
+            9.5
+          ],
+          [
+            9.5,
+            8,
+            11.5
+          ],
+          [
+            9.5,
+            3,
+            17.5
+          ]
+        ]
+      },
+      {
+        "name": "settlement_outfitter/entry",
+        "points": [
+          [
+            60.5,
+            2,
+            25.5
+          ],
+          [
+            60.5,
+            3,
+            20.5
+          ],
+          [
+            60.5,
+            3,
+            17.5
+          ],
+          [
+            60.5,
+            3,
+            7.5
+          ]
+        ]
+      },
+      {
+        "name": "settlement_trapper/entry",
+        "points": [
+          [
+            10.5,
+            2,
+            51.5
+          ],
+          [
+            10.5,
+            3,
+            56.5
+          ],
+          [
+            10.5,
+            3,
+            59.5
+          ],
+          [
+            10.5,
+            3,
+            65.5
+          ]
+        ]
+      },
+      {
+        "name": "settlement_homestead/entry",
+        "points": [
+          [
+            39.5,
+            2,
+            52.5
+          ],
+          [
+            39.5,
+            3,
+            57.5
+          ],
+          [
+            39.5,
+            3,
+            60.5
+          ],
+          [
+            39.5,
+            3,
+            68.5
+          ]
+        ]
+      },
+      {
+        "name": "settlement_smokehouse/entry",
+        "points": [
+          [
+            72.5,
+            2,
+            51.5
+          ],
+          [
+            72.5,
+            3,
+            56.5
+          ],
+          [
+            72.5,
+            3,
+            59.5
+          ],
+          [
+            72.5,
+            3,
+            65.5
+          ]
+        ]
+      },
+      {
+        "name": "settlement_fishing/entry",
+        "points": [
+          [
+            102.5,
+            2,
+            25.5
+          ],
+          [
+            102.5,
+            3,
+            20.5
+          ],
+          [
+            102.5,
+            3,
+            17.5
+          ],
+          [
+            102.5,
+            3,
+            11.5
+          ]
+        ]
+      },
+      {
+        "name": "settlement_fishing/dock",
+        "points": [
+          [
+            102.5,
+            3,
+            12.5
+          ],
+          [
+            99.5,
+            3,
+            12.5
+          ],
+          [
+            99.5,
+            3,
+            11.5
+          ],
+          [
+            97.5,
+            3,
+            11.5
+          ],
+          [
+            90.5,
+            3,
+            11.5
+          ]
+        ]
+      },
+      {
+        "name": "settlement_lookout/four-flights-up-and-down",
+        "points": [
+          [
+            106.0,
+            2,
+            51.5
+          ],
+          [
+            106.0,
+            8,
+            59.5
+          ],
+          [
+            111.5,
+            8,
+            59.5
+          ],
+          [
+            111.5,
+            14,
+            52.5
+          ],
+          [
+            106.0,
+            14,
+            52.5
+          ],
+          [
+            106.0,
+            20,
+            59.5
+          ],
+          [
+            111.5,
+            20,
+            59.5
+          ],
+          [
+            111.5,
+            26,
+            52.5
+          ],
+          [
+            108.5,
+            26,
+            52.5
+          ],
+          [
+            108.5,
+            26,
+            62.5
+          ],
+          [
+            108.5,
+            26,
+            52.5
+          ],
+          [
+            111.5,
+            26,
+            52.5
+          ],
+          [
+            111.5,
+            20,
+            59.5
+          ],
+          [
+            106.0,
+            20,
+            59.5
+          ],
+          [
+            106.0,
+            14,
+            52.5
+          ],
+          [
+            111.5,
+            14,
+            52.5
+          ],
+          [
+            111.5,
+            8,
+            59.5
+          ],
+          [
+            106.0,
+            8,
+            59.5
+          ],
+          [
+            106.0,
+            2,
+            51.5
+          ]
+        ]
+      }
+    ],
+    "stores": [
+      [
+        21,
+        3,
+        20
+      ],
+      [
+        9,
+        8,
+        6
+      ],
+      [
+        66,
+        3,
+        17
+      ],
+      [
+        46,
+        3,
+        7
+      ],
+      [
+        6,
+        3,
+        59
+      ],
+      [
+        20,
+        3,
+        65
+      ],
+      [
+        34,
+        3,
+        60
+      ],
+      [
+        50,
+        3,
+        66
+      ],
+      [
+        67,
+        3,
+        59
+      ],
+      [
+        85,
+        3,
+        66
+      ],
+      [
+        106,
+        3,
+        17
+      ],
+      [
+        113,
+        26,
+        65
+      ],
+      [
+        64,
+        2,
+        44
+      ]
+    ],
+    "cots": [
+      [
+        [
+          17,
+          8,
+          7
+        ],
+        [
+          17,
+          8,
+          6
+        ]
+      ],
+      [
+        [
+          15,
+          8,
+          7
+        ],
+        [
+          15,
+          8,
+          6
+        ]
+      ],
+      [
+        [
+          13,
+          8,
+          7
+        ],
+        [
+          13,
+          8,
+          6
+        ]
+      ],
+      [
+        [
+          11,
+          8,
+          7
+        ],
+        [
+          11,
+          8,
+          6
+        ]
+      ],
+      [
+        [
+          6,
+          3,
+          65
+        ],
+        [
+          6,
+          3,
+          66
+        ]
+      ],
+      [
+        [
+          8,
+          3,
+          65
+        ],
+        [
+          8,
+          3,
+          66
+        ]
+      ],
+      [
+        [
+          34,
+          3,
+          68
+        ],
+        [
+          34,
+          3,
+          69
+        ]
+      ],
+      [
+        [
+          36,
+          3,
+          68
+        ],
+        [
+          36,
+          3,
+          69
+        ]
+      ],
+      [
+        [
+          38,
+          3,
+          68
+        ],
+        [
+          38,
+          3,
+          69
+        ]
+      ],
+      [
+        [
+          106,
+          3,
+          11
+        ],
+        [
+          106,
+          3,
+          10
+        ]
+      ],
+      [
+        [
+          105,
+          26,
+          64
+        ],
+        [
+          105,
+          26,
+          65
+        ]
+      ]
+    ],
+    "workplaces": [
+      {
+        "id": "frontierhunts:lodge_stove",
+        "pos": [
+          5,
+          3,
+          8
+        ]
+      },
+      {
+        "id": "frontierhunts:expedition_board",
+        "pos": [
+          7,
+          3,
+          20
+        ]
+      },
+      {
+        "id": "frontierhunts:gun_rack",
+        "pos": [
+          5,
+          3,
+          16
+        ]
+      },
+      {
+        "id": "frontierhunts:trophy_plinth",
+        "pos": [
+          5,
+          3,
+          13
+        ]
+      },
+      {
+        "id": "frontierhunts:expedition_board",
+        "pos": [
+          56,
+          3,
+          17
+        ]
+      },
+      {
+        "id": "frontierhunts:weapons_workbench",
+        "pos": [
+          66,
+          3,
+          13
+        ]
+      },
+      {
+        "id": "frontierhunts:ammo_reloader",
+        "pos": [
+          66,
+          3,
+          9
+        ]
+      },
+      {
+        "id": "frontierhunts:bow_tuning_rack",
+        "pos": [
+          56,
+          3,
+          6
+        ]
+      },
+      {
+        "id": "frontierhunts:clothing_workbench",
+        "pos": [
+          62,
+          3,
+          6
+        ]
+      },
+      {
+        "id": "frontierhunts:gun_rack",
+        "pos": [
+          54,
+          3,
+          13
+        ]
+      },
+      {
+        "id": "frontierhunts:gun_rack",
+        "pos": [
+          54,
+          3,
+          10
+        ]
+      },
+      {
+        "id": "frontierhunts:tent_bench",
+        "pos": [
+          50,
+          3,
+          14
+        ]
+      },
+      {
+        "id": "frontierhunts:fishing_station",
+        "pos": [
+          50,
+          3,
+          9
+        ]
+      },
+      {
+        "id": "frontierhunts:lodge_stove",
+        "pos": [
+          14,
+          3,
+          63
+        ]
+      },
+      {
+        "id": "frontierhunts:expedition_board",
+        "pos": [
+          12,
+          3,
+          59
+        ]
+      },
+      {
+        "id": "frontierhunts:tanning_rack",
+        "pos": [
+          18,
+          3,
+          60
+        ]
+      },
+      {
+        "id": "frontierhunts:lodge_stove",
+        "pos": [
+          44,
+          3,
+          66
+        ]
+      },
+      {
+        "id": "frontierhunts:expedition_board",
+        "pos": [
+          42,
+          3,
+          60
+        ]
+      },
+      {
+        "id": "frontierhunts:smokehouse",
+        "pos": [
+          67,
+          3,
+          62
+        ]
+      },
+      {
+        "id": "frontierhunts:tanning_rack",
+        "pos": [
+          74,
+          3,
+          66
+        ]
+      },
+      {
+        "id": "frontierhunts:weapons_workbench",
+        "pos": [
+          76,
+          3,
+          60
+        ]
+      },
+      {
+        "id": "frontierhunts:tanning_rack",
+        "pos": [
+          81,
+          3,
+          62
+        ]
+      },
+      {
+        "id": "frontierhunts:lodge_stove",
+        "pos": [
+          98,
+          3,
+          10
+        ]
+      },
+      {
+        "id": "frontierhunts:fishing_station",
+        "pos": [
+          100,
+          3,
+          17
+        ]
+      },
+      {
+        "id": "frontierhunts:expedition_board",
+        "pos": [
+          112,
+          26,
+          62
+        ]
+      },
+      {
+        "id": "frontierhunts:lodge_stove",
+        "pos": [
+          112,
+          26,
+          65
+        ]
+      },
+      {
+        "id": "frontierhunts:expedition_board",
+        "pos": [
+          60,
+          2,
+          44
+        ]
+      }
+    ],
+    "cameras": [
+      {
+        "name": "settlement_lodge/main-room",
+        "eye": [
+          13.5,
+          4.62,
+          21.5
+        ],
+        "target": [
+          21.0,
+          4,
+          7.0
+        ]
+      },
+      {
+        "name": "settlement_lodge/bunk-loft",
+        "eye": [
+          8.5,
+          9.62,
+          10.5
+        ],
+        "target": [
+          17.0,
+          8.7,
+          7.0
+        ]
+      },
+      {
+        "name": "settlement_lodge/kitchen-and-stair",
+        "eye": [
+          9.5,
+          4.62,
+          9.0
+        ],
+        "target": [
+          7.0,
+          4,
+          6.0
+        ]
+      },
+      {
+        "name": "settlement_outfitter/main-room",
+        "eye": [
+          60.5,
+          4.62,
+          18.5
+        ],
+        "target": [
+          66.0,
+          4,
+          8.0
+        ]
+      },
+      {
+        "name": "settlement_trapper/main-room",
+        "eye": [
+          10.5,
+          4.62,
+          58.5
+        ],
+        "target": [
+          7.0,
+          4,
+          65.0
+        ]
+      },
+      {
+        "name": "settlement_homestead/main-room",
+        "eye": [
+          39.5,
+          4.62,
+          59.5
+        ],
+        "target": [
+          35.0,
+          4,
+          68.0
+        ]
+      },
+      {
+        "name": "settlement_smokehouse/main-room",
+        "eye": [
+          72.5,
+          4.62,
+          58.5
+        ],
+        "target": [
+          68.0,
+          4,
+          65.0
+        ]
+      },
+      {
+        "name": "settlement_fishing/main-room",
+        "eye": [
+          102.5,
+          4.62,
+          18.5
+        ],
+        "target": [
+          106.0,
+          4,
+          12.0
+        ]
+      },
+      {
+        "name": "settlement_fishing/pond-dock",
+        "eye": [
+          84.0,
+          5,
+          7.0
+        ],
+        "target": [
+          96.0,
+          3,
+          12.0
+        ]
+      },
+      {
+        "name": "settlement_lookout/lookout-room",
+        "eye": [
+          108.5,
+          27.62,
+          62.5
+        ],
+        "target": [
+          112.0,
+          27,
+          65.0
+        ]
+      },
+      {
+        "name": "settlement_lookout/stair-landings",
+        "eye": [
+          108.5,
+          12,
+          64.0
+        ],
+        "target": [
+          108.5,
+          7,
+          55.0
+        ]
+      },
+      {
+        "name": "settlement_lookout/balcony",
+        "eye": [
+          115.5,
+          27.62,
+          52.0
+        ],
+        "target": [
+          107.0,
+          28,
+          64.0
+        ]
+      }
+    ],
+    "acceptance": "PENDING_NATIVE_REVIEW",
+    "station_pairs": [
+      [
+        [
+          60,
+          2,
+          44
+        ],
+        [
+          61,
+          2,
+          44
+        ]
+      ]
+    ]
+  }
+]

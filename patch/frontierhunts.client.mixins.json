@@ -1,0 +1,1 @@
+{"required": true, "package": "com.formaworks.frontierhunts.client.mixin", "compatibilityLevel": "JAVA_21", "client": ["ScopedBobMixin", "BlockStateOcclusionMixin", "TentSleepCameraMixin", "BlindOcclusionMixin", "BlindFaceCullMixin"], "injectors": {"defaultRequire": 1}, "mixins": ["WhitetailKillMixin", "BlindCollisionMixin", "BlindChunkMixin"]}

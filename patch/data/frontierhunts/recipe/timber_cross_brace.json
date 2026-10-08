@@ -1,0 +1,15 @@
+{
+  "type": "frontierhunts:bench_shapeless",
+  "ingredients": [
+    {
+      "item": "frontierhunts:timber_brace"
+    },
+    {
+      "item": "frontierhunts:timber_brace"
+    }
+  ],
+  "result": {
+    "id": "frontierhunts:timber_cross_brace",
+    "count": 1
+  }
+}

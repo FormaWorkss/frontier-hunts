@@ -1,0 +1,12 @@
+{
+  "title": "Supply the patrol",
+  "briefing": "Keep the field teams supplied. After accepting, complete two deliveries at a Ranger Contract Board: four roasted venison or two leather each. Each trade consumes its actual goods.",
+  "objective": "delivery",
+  "target": 2,
+  "minimum_mass": 0,
+  "chest_only": false,
+  "duration": 0,
+  "tokens": 20,
+  "experience": 30,
+  "cooldown": 6000
+}

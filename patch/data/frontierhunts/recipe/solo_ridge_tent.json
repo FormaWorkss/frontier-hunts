@@ -1,0 +1,23 @@
+{
+ "type": "frontierhunts:bench_shaped",
+ "category": "misc",
+ "pattern": [
+  "OCO",
+  "S S"
+ ],
+ "key": {
+  "O": {
+   "item": "minecraft:orange_wool"
+  },
+  "C": {
+   "item": "frontierhunts:canvas_wall"
+  },
+  "S": {
+   "item": "minecraft:string"
+  }
+ },
+ "result": {
+  "id": "frontierhunts:solo_ridge_tent",
+  "count": 1
+ }
+}

@@ -1,0 +1,22 @@
+{
+ "parent": "frontierhunts:block/mossy_river_pebbles_0",
+ "display": {
+  "gui": {
+   "rotation": [
+    25,
+    -35,
+    0
+   ],
+   "translation": [
+    0.832,
+    8.398,
+    0
+   ],
+   "scale": [
+    1.458,
+    1.458,
+    1.458
+   ]
+  }
+ }
+}

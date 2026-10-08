@@ -1,0 +1,8 @@
+{
+ "replace": false,
+ "values": [
+  "frontierhunts:alpine_maple_log",
+  "frontierhunts:alpine_alder_log",
+  "frontierhunts:alpine_rowan_log"
+ ]
+}

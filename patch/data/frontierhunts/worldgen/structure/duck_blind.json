@@ -1,0 +1,19 @@
+{
+  "type": "frontierhunts:living_site",
+  "kind": "duck_blind",
+  "biomes": "#frontierhunts:has_structure/living_wet",
+  "step": "top_layer_modification",
+  "spawn_overrides": {},
+  "terrain_adaptation": "none",
+  "avoid": [
+    "frontierstructures:villages",
+    "frontierhunts:expedition_buildings",
+    "frontierhunts:frontier_hamlets",
+    "frontierstructures:buildings",
+    "frontierstructures:hamlets",
+    "minecraft:villages",
+    "frontierhunts:living_camps",
+    "frontierhunts:living_posts"
+  ],
+  "avoid_chunks": 2
+}

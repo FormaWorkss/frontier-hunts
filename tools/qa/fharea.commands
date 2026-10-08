@@ -1,0 +1,21 @@
+# [fharea] the beginner area is an easy spot, on a fresh world (dedicated server):
+#   bash tools/qa/server_smoke.sh <mod jar> tools/qa/fharea.commands /tmp/fh-fharea
+# every check prints "flow PASS ..." / "flow FAIL ..." ("flow SKIP ..." if this world has no wide snowy / mountain country near spawn)
+fhqa flow begin
+#sleep 2
+fhqa flow permit
+fhqa flow tiers
+fhqa flow easyherd
+#sleep 6
+fhqa flow area
+fhqa flow easy first
+fhqa flow easyherd2
+#sleep 6
+fhqa flow another
+fhqa flow easy another
+fhqa flow legacy
+fhqa flow easy legacy
+fhqa flow rough
+#sleep 2
+fhqa flow home
+fhqa flow status

@@ -1,0 +1,22 @@
+{
+  "type": "frontierhunts:clothing_table",
+  "group": "frontier_furs",
+  "category": "equipment",
+  "pattern": [
+    "HSH",
+    "H H",
+    "H H"
+  ],
+  "key": {
+    "H": {
+      "item": "frontierhunts:tanned_hide"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:buckskin_leggings",
+    "count": 1
+  }
+}

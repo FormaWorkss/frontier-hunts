@@ -1,0 +1,35 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_forest",
+    "#minecraft:is_taiga",
+    {
+      "id": "frontierhunts:aspen_woodland",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:birch_heath",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:pine_highlands",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:heather_moor",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:fern_wetland",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:rowan_slope",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:golden_aspen_grove",
+      "required": false
+    }
+  ]
+}

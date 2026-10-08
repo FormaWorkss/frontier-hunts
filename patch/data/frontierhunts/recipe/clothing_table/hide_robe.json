@@ -1,0 +1,24 @@
+{
+  "type": "frontierhunts:clothing_table",
+  "group": "frontier_furs",
+  "category": "equipment",
+  "pattern": [
+    "TFT",
+    "TST"
+  ],
+  "key": {
+    "T": {
+      "item": "frontierhunts:tanned_heavy_hide"
+    },
+    "F": {
+      "tag": "frontierhunts:tanned_furs"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:hide_robe",
+    "count": 1
+  }
+}

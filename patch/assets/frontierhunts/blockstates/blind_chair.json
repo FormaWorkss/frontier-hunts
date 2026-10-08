@@ -1,0 +1,34 @@
+{
+ "variants": {
+  "facing=north,occupied=false": {
+   "model": "frontierhunts:block/seat/blind_chair"
+  },
+  "facing=north,occupied=true": {
+   "model": "frontierhunts:block/seat/blind_chair_base"
+  },
+  "facing=east,occupied=false": {
+   "model": "frontierhunts:block/seat/blind_chair",
+   "y": 90
+  },
+  "facing=east,occupied=true": {
+   "model": "frontierhunts:block/seat/blind_chair_base",
+   "y": 90
+  },
+  "facing=south,occupied=false": {
+   "model": "frontierhunts:block/seat/blind_chair",
+   "y": 180
+  },
+  "facing=south,occupied=true": {
+   "model": "frontierhunts:block/seat/blind_chair_base",
+   "y": 180
+  },
+  "facing=west,occupied=false": {
+   "model": "frontierhunts:block/seat/blind_chair",
+   "y": 270
+  },
+  "facing=west,occupied=true": {
+   "model": "frontierhunts:block/seat/blind_chair_base",
+   "y": 270
+  }
+ }
+}

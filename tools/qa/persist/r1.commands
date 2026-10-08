@@ -1,0 +1,6 @@
+fhqa persist join
+#sleep 3
+fhqa persist licence
+fhqa persist snapshot
+fhqa persist crash
+#sleep 8

@@ -1,0 +1,124 @@
+{
+ "variants": {
+  "antlers=true,facing=north,mossy=true,natural=true": {
+   "model": "frontierhunts:block/bones/bison_skull_mossy"
+  },
+  "antlers=true,facing=north,mossy=true,natural=false": {
+   "model": "frontierhunts:block/bones/bison_skull_fresh"
+  },
+  "antlers=true,facing=north,mossy=false,natural=true": {
+   "model": "frontierhunts:block/bones/bison_skull_plain"
+  },
+  "antlers=true,facing=north,mossy=false,natural=false": {
+   "model": "frontierhunts:block/bones/bison_skull_fresh"
+  },
+  "antlers=false,facing=north,mossy=true,natural=true": {
+   "model": "frontierhunts:block/bones/bison_skull_mossy"
+  },
+  "antlers=false,facing=north,mossy=true,natural=false": {
+   "model": "frontierhunts:block/bones/bison_skull_fresh"
+  },
+  "antlers=false,facing=north,mossy=false,natural=true": {
+   "model": "frontierhunts:block/bones/bison_skull_plain"
+  },
+  "antlers=false,facing=north,mossy=false,natural=false": {
+   "model": "frontierhunts:block/bones/bison_skull_fresh"
+  },
+  "antlers=true,facing=east,mossy=true,natural=true": {
+   "model": "frontierhunts:block/bones/bison_skull_mossy",
+   "y": 90
+  },
+  "antlers=true,facing=east,mossy=true,natural=false": {
+   "model": "frontierhunts:block/bones/bison_skull_fresh",
+   "y": 90
+  },
+  "antlers=true,facing=east,mossy=false,natural=true": {
+   "model": "frontierhunts:block/bones/bison_skull_plain",
+   "y": 90
+  },
+  "antlers=true,facing=east,mossy=false,natural=false": {
+   "model": "frontierhunts:block/bones/bison_skull_fresh",
+   "y": 90
+  },
+  "antlers=false,facing=east,mossy=true,natural=true": {
+   "model": "frontierhunts:block/bones/bison_skull_mossy",
+   "y": 90
+  },
+  "antlers=false,facing=east,mossy=true,natural=false": {
+   "model": "frontierhunts:block/bones/bison_skull_fresh",
+   "y": 90
+  },
+  "antlers=false,facing=east,mossy=false,natural=true": {
+   "model": "frontierhunts:block/bones/bison_skull_plain",
+   "y": 90
+  },
+  "antlers=false,facing=east,mossy=false,natural=false": {
+   "model": "frontierhunts:block/bones/bison_skull_fresh",
+   "y": 90
+  },
+  "antlers=true,facing=south,mossy=true,natural=true": {
+   "model": "frontierhunts:block/bones/bison_skull_mossy",
+   "y": 180
+  },
+  "antlers=true,facing=south,mossy=true,natural=false": {
+   "model": "frontierhunts:block/bones/bison_skull_fresh",
+   "y": 180
+  },
+  "antlers=true,facing=south,mossy=false,natural=true": {
+   "model": "frontierhunts:block/bones/bison_skull_plain",
+   "y": 180
+  },
+  "antlers=true,facing=south,mossy=false,natural=false": {
+   "model": "frontierhunts:block/bones/bison_skull_fresh",
+   "y": 180
+  },
+  "antlers=false,facing=south,mossy=true,natural=true": {
+   "model": "frontierhunts:block/bones/bison_skull_mossy",
+   "y": 180
+  },
+  "antlers=false,facing=south,mossy=true,natural=false": {
+   "model": "frontierhunts:block/bones/bison_skull_fresh",
+   "y": 180
+  },
+  "antlers=false,facing=south,mossy=false,natural=true": {
+   "model": "frontierhunts:block/bones/bison_skull_plain",
+   "y": 180
+  },
+  "antlers=false,facing=south,mossy=false,natural=false": {
+   "model": "frontierhunts:block/bones/bison_skull_fresh",
+   "y": 180
+  },
+  "antlers=true,facing=west,mossy=true,natural=true": {
+   "model": "frontierhunts:block/bones/bison_skull_mossy",
+   "y": 270
+  },
+  "antlers=true,facing=west,mossy=true,natural=false": {
+   "model": "frontierhunts:block/bones/bison_skull_fresh",
+   "y": 270
+  },
+  "antlers=true,facing=west,mossy=false,natural=true": {
+   "model": "frontierhunts:block/bones/bison_skull_plain",
+   "y": 270
+  },
+  "antlers=true,facing=west,mossy=false,natural=false": {
+   "model": "frontierhunts:block/bones/bison_skull_fresh",
+   "y": 270
+  },
+  "antlers=false,facing=west,mossy=true,natural=true": {
+   "model": "frontierhunts:block/bones/bison_skull_mossy",
+   "y": 270
+  },
+  "antlers=false,facing=west,mossy=true,natural=false": {
+   "model": "frontierhunts:block/bones/bison_skull_fresh",
+   "y": 270
+  },
+  "antlers=false,facing=west,mossy=false,natural=true": {
+   "model": "frontierhunts:block/bones/bison_skull_plain",
+   "y": 270
+  },
+  "antlers=false,facing=west,mossy=false,natural=false": {
+   "model": "frontierhunts:block/bones/bison_skull_fresh",
+   "y": 270
+  }
+ }
+}

@@ -1,0 +1,77 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "frontierhunts:forest_litter",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:undergrowth",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:alpine_turf",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:alpine_pasture",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:alpine_overgrowth",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:woodland_bush",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:spreading_fern",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:river_brush",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:flowering_bramble",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:arching_fern",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:broadleaf_thicket",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:huckleberry_shrub",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:juniper_shrub",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:spruce_seedling",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:fireweed",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:heather",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:sagebrush",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:cottongrass",
+      "required": false
+    }
+  ]
+}

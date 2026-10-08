@@ -1,0 +1,1328 @@
+[
+ {
+  "recipe": "frontierhunts:alpine_pasture",
+  "result": "frontierhunts:alpine_pasture",
+  "count": 3,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:angled_foregrip",
+  "result": "frontierhunts:angled_foregrip",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:arrows/hunting_arrow_cut_on_contact_broadhead",
+  "result": "frontierhunts:field_arrow",
+  "count": 4,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:arrows/hunting_arrow_field_point",
+  "result": "frontierhunts:field_arrow",
+  "count": 4,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:arrows/hunting_arrow_judo_point",
+  "result": "frontierhunts:field_arrow",
+  "count": 4,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:arrows/hunting_arrow_mechanical_broadhead",
+  "result": "frontierhunts:field_arrow",
+  "count": 4,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:arrows/hunting_arrow_tracer_broadhead",
+  "result": "frontierhunts:field_arrow",
+  "count": 4,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:arrows/hunting_arrow_tracer_field_point",
+  "result": "frontierhunts:field_arrow",
+  "count": 4,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:arrows/hunting_arrow_tracer_ice_broadhead",
+  "result": "frontierhunts:field_arrow",
+  "count": 4,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:arrows/primitive_arrow_bone_point",
+  "result": "frontierhunts:primitive_arrow",
+  "count": 4,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:arrows/primitive_arrow_obsidian_point",
+  "result": "frontierhunts:primitive_arrow",
+  "count": 4,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:attachment_tool",
+  "result": "frontierhunts:attachment_tool",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:atv",
+  "result": "frontierhunts:atv",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:atv_can_carrier",
+  "result": "frontierhunts:atv_can_carrier",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:atv_cargo_box",
+  "result": "frontierhunts:atv_cargo_box",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:autumn_camo_coveralls",
+  "result": "frontierhunts:autumn_camo_coveralls",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:backpacker_dome_tent",
+  "result": "frontierhunts:backpacker_dome_tent",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:bell_tent",
+  "result": "frontierhunts:bell_tent",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:big_buck_board",
+  "result": "frontierhunts:big_buck_board",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:blaze_camo_coveralls",
+  "result": "frontierhunts:blaze_camo_coveralls",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:bleat_call",
+  "result": "frontierhunts:bleat_call",
+  "count": 1,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:blind_chair",
+  "result": "frontierhunts:blind_chair",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:bone_point",
+  "result": "frontierhunts:bone_point",
+  "count": 3,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:bow_stand",
+  "result": "frontierhunts:bow_stand",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:camp_chair",
+  "result": "frontierhunts:camp_chair",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:camp_post",
+  "result": "frontierhunts:camp_post",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:campcook/honey_pemmican",
+  "result": "frontierhunts:honey_pemmican",
+  "count": 3,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:campcook/raw_game_sausage",
+  "result": "frontierhunts:raw_game_sausage",
+  "count": 4,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:canvas_wall_tent",
+  "result": "frontierhunts:canvas_wall_tent",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:chum_bucket",
+  "result": "frontierhunts:chum_bucket",
+  "count": 1,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:contract_board",
+  "result": "frontierhunts:contract_board",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:cut_on_contact_broadhead",
+  "result": "frontierhunts:cut_on_contact_broadhead",
+  "count": 4,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:digital_camo_coveralls",
+  "result": "frontierhunts:digital_camo_coveralls",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:duck_call",
+  "result": "frontierhunts:duck_call",
+  "count": 1,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:dutch_oven",
+  "result": "frontierhunts:dutch_oven",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:expedition_bait",
+  "result": "frontierhunts:bait",
+  "count": 1,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:expedition_bait_launcher",
+  "result": "frontierhunts:bait_launcher",
+  "count": 1,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:expedition_binoculars",
+  "result": "frontierhunts:binoculars",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:expedition_bipod",
+  "result": "frontierhunts:bipod",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:expedition_board",
+  "result": "frontierhunts:expedition_board",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:expedition_bowfishing_arrow",
+  "result": "frontierhunts:bowfishing_arrow",
+  "count": 8,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:expedition_bowfishing_bow",
+  "result": "frontierhunts:bowfishing_bow",
+  "count": 1,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:expedition_compound_bow",
+  "result": "frontierhunts:compound_bow",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:expedition_crossbow",
+  "result": "frontierhunts:crossbow",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:expedition_deer_call",
+  "result": "frontierhunts:deer_call",
+  "count": 1,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:expedition_double_barrel",
+  "result": "frontierhunts:double_barrel",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:expedition_eight_power_scope",
+  "result": "frontierhunts:eight_power_scope",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:expedition_extended_magazine",
+  "result": "frontierhunts:extended_magazine",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:expedition_field_flashlight",
+  "result": "frontierhunts:field_flashlight",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:expedition_field_pistol",
+  "result": "frontierhunts:field_pistol",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:expedition_fishing_drag_kit",
+  "result": "frontierhunts:fishing_drag_kit",
+  "count": 1,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:expedition_flare_gun",
+  "result": "frontierhunts:flare_gun",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:expedition_flare_round",
+  "result": "frontierhunts:flare_round",
+  "count": 8,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:expedition_hunting_spear",
+  "result": "frontierhunts:hunting_spear",
+  "count": 1,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:expedition_lever_rifle",
+  "result": "frontierhunts:lever_rifle",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:expedition_medkit",
+  "result": "frontierhunts:medkit",
+  "count": 1,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:expedition_pistol_magazine",
+  "result": "frontierhunts:pistol_magazine",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:expedition_pistol_round",
+  "result": "frontierhunts:pistol_round",
+  "count": 8,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:expedition_predator_call",
+  "result": "frontierhunts:predator_call",
+  "count": 1,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:expedition_pump_shotgun",
+  "result": "frontierhunts:pump_shotgun",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:expedition_rangefinder",
+  "result": "frontierhunts:rangefinder",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:expedition_recurve_bow",
+  "result": "frontierhunts:recurve_bow",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:expedition_reflex_sight",
+  "result": "frontierhunts:reflex_sight",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:expedition_revolver",
+  "result": "frontierhunts:revolver",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:expedition_rifle_round",
+  "result": "frontierhunts:rifle_round",
+  "count": 8,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:expedition_scent_cover",
+  "result": "frontierhunts:scent_cover",
+  "count": 1,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:expedition_semi_auto_rifle",
+  "result": "frontierhunts:semi_auto_rifle",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:expedition_semi_auto_shotgun",
+  "result": "frontierhunts:semi_auto_shotgun",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:expedition_shotgun_shell",
+  "result": "frontierhunts:shotgun_shell",
+  "count": 8,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:expedition_six_power_scope",
+  "result": "frontierhunts:six_power_scope",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:expedition_sniper_magazine",
+  "result": "frontierhunts:sniper_magazine",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:expedition_steady_stock",
+  "result": "frontierhunts:steady_stock",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:expedition_suppressor",
+  "result": "frontierhunts:suppressor",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:expedition_thermal_binoculars",
+  "result": "frontierhunts:thermal_binoculars",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:expedition_thermal_scope",
+  "result": "frontierhunts:thermal_scope",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:expedition_tranquilizer_dart",
+  "result": "frontierhunts:tranquilizer_dart",
+  "count": 8,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:expedition_tranquilizer_rifle",
+  "result": "frontierhunts:tranquilizer_rifle",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:expedition_twelve_power_scope",
+  "result": "frontierhunts:twelve_power_scope",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:fallen_branch",
+  "result": "frontierhunts:fallen_branch",
+  "count": 2,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:family_cabin_tent",
+  "result": "frontierhunts:family_cabin_tent",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:field_arrow",
+  "result": "frontierhunts:field_arrow",
+  "count": 4,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:field_battery_pack",
+  "result": "frontierhunts:field_battery_pack",
+  "count": 2,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:field_blind",
+  "result": "frontierhunts:field_blind",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:field_bow",
+  "result": "frontierhunts:field_bow",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:field_fishing_rod",
+  "result": "frontierhunts:field_fishing_rod",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:field_knife",
+  "result": "frontierhunts:field_knife",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:field_phone",
+  "result": "frontierhunts:field_phone",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:field_point",
+  "result": "frontierhunts:field_point",
+  "count": 4,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:field_spotlight",
+  "result": "frontierhunts:field_spotlight",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:fish_finder",
+  "result": "frontierhunts:fish_finder",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:fixed_broadhead",
+  "result": "frontierhunts:fixed_broadhead",
+  "count": 4,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:flint_point",
+  "result": "frontierhunts:flint_point",
+  "count": 3,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:foam_deer_target",
+  "result": "frontierhunts:foam_deer_target",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:four_power_optic",
+  "result": "frontierhunts:four_power_optic",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:game_pole",
+  "result": "frontierhunts:game_pole",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:ghillie_grassland_hood",
+  "result": "frontierhunts:ghillie_grassland_hood",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:ghillie_grassland_jacket",
+  "result": "frontierhunts:ghillie_grassland_jacket",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:ghillie_grassland_trousers",
+  "result": "frontierhunts:ghillie_grassland_trousers",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:ghillie_hood",
+  "result": "frontierhunts:ghillie_hood",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:ghillie_jacket",
+  "result": "frontierhunts:ghillie_jacket",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:ghillie_snow_hood",
+  "result": "frontierhunts:ghillie_snow_hood",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:ghillie_snow_jacket",
+  "result": "frontierhunts:ghillie_snow_jacket",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:ghillie_snow_trousers",
+  "result": "frontierhunts:ghillie_snow_trousers",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:ghillie_trousers",
+  "result": "frontierhunts:ghillie_trousers",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:ghillie_wetland_hood",
+  "result": "frontierhunts:ghillie_wetland_hood",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:ghillie_wetland_jacket",
+  "result": "frontierhunts:ghillie_wetland_jacket",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:ghillie_wetland_trousers",
+  "result": "frontierhunts:ghillie_wetland_trousers",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:glow_lure",
+  "result": "frontierhunts:glow_lure",
+  "count": 1,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:grunt_tube",
+  "result": "frontierhunts:grunt_tube",
+  "count": 1,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:gun_rack",
+  "result": "frontierhunts:gun_rack",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:holographic_sight",
+  "result": "frontierhunts:holographic_sight",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:horse_whistle",
+  "result": "frontierhunts:horse_whistle",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:hunter_pack",
+  "result": "frontierhunts:hunter_pack",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:hunters_canvas_tent",
+  "result": "frontierhunts:hunters_canvas_tent",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:hunters_quiver",
+  "result": "frontierhunts:hunters_quiver",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:jerry_can",
+  "result": "frontierhunts:jerry_can",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:jerry_can_from_lava",
+  "result": "frontierhunts:jerry_can",
+  "count": 1,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:jon_boat",
+  "result": "frontierhunts:jon_boat",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:judo_point",
+  "result": "frontierhunts:judo_point",
+  "count": 4,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:landing_net",
+  "result": "frontierhunts:landing_net",
+  "count": 1,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:lit_lodge_table",
+  "result": "frontierhunts:lit_lodge_table",
+  "count": 1,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:lodge_stores",
+  "result": "frontierhunts:lodge_stores",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:log_stump_seat",
+  "result": "frontierhunts:log_stump_seat",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:lookout_brace",
+  "result": "frontierhunts:lookout_brace",
+  "count": 6,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:lookout_cross_brace",
+  "result": "frontierhunts:lookout_cross_brace",
+  "count": 6,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:lookout_deck_rail",
+  "result": "frontierhunts:lookout_deck_rail",
+  "count": 6,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:lookout_stair_rail",
+  "result": "frontierhunts:lookout_stair_rail",
+  "count": 6,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:mallard_decoy",
+  "result": "frontierhunts:mallard_decoy",
+  "count": 2,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:marsh_camo_coveralls",
+  "result": "frontierhunts:marsh_camo_coveralls",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:mechanical_broadhead",
+  "result": "frontierhunts:mechanical_broadhead",
+  "count": 4,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:micro_red_dot",
+  "result": "frontierhunts:micro_red_dot",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:muzzle_brake",
+  "result": "frontierhunts:muzzle_brake",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:night_vision_binoculars",
+  "result": "frontierhunts:night_vision_binoculars",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:obsidian_point",
+  "result": "frontierhunts:obsidian_point",
+  "count": 6,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:prairie_camo_coveralls",
+  "result": "frontierhunts:prairie_camo_coveralls",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:primitive_arrow",
+  "result": "frontierhunts:primitive_arrow",
+  "count": 4,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:pup_tent",
+  "result": "frontierhunts:pup_tent",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:range_marker",
+  "result": "frontierhunts:range_marker",
+  "count": 3,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:rattling_antlers",
+  "result": "frontierhunts:rattling_antlers",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:reserve_308",
+  "result": "frontierhunts:reserve_308",
+  "count": 8,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:reserve_cabin_door",
+  "result": "frontierhunts:cabin_door",
+  "count": 3,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:reserve_cabin_lantern",
+  "result": "frontierhunts:cabin_lantern",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:reserve_camp_cot",
+  "result": "frontierhunts:camp_cot",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:reserve_canvas_wall",
+  "result": "frontierhunts:canvas_wall",
+  "count": 8,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:reserve_fieldstone",
+  "result": "frontierhunts:fieldstone",
+  "count": 2,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:reserve_fieldstone_stairs",
+  "result": "frontierhunts:fieldstone_stairs",
+  "count": 4,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:reserve_forest_loam",
+  "result": "frontierhunts:forest_loam",
+  "count": 2,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:reserve_lodge_chair",
+  "result": "frontierhunts:lodge_chair",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:reserve_lodge_stove",
+  "result": "frontierhunts:lodge_stove",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:reserve_lodge_table",
+  "result": "frontierhunts:lodge_table",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:reserve_moss_floor",
+  "result": "frontierhunts:moss_floor",
+  "count": 2,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:reserve_pine_fence",
+  "result": "frontierhunts:pine_fence",
+  "count": 3,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:reserve_pine_slab",
+  "result": "frontierhunts:pine_slab",
+  "count": 6,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:reserve_pine_stairs",
+  "result": "frontierhunts:pine_stairs",
+  "count": 4,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:reserve_ranger_window",
+  "result": "frontierhunts:ranger_window",
+  "count": 4,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:reserve_reserve_granite",
+  "result": "frontierhunts:reserve_granite",
+  "count": 1,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:reserve_roof_gable_high",
+  "result": "frontierhunts:roof_gable_high",
+  "count": 6,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:reserve_roof_gable_low",
+  "result": "frontierhunts:roof_gable_low",
+  "count": 6,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:reserve_roof_ridge_high",
+  "result": "frontierhunts:roof_ridge_high",
+  "count": 6,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:reserve_roof_ridge_low",
+  "result": "frontierhunts:roof_ridge_low",
+  "count": 6,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:reserve_roof_shingles",
+  "result": "frontierhunts:roof_shingles",
+  "count": 8,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:reserve_roof_slab",
+  "result": "frontierhunts:roof_slab",
+  "count": 6,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:reserve_roof_slope_high",
+  "result": "frontierhunts:roof_slope_high",
+  "count": 6,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:reserve_roof_slope_low",
+  "result": "frontierhunts:roof_slope_low",
+  "count": 6,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:reserve_roof_stairs",
+  "result": "frontierhunts:roof_stairs",
+  "count": 4,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:reserve_rope_ladder",
+  "result": "frontierhunts:rope_ladder",
+  "count": 4,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:reserve_stacked_firewood",
+  "result": "frontierhunts:stacked_firewood",
+  "count": 4,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:reserve_stove_flue",
+  "result": "frontierhunts:stove_flue",
+  "count": 4,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:reserve_tent_gable",
+  "result": "frontierhunts:tent_gable",
+  "count": 6,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:reserve_tent_ridge",
+  "result": "frontierhunts:tent_ridge",
+  "count": 6,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:reserve_tent_slope",
+  "result": "frontierhunts:tent_slope",
+  "count": 6,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:reserve_trail_sign",
+  "result": "frontierhunts:trail_sign",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:reserve_weathered_planks",
+  "result": "frontierhunts:weathered_planks",
+  "count": 2,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:ridgeline_rifle",
+  "result": "frontierhunts:ridgeline_rifle",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:ridgeline_scope",
+  "result": "frontierhunts:ridgeline_scope",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:rowboat",
+  "result": "frontierhunts:rowboat",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:scent_suit",
+  "result": "frontierhunts:scent_suit",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:shooting_sticks",
+  "result": "frontierhunts:shooting_sticks",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:shooting_target",
+  "result": "frontierhunts:shooting_target",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:skinning_tool",
+  "result": "frontierhunts:skinning_tool",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:sled",
+  "result": "frontierhunts:sled",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:smokehouse",
+  "result": "frontierhunts:smokehouse",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:snow_camo_coveralls",
+  "result": "frontierhunts:snow_camo_coveralls",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:snowmobile",
+  "result": "frontierhunts:snowmobile",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:solo_ridge_tent",
+  "result": "frontierhunts:solo_ridge_tent",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:steel_deer_target",
+  "result": "frontierhunts:steel_deer_target",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:steel_gong",
+  "result": "frontierhunts:steel_gong",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:steel_popper",
+  "result": "frontierhunts:steel_popper",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:steel_spinner",
+  "result": "frontierhunts:steel_spinner",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:stove_roof_flashing",
+  "result": "frontierhunts:stove_roof_flashing",
+  "count": 1,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:survival/drying_rack",
+  "result": "frontierhunts:drying_rack",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:survival/hide_bedroll",
+  "result": "frontierhunts:hide_bedroll",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:survival/pemmican",
+  "result": "frontierhunts:pemmican",
+  "count": 3,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:tanning_rack",
+  "result": "frontierhunts:tanning_rack",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:tent_end_ridge",
+  "result": "frontierhunts:tent_end_ridge",
+  "count": 1,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:timber_brace",
+  "result": "frontierhunts:timber_brace",
+  "count": 4,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:timber_camo_coveralls",
+  "result": "frontierhunts:timber_camo_coveralls",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:timber_cross_brace",
+  "result": "frontierhunts:timber_cross_brace",
+  "count": 1,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:timber_stair_guard",
+  "result": "frontierhunts:timber_stair_guard",
+  "count": 1,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:tower_blind",
+  "result": "frontierhunts:tower_blind",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:tower_chair",
+  "result": "frontierhunts:tower_chair",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:tracer_broadhead",
+  "result": "frontierhunts:tracer_broadhead",
+  "count": 4,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:tracer_field_point",
+  "result": "frontierhunts:tracer_field_point",
+  "count": 4,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:tracer_ice_broadhead",
+  "result": "frontierhunts:tracer_ice_broadhead",
+  "count": 4,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:trail_bench",
+  "result": "frontierhunts:trail_bench",
+  "count": 2,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:trail_camera",
+  "result": "frontierhunts:trail_camera",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:trail_dome_tent",
+  "result": "frontierhunts:trail_dome_tent",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:tree_stand",
+  "result": "frontierhunts:tree_stand",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:trophy_plinth",
+  "result": "frontierhunts:trophy_plinth",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:two_power_prism",
+  "result": "frontierhunts:two_power_prism",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:whitetail_scent_decoy",
+  "result": "frontierhunts:whitetail_scent_decoy",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:wind_checker",
+  "result": "frontierhunts:wind_checker",
+  "count": 1,
+  "type": "frontierhunts:bench_shapeless"
+ },
+ {
+  "recipe": "frontierhunts:wingsuit",
+  "result": "frontierhunts:wingsuit",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierhunts:woodland_camp_tent",
+  "result": "frontierhunts:woodland_camp_tent",
+  "count": 1,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierstructures:dark_oak_lattice_window",
+  "result": "frontierstructures:dark_oak_lattice_window",
+  "count": 4,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierstructures:lookout_brace",
+  "result": "frontierstructures:lookout_brace",
+  "count": 6,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierstructures:lookout_cross_brace",
+  "result": "frontierstructures:lookout_cross_brace",
+  "count": 6,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierstructures:lookout_deck_rail",
+  "result": "frontierstructures:lookout_deck_rail",
+  "count": 6,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierstructures:lookout_stair_rail",
+  "result": "frontierstructures:lookout_stair_rail",
+  "count": 6,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierstructures:spruce_casement_window",
+  "result": "frontierstructures:spruce_casement_window",
+  "count": 4,
+  "type": "frontierhunts:bench_shaped"
+ },
+ {
+  "recipe": "frontierstructures:spruce_picture_window",
+  "result": "frontierstructures:spruce_picture_window",
+  "count": 4,
+  "type": "frontierhunts:bench_shaped"
+ }
+]

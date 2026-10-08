@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:stonecutting",
+ "ingredient": {
+  "item": "frontierhunts:cedar_log"
+ },
+ "result": {
+  "id": "frontierhunts:cedar_planks",
+  "count": 4
+ }
+}

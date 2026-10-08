@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "ingredient": {
+    "item": "frontierhunts:game_fat"
+  },
+  "result": {
+    "id": "frontierhunts:tallow"
+  },
+  "experience": 0.1,
+  "cookingtime": 600
+}

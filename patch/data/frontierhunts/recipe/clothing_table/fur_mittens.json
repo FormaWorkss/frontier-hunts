@@ -1,0 +1,20 @@
+{
+  "type": "frontierhunts:clothing_table",
+  "group": "fur_layers",
+  "category": "equipment",
+  "pattern": [
+    "FSF"
+  ],
+  "key": {
+    "F": {
+      "item": "frontierhunts:tanned_fur"
+    },
+    "S": {
+      "item": "minecraft:string"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:fur_mittens",
+    "count": 1
+  }
+}

@@ -1,0 +1,22 @@
+{
+ "parent": "frontierhunts:block/river_stone_0",
+ "display": {
+  "gui": {
+   "rotation": [
+    25,
+    -35,
+    0
+   ],
+   "translation": [
+    -0.36,
+    7.113,
+    0
+   ],
+   "scale": [
+    1.451,
+    1.451,
+    1.451
+   ]
+  }
+ }
+}

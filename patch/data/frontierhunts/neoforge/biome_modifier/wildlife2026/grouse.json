@@ -1,0 +1,10 @@
+{
+  "type": "neoforge:add_spawns",
+  "biomes": "#frontierhunts:wildlife2026/grouse",
+  "spawners": {
+    "type": "frontierhunts:grouse",
+    "weight": 4,
+    "minCount": 1,
+    "maxCount": 3
+  }
+}

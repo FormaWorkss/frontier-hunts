@@ -1,0 +1,7 @@
+{
+ "sticks.deploy": {"sounds": [{"name": "frontierhunts:sticks/deploy1"}, {"name": "frontierhunts:sticks/deploy2"}], "subtitle": "subtitles.frontierhunts.sticks.deploy"},
+ "sticks.fold": {"sounds": [{"name": "frontierhunts:sticks/fold1"}, {"name": "frontierhunts:sticks/fold2"}], "subtitle": "subtitles.frontierhunts.sticks.fold"},
+ "sticks.adjust": {"sounds": [{"name": "frontierhunts:sticks/adjust1"}, {"name": "frontierhunts:sticks/adjust2"}], "subtitle": "subtitles.frontierhunts.sticks.adjust"},
+ "sticks.rest": {"sounds": [{"name": "frontierhunts:sticks/rest1"}, {"name": "frontierhunts:sticks/rest2"}], "subtitle": "subtitles.frontierhunts.sticks.rest"},
+ "sticks.lift": {"sounds": [{"name": "frontierhunts:sticks/lift1"}], "subtitle": "subtitles.frontierhunts.sticks.lift"}
+}

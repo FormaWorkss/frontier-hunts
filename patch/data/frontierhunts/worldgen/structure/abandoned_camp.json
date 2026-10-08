@@ -1,0 +1,17 @@
+{
+  "type": "frontierhunts:living_site",
+  "kind": "abandoned_camp",
+  "biomes": "#frontierhunts:has_structure/living_land",
+  "step": "top_layer_modification",
+  "spawn_overrides": {},
+  "terrain_adaptation": "none",
+  "avoid": [
+    "frontierstructures:villages",
+    "frontierhunts:expedition_buildings",
+    "frontierhunts:frontier_hamlets",
+    "frontierstructures:buildings",
+    "frontierstructures:hamlets",
+    "minecraft:villages"
+  ],
+  "avoid_chunks": 3
+}

@@ -1,0 +1,7 @@
+fhqa persist load
+fhqa persist check
+fhqa persist login
+fhqa persist again
+fhqa persist disconnect
+#sleep 5
+fhqa persist snapshot

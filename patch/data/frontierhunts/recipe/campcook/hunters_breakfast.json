@@ -1,0 +1,33 @@
+{
+  "type": "frontierhunts:camp_cooking",
+  "group": "camp_cooking",
+  "ingredients": [
+    [
+      {
+        "item": "frontierhunts:venison"
+      },
+      {
+        "item": "frontierhunts:game_meat"
+      }
+    ],
+    {
+      "item": "minecraft:egg"
+    },
+    {
+      "item": "minecraft:potato"
+    },
+    [
+      {
+        "item": "frontierhunts:game_fat"
+      },
+      {
+        "item": "frontierhunts:tallow"
+      }
+    ]
+  ],
+  "result": {
+    "id": "frontierhunts:hunters_breakfast",
+    "count": 2
+  },
+  "cookingtime": 600
+}

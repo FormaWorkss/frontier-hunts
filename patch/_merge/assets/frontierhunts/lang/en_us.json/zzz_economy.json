@@ -1,0 +1,10 @@
+{
+  "onboard.frontierhunts.step.2.p1": "You have a Field Recurve Bow and only 3 arrows, so make more. Primitive Arrows need flint, a stick and a feather laid corner to corner (straight down makes vanilla arrows). Hunting Arrows need an iron nugget, a stick and a feather, top to bottom. Both give 4 at a time.",
+  "onboard.frontierhunts.task.arrows.card": "Primitive Arrows: flint, stick, feather (corner to corner). Hunting Arrows: nugget, stick, feather.",
+  "onboard.frontierhunts.task.arrows.how": "Craft Primitive Arrows (flint, stick, feather, corner to corner) or Hunting Arrows (iron nugget, stick, feather).",
+  "onboard.frontierhunts.task.rifle.how": "Craft a Ridgeline Rifle (an iron block barrel, iron, a tripwire-hook trigger and a wooden stock), then practise on The Range.",
+  "item.frontierhunts.tanned_fur.note": "Clothing Table: fur hats, mittens, linings, mukluks.",
+  "camp.frontierhunts.order1.detail": "2 leather → 5 tokens",
+  "camp.frontierhunts.order2.detail": "4 hunting arrows · costs 3 tokens",
+  "camp.frontierhunts.order3.detail": "6 tokens · rifle ammunition"
+}

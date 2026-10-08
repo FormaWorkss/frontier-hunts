@@ -1,0 +1,38 @@
+{
+  "type": "frontierhunts:camp_cooking",
+  "group": "camp_cooking",
+  "ingredients": [
+    {
+      "item": "frontierhunts:backstrap"
+    },
+    [
+      {
+        "item": "minecraft:brown_mushroom"
+      },
+      {
+        "item": "minecraft:red_mushroom"
+      }
+    ],
+    [
+      {
+        "item": "minecraft:brown_mushroom"
+      },
+      {
+        "item": "minecraft:red_mushroom"
+      }
+    ],
+    [
+      {
+        "item": "frontierhunts:game_fat"
+      },
+      {
+        "item": "frontierhunts:tallow"
+      }
+    ]
+  ],
+  "result": {
+    "id": "frontierhunts:backstrap_mushrooms",
+    "count": 2
+  },
+  "cookingtime": 500
+}

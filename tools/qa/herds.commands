@@ -1,0 +1,43 @@
+# [herds] Social groups of deer, elk and moose on a fresh dedicated-server world:
+#   bash tools/qa/herds_run.sh <mod jar> <compiled classes dir>      (this file, then tools/qa/herds_restart.commands on the saved world)
+#   or: QA_MOD_CP=<classes> bash tools/qa/server_smoke.sh <mod jar> tools/qa/herds.commands /tmp/fh-herds
+# Every verdict line reads "herds PASS ..." / "herds FAIL ..."; measured numbers are printed on the lines before.
+fhqa herds plan
+fhqa herds setup
+#sleep 60
+#wait herds done setup
+fhqa herds natural 14
+fhqa herds run 1800 settle
+#wait herds ran settle
+fhqa herds composition
+fhqa herds cohesion
+fhqa herds run 2400 cohesion
+#wait herds done cohesion
+fhqa herds alarm
+fhqa herds run 1800 alarm
+#wait herds done alarm
+fhqa herds down
+fhqa herds run 1800 down
+#wait herds done down
+fhqa herds persist save
+fhqa herds unload
+#wait herds done unload
+fhqa herds reload
+#wait herds done reload
+fhqa herds persist check
+fhqa herds season 8.8
+fhqa herds run 2400 harem
+#wait herds ran harem
+fhqa herds harem
+fhqa herds season 10.4
+fhqa herds run 2400 rut
+#wait herds ran rut
+fhqa herds rut
+fhqa herds season 0.6
+fhqa herds run 3000 yards
+#wait herds ran yards
+fhqa herds yards
+fhqa herds perf 600
+#sleep 60
+#wait herds done perf
+fhqa herds persist save

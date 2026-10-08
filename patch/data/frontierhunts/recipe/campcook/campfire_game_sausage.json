@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "ingredient": {
+    "item": "frontierhunts:raw_game_sausage"
+  },
+  "result": {
+    "id": "frontierhunts:smoked_game_sausage"
+  },
+  "experience": 0.35,
+  "cookingtime": 600
+}

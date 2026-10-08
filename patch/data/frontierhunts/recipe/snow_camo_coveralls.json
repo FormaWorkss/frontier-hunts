@@ -1,0 +1,24 @@
+{
+ "type": "frontierhunts:bench_shaped",
+ "category": "equipment",
+ "pattern": [
+  "LDL",
+  "LWL",
+  "L L"
+ ],
+ "key": {
+  "L": {
+   "item": "minecraft:leather"
+  },
+  "D": {
+   "item": "minecraft:light_gray_dye"
+  },
+  "W": {
+   "item": "minecraft:white_wool"
+  }
+ },
+ "result": {
+  "id": "frontierhunts:snow_camo_coveralls",
+  "count": 1
+ }
+}

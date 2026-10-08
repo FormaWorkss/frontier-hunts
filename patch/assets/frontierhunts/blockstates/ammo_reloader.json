@@ -1,0 +1,49 @@
+{
+ "variants": {
+  "facing=north,bench_part=single": {
+   "model": "frontierhunts:block/ammo_reloader"
+  },
+  "facing=north,bench_part=left": {
+   "model": "frontierhunts:block/ammo_reloader_left"
+  },
+  "facing=north,bench_part=right": {
+   "model": "frontierhunts:block/ammo_reloader_right"
+  },
+  "facing=east,bench_part=single": {
+   "model": "frontierhunts:block/ammo_reloader",
+   "y": 90
+  },
+  "facing=east,bench_part=left": {
+   "model": "frontierhunts:block/ammo_reloader_left",
+   "y": 90
+  },
+  "facing=east,bench_part=right": {
+   "model": "frontierhunts:block/ammo_reloader_right",
+   "y": 90
+  },
+  "facing=south,bench_part=single": {
+   "model": "frontierhunts:block/ammo_reloader",
+   "y": 180
+  },
+  "facing=south,bench_part=left": {
+   "model": "frontierhunts:block/ammo_reloader_left",
+   "y": 180
+  },
+  "facing=south,bench_part=right": {
+   "model": "frontierhunts:block/ammo_reloader_right",
+   "y": 180
+  },
+  "facing=west,bench_part=single": {
+   "model": "frontierhunts:block/ammo_reloader",
+   "y": 270
+  },
+  "facing=west,bench_part=left": {
+   "model": "frontierhunts:block/ammo_reloader_left",
+   "y": 270
+  },
+  "facing=west,bench_part=right": {
+   "model": "frontierhunts:block/ammo_reloader_right",
+   "y": 270
+  }
+ }
+}

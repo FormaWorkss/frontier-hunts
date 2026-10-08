@@ -1,0 +1,273 @@
+{
+  "multipart": [
+    {
+      "when": {
+        "facing": "east|west"
+      },
+      "apply": {
+        "model": "frontierhunts:block/survival/drying_rack"
+      }
+    },
+    {
+      "when": {
+        "facing": "east|west",
+        "load": "1|2|3|4",
+        "stage": "0"
+      },
+      "apply": {
+        "model": "frontierhunts:block/survival/drying_rack_strip1_0"
+      }
+    },
+    {
+      "when": {
+        "facing": "east|west",
+        "load": "1|2|3|4",
+        "stage": "1"
+      },
+      "apply": {
+        "model": "frontierhunts:block/survival/drying_rack_strip1_1"
+      }
+    },
+    {
+      "when": {
+        "facing": "east|west",
+        "load": "1|2|3|4",
+        "stage": "2"
+      },
+      "apply": {
+        "model": "frontierhunts:block/survival/drying_rack_strip1_2"
+      }
+    },
+    {
+      "when": {
+        "facing": "east|west",
+        "load": "2|3|4",
+        "stage": "0"
+      },
+      "apply": {
+        "model": "frontierhunts:block/survival/drying_rack_strip2_0"
+      }
+    },
+    {
+      "when": {
+        "facing": "east|west",
+        "load": "2|3|4",
+        "stage": "1"
+      },
+      "apply": {
+        "model": "frontierhunts:block/survival/drying_rack_strip2_1"
+      }
+    },
+    {
+      "when": {
+        "facing": "east|west",
+        "load": "2|3|4",
+        "stage": "2"
+      },
+      "apply": {
+        "model": "frontierhunts:block/survival/drying_rack_strip2_2"
+      }
+    },
+    {
+      "when": {
+        "facing": "east|west",
+        "load": "3|4",
+        "stage": "0"
+      },
+      "apply": {
+        "model": "frontierhunts:block/survival/drying_rack_strip3_0"
+      }
+    },
+    {
+      "when": {
+        "facing": "east|west",
+        "load": "3|4",
+        "stage": "1"
+      },
+      "apply": {
+        "model": "frontierhunts:block/survival/drying_rack_strip3_1"
+      }
+    },
+    {
+      "when": {
+        "facing": "east|west",
+        "load": "3|4",
+        "stage": "2"
+      },
+      "apply": {
+        "model": "frontierhunts:block/survival/drying_rack_strip3_2"
+      }
+    },
+    {
+      "when": {
+        "facing": "east|west",
+        "load": "4",
+        "stage": "0"
+      },
+      "apply": {
+        "model": "frontierhunts:block/survival/drying_rack_strip4_0"
+      }
+    },
+    {
+      "when": {
+        "facing": "east|west",
+        "load": "4",
+        "stage": "1"
+      },
+      "apply": {
+        "model": "frontierhunts:block/survival/drying_rack_strip4_1"
+      }
+    },
+    {
+      "when": {
+        "facing": "east|west",
+        "load": "4",
+        "stage": "2"
+      },
+      "apply": {
+        "model": "frontierhunts:block/survival/drying_rack_strip4_2"
+      }
+    },
+    {
+      "when": {
+        "facing": "north|south"
+      },
+      "apply": {
+        "model": "frontierhunts:block/survival/drying_rack",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "north|south",
+        "load": "1|2|3|4",
+        "stage": "0"
+      },
+      "apply": {
+        "model": "frontierhunts:block/survival/drying_rack_strip1_0",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "north|south",
+        "load": "1|2|3|4",
+        "stage": "1"
+      },
+      "apply": {
+        "model": "frontierhunts:block/survival/drying_rack_strip1_1",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "north|south",
+        "load": "1|2|3|4",
+        "stage": "2"
+      },
+      "apply": {
+        "model": "frontierhunts:block/survival/drying_rack_strip1_2",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "north|south",
+        "load": "2|3|4",
+        "stage": "0"
+      },
+      "apply": {
+        "model": "frontierhunts:block/survival/drying_rack_strip2_0",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "north|south",
+        "load": "2|3|4",
+        "stage": "1"
+      },
+      "apply": {
+        "model": "frontierhunts:block/survival/drying_rack_strip2_1",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "north|south",
+        "load": "2|3|4",
+        "stage": "2"
+      },
+      "apply": {
+        "model": "frontierhunts:block/survival/drying_rack_strip2_2",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "north|south",
+        "load": "3|4",
+        "stage": "0"
+      },
+      "apply": {
+        "model": "frontierhunts:block/survival/drying_rack_strip3_0",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "north|south",
+        "load": "3|4",
+        "stage": "1"
+      },
+      "apply": {
+        "model": "frontierhunts:block/survival/drying_rack_strip3_1",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "north|south",
+        "load": "3|4",
+        "stage": "2"
+      },
+      "apply": {
+        "model": "frontierhunts:block/survival/drying_rack_strip3_2",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "north|south",
+        "load": "4",
+        "stage": "0"
+      },
+      "apply": {
+        "model": "frontierhunts:block/survival/drying_rack_strip4_0",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "north|south",
+        "load": "4",
+        "stage": "1"
+      },
+      "apply": {
+        "model": "frontierhunts:block/survival/drying_rack_strip4_1",
+        "y": 90
+      }
+    },
+    {
+      "when": {
+        "facing": "north|south",
+        "load": "4",
+        "stage": "2"
+      },
+      "apply": {
+        "model": "frontierhunts:block/survival/drying_rack_strip4_2",
+        "y": 90
+      }
+    }
+  ]
+}

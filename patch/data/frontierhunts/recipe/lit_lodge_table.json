@@ -1,0 +1,15 @@
+{
+  "type": "frontierhunts:bench_shapeless",
+  "ingredients": [
+    {
+      "item": "frontierhunts:lodge_table"
+    },
+    {
+      "item": "frontierhunts:cabin_lantern"
+    }
+  ],
+  "result": {
+    "id": "frontierhunts:lit_lodge_table",
+    "count": 1
+  }
+}

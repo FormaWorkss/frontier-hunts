@@ -1,0 +1,15 @@
+{
+  "type": "frontierhunts:bench_shapeless",
+  "ingredients": [
+    {
+      "item": "frontierhunts:stove_flue"
+    },
+    {
+      "item": "minecraft:iron_ingot"
+    }
+  ],
+  "result": {
+    "id": "frontierhunts:stove_roof_flashing",
+    "count": 1
+  }
+}

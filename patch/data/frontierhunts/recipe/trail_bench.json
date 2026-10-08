@@ -1,0 +1,21 @@
+{
+ "type": "frontierhunts:bench_shaped",
+ "category": "misc",
+ "pattern": [
+  "P  ",
+  "PPP",
+  "S S"
+ ],
+ "key": {
+  "P": {
+   "tag": "minecraft:planks"
+  },
+  "S": {
+   "item": "minecraft:stick"
+  }
+ },
+ "result": {
+  "id": "frontierhunts:trail_bench",
+  "count": 2
+ }
+}

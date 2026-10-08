@@ -1,0 +1,10 @@
+{
+ "type": "minecraft:stonecutting",
+ "ingredient": {
+  "item": "frontierhunts:pine_log"
+ },
+ "result": {
+  "id": "frontierhunts:pine_planks",
+  "count": 4
+ }
+}

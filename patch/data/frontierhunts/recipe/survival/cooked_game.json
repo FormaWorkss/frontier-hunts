@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smelting",
+  "category": "food",
+  "ingredient": {
+    "item": "frontierhunts:game_meat"
+  },
+  "result": {
+    "id": "frontierhunts:cooked_game"
+  },
+  "experience": 0.35,
+  "cookingtime": 200
+}

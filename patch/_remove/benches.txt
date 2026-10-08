@@ -1,0 +1,10 @@
+# [benches] the seven retired workbenches are no longer craftable; the crafting-grid arrow refit moved to the Reloading Bench
+data/frontierhunts/recipe/ammo_reloader.json
+data/frontierhunts/recipe/arrow_refit.json
+data/frontierhunts/recipe/attachment_workbench.json
+data/frontierhunts/recipe/bow_tuning_rack.json
+data/frontierhunts/recipe/clothing_workbench.json
+data/frontierhunts/recipe/fishing_station.json
+data/frontierhunts/recipe/tent_bench.json
+data/frontierhunts/recipe/weapons_workbench.json
+data/frontierhunts/advancement/recipes/workshop/weapons_workbench.json

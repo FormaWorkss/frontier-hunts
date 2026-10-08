@@ -1,0 +1,4 @@
+# [sticks] restart test, run 2 (QA_WORLD = run 1's world): exactly one set, same state
+fhqa sticks persist_load
+#sleep 4
+fhqa sticks persist_check

@@ -1,0 +1,9 @@
+{
+  "recipes.frontierhunts.sew.lining": "Sew Fur Lining into the garment in your hand",
+  "recipes.frontierhunts.sew.mittens": "Sew Fur Mittens onto the chest piece in your hand",
+  "item.frontierhunts.fur_lining.note": "Clothing Table: hold any worn piece (camo, ghillie, coveralls, armour) and sew it in: +0.6 warmth.",
+  "item.frontierhunts.fur_mittens.note": "Clothing Table: hold any chest piece and sew them on: warmer hands, steadier aim in the cold.",
+  "item.frontierhunts.tanned_fur.note": "Clothing Table: fur hats, mittens, linings, mukluks. Bedrolls at a crafting table.",
+  "item.frontierhunts.bear_fur.note": "The warmest fur there is: bear fur coats at the Clothing Table.",
+  "item.frontierhunts.tanned_heavy_hide.note": "Wind- and waterproof. Robes and mukluks at the Clothing Table; bedrolls."
+}

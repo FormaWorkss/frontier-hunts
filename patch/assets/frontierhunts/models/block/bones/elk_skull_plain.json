@@ -1,0 +1,14 @@
+{
+ "parent": "frontierhunts:block/bones/elk_skull_template",
+ "textures": {
+  "bone": "frontierhunts:block/bone_weathered",
+  "bone_top": "frontierhunts:block/bone_weathered",
+  "antler": "frontierhunts:block/antler_weathered",
+  "antler_base": "frontierhunts:block/antler_weathered_base",
+  "antler_top": "frontierhunts:block/antler_weathered",
+  "socket": "frontierhunts:block/bone_socket",
+  "horn": "frontierhunts:block/bison_horn",
+  "horn_tip": "frontierhunts:block/bison_horn_tip",
+  "particle": "frontierhunts:block/bone_weathered"
+ }
+}

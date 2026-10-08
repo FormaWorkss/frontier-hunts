@@ -1,0 +1,24 @@
+{
+ "type": "frontierhunts:bench_shaped",
+ "category": "equipment",
+ "pattern": [
+  "LDL",
+  "LWL",
+  "L L"
+ ],
+ "key": {
+  "L": {
+   "item": "minecraft:leather"
+  },
+  "D": {
+   "item": "minecraft:orange_dye"
+  },
+  "W": {
+   "item": "minecraft:brown_wool"
+  }
+ },
+ "result": {
+  "id": "frontierhunts:autumn_camo_coveralls",
+  "count": 1
+ }
+}

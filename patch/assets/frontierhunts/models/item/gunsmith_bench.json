@@ -1,0 +1,141 @@
+{
+ "parent": "frontierhunts:block/gunsmith_bench_inventory",
+ "display": {
+  "gui": {
+   "rotation": [
+    28,
+    150,
+    0
+   ],
+   "translation": [
+    2.797,
+    -2.914,
+    0.848
+   ],
+   "scale": [
+    0.435,
+    0.435,
+    0.435
+   ]
+  },
+  "ground": {
+   "rotation": [
+    0,
+    0,
+    0
+   ],
+   "translation": [
+    -1.707,
+    0.933,
+    -0.213
+   ],
+   "scale": [
+    0.2133,
+    0.2133,
+    0.2133
+   ]
+  },
+  "fixed": {
+   "rotation": [
+    0,
+    180,
+    0
+   ],
+   "translation": [
+    3.657,
+    -2.286,
+    0.457
+   ],
+   "scale": [
+    0.4571,
+    0.4571,
+    0.4571
+   ]
+  },
+  "thirdperson_righthand": {
+   "rotation": [
+    75,
+    45,
+    0
+   ],
+   "translation": [
+    -1.481,
+    1.086,
+    -0.826
+   ],
+   "scale": [
+    0.2328,
+    0.2328,
+    0.2328
+   ]
+  },
+  "thirdperson_lefthand": {
+   "rotation": [
+    75,
+    225,
+    0
+   ],
+   "translation": [
+    1.481,
+    3.312,
+    -1.422
+   ],
+   "scale": [
+    0.2328,
+    0.2328,
+    0.2328
+   ]
+  },
+  "firstperson_righthand": {
+   "rotation": [
+    0,
+    45,
+    0
+   ],
+   "translation": [
+    -1.962,
+    -0.042,
+    1.526
+   ],
+   "scale": [
+    0.3083,
+    0.3083,
+    0.3083
+   ]
+  },
+  "firstperson_lefthand": {
+   "rotation": [
+    0,
+    225,
+    0
+   ],
+   "translation": [
+    1.962,
+    -0.042,
+    -1.526
+   ],
+   "scale": [
+    0.3083,
+    0.3083,
+    0.3083
+   ]
+  },
+  "head": {
+   "rotation": [
+    0,
+    0,
+    0
+   ],
+   "translation": [
+    -3.251,
+    -2.032,
+    -0.406
+   ],
+   "scale": [
+    0.4063,
+    0.4063,
+    0.4063
+   ]
+  }
+ }
+}

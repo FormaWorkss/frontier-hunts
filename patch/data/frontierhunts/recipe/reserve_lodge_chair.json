@@ -1,0 +1,22 @@
+{
+  "type": "frontierhunts:bench_shaped",
+  "category": "building",
+  "group": "frontierhunts:reserve_building",
+  "pattern": [
+    "P ",
+    "PP",
+    "SS"
+  ],
+  "key": {
+    "P": {
+      "item": "frontierhunts:pine_planks"
+    },
+    "S": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:lodge_chair",
+    "count": 1
+  }
+}

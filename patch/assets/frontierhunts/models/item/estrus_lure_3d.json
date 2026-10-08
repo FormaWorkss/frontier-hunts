@@ -1,0 +1,410 @@
+{
+ "credit": "Frontier Hunts [outfitter] - original model",
+ "textures": {
+  "amber": "frontierhunts:item/gear/amber",
+  "label": "frontierhunts:item/gear/label_lure",
+  "cap": "frontierhunts:item/gear/black_rubber",
+  "particle": "frontierhunts:item/gear/amber"
+ },
+ "elements": [
+  {
+   "from": [
+    5.5,
+    0.0,
+    7.0
+   ],
+   "to": [
+    10.5,
+    8.0,
+    9.0
+   ],
+   "faces": {
+    "north": {
+     "texture": "#amber"
+    },
+    "south": {
+     "texture": "#label",
+     "uv": [
+      0,
+      0,
+      16,
+      16
+     ]
+    },
+    "east": {
+     "texture": "#amber"
+    },
+    "west": {
+     "texture": "#amber"
+    },
+    "up": {
+     "texture": "#amber"
+    },
+    "down": {
+     "texture": "#amber"
+    }
+   }
+  },
+  {
+   "from": [
+    5.8,
+    0.0,
+    6.6
+   ],
+   "to": [
+    10.2,
+    8.0,
+    9.4
+   ],
+   "faces": {
+    "north": {
+     "texture": "#amber"
+    },
+    "south": {
+     "texture": "#amber"
+    },
+    "east": {
+     "texture": "#amber"
+    },
+    "west": {
+     "texture": "#amber"
+    },
+    "up": {
+     "texture": "#amber"
+    },
+    "down": {
+     "texture": "#amber"
+    }
+   }
+  },
+  {
+   "from": [
+    6.4,
+    8.0,
+    7.2
+   ],
+   "to": [
+    9.6,
+    9.0,
+    8.8
+   ],
+   "faces": {
+    "north": {
+     "texture": "#amber"
+    },
+    "south": {
+     "texture": "#amber"
+    },
+    "east": {
+     "texture": "#amber"
+    },
+    "west": {
+     "texture": "#amber"
+    },
+    "up": {
+     "texture": "#amber"
+    },
+    "down": {
+     "texture": "#amber"
+    }
+   }
+  },
+  {
+   "from": [
+    6.7,
+    9.0,
+    7.462
+   ],
+   "to": [
+    9.3,
+    11.0,
+    8.538
+   ],
+   "faces": {
+    "north": {
+     "texture": "#cap"
+    },
+    "south": {
+     "texture": "#cap"
+    },
+    "east": {
+     "texture": "#cap"
+    },
+    "west": {
+     "texture": "#cap"
+    },
+    "up": {
+     "texture": "#cap"
+    }
+   }
+  },
+  {
+   "from": [
+    7.462,
+    9.0,
+    6.7
+   ],
+   "to": [
+    8.538,
+    11.0,
+    9.3
+   ],
+   "faces": {
+    "north": {
+     "texture": "#cap"
+    },
+    "south": {
+     "texture": "#cap"
+    },
+    "east": {
+     "texture": "#cap"
+    },
+    "west": {
+     "texture": "#cap"
+    },
+    "up": {
+     "texture": "#cap"
+    }
+   }
+  },
+  {
+   "from": [
+    7.081,
+    9.0,
+    7.081
+   ],
+   "to": [
+    8.919,
+    11.0,
+    8.919
+   ],
+   "faces": {
+    "north": {
+     "texture": "#cap"
+    },
+    "south": {
+     "texture": "#cap"
+    },
+    "east": {
+     "texture": "#cap"
+    },
+    "west": {
+     "texture": "#cap"
+    },
+    "up": {
+     "texture": "#cap"
+    }
+   }
+  },
+  {
+   "from": [
+    7.5,
+    11.0,
+    7.793
+   ],
+   "to": [
+    8.5,
+    13.2,
+    8.207
+   ],
+   "faces": {
+    "north": {
+     "texture": "#cap"
+    },
+    "south": {
+     "texture": "#cap"
+    },
+    "east": {
+     "texture": "#cap"
+    },
+    "west": {
+     "texture": "#cap"
+    },
+    "up": {
+     "texture": "#cap"
+    }
+   }
+  },
+  {
+   "from": [
+    7.793,
+    11.0,
+    7.5
+   ],
+   "to": [
+    8.207,
+    13.2,
+    8.5
+   ],
+   "faces": {
+    "north": {
+     "texture": "#cap"
+    },
+    "south": {
+     "texture": "#cap"
+    },
+    "east": {
+     "texture": "#cap"
+    },
+    "west": {
+     "texture": "#cap"
+    },
+    "up": {
+     "texture": "#cap"
+    }
+   }
+  },
+  {
+   "from": [
+    7.646,
+    11.0,
+    7.646
+   ],
+   "to": [
+    8.354,
+    13.2,
+    8.354
+   ],
+   "faces": {
+    "north": {
+     "texture": "#cap"
+    },
+    "south": {
+     "texture": "#cap"
+    },
+    "east": {
+     "texture": "#cap"
+    },
+    "west": {
+     "texture": "#cap"
+    },
+    "up": {
+     "texture": "#cap"
+    }
+   }
+  }
+ ],
+ "display": {
+  "thirdperson_righthand": {
+   "rotation": [
+    0,
+    0,
+    0
+   ],
+   "translation": [
+    0,
+    3,
+    1
+   ],
+   "scale": [
+    0.6,
+    0.6,
+    0.6
+   ]
+  },
+  "thirdperson_lefthand": {
+   "rotation": [
+    0,
+    0,
+    0
+   ],
+   "translation": [
+    0,
+    3,
+    1
+   ],
+   "scale": [
+    0.6,
+    0.6,
+    0.6
+   ]
+  },
+  "firstperson_righthand": {
+   "rotation": [
+    0,
+    30,
+    0
+   ],
+   "translation": [
+    0,
+    2,
+    0
+   ],
+   "scale": [
+    0.54,
+    0.54,
+    0.54
+   ]
+  },
+  "firstperson_lefthand": {
+   "rotation": [
+    0,
+    -30,
+    0
+   ],
+   "translation": [
+    0,
+    2,
+    0
+   ],
+   "scale": [
+    0.54,
+    0.54,
+    0.54
+   ]
+  },
+  "ground": {
+   "translation": [
+    0,
+    2,
+    0
+   ],
+   "scale": [
+    0.45,
+    0.45,
+    0.45
+   ]
+  },
+  "fixed": {
+   "rotation": [
+    0,
+    180,
+    0
+   ],
+   "scale": [
+    0.8,
+    0.8,
+    0.8
+   ]
+  },
+  "head": {
+   "rotation": [
+    0,
+    180,
+    0
+   ],
+   "translation": [
+    0,
+    13,
+    7
+   ],
+   "scale": [
+    1,
+    1,
+    1
+   ]
+  },
+  "gui": {
+   "rotation": [
+    25,
+    -35,
+    0
+   ],
+   "scale": [
+    0.8,
+    0.8,
+    0.8
+   ]
+  }
+ }
+}

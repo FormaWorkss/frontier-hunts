@@ -1,0 +1,20 @@
+{
+  "type": "frontierhunts:bench_shaped",
+  "category": "misc",
+  "pattern": [
+    "III",
+    "L L",
+    "LLL"
+  ],
+  "key": {
+    "I": {
+      "item": "minecraft:paper"
+    },
+    "L": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:expedition_board"
+  }
+}

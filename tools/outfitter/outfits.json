@@ -1,0 +1,290 @@
+{
+ "coverall/timber_camo_coveralls": {
+  "texture": "coverall/timber_camo_coveralls",
+  "uv": [
+   64,
+   64
+  ],
+  "depth": 0.86
+ },
+ "coverall/autumn_camo_coveralls": {
+  "texture": "coverall/autumn_camo_coveralls",
+  "uv": [
+   64,
+   64
+  ],
+  "depth": 0.86
+ },
+ "coverall/marsh_camo_coveralls": {
+  "texture": "coverall/marsh_camo_coveralls",
+  "uv": [
+   64,
+   64
+  ],
+  "depth": 0.86
+ },
+ "coverall/prairie_camo_coveralls": {
+  "texture": "coverall/prairie_camo_coveralls",
+  "uv": [
+   64,
+   64
+  ],
+  "depth": 0.86
+ },
+ "coverall/snow_camo_coveralls": {
+  "texture": "coverall/snow_camo_coveralls",
+  "uv": [
+   64,
+   64
+  ],
+  "depth": 0.86
+ },
+ "coverall/digital_camo_coveralls": {
+  "texture": "coverall/digital_camo_coveralls",
+  "uv": [
+   64,
+   64
+  ],
+  "depth": 0.86
+ },
+ "coverall/blaze_camo_coveralls": {
+  "texture": "coverall/blaze_camo_coveralls",
+  "uv": [
+   64,
+   64
+  ],
+  "depth": 0.86
+ },
+ "coverall/scent_suit": {
+  "texture": "coverall/scent_suit",
+  "uv": [
+   64,
+   64
+  ],
+  "depth": 0.86
+ },
+ "carbon/hood": {
+  "texture": "carbon/carbon",
+  "uv": [
+   128,
+   64
+  ],
+  "depth": 0.0
+ },
+ "carbon/jacket": {
+  "texture": "carbon/carbon",
+  "uv": [
+   128,
+   64
+  ],
+  "depth": 0.68
+ },
+ "carbon/trousers": {
+  "texture": "carbon/carbon",
+  "uv": [
+   128,
+   64
+  ],
+  "depth": 0.0
+ },
+ "ghillie/woodland_hood": {
+  "texture": "ghillie/woodland",
+  "uv": [
+   128,
+   64
+  ],
+  "depth": 0.0
+ },
+ "ghillie/woodland_jacket": {
+  "texture": "ghillie/woodland",
+  "uv": [
+   128,
+   64
+  ],
+  "depth": 0.45
+ },
+ "ghillie/woodland_trousers": {
+  "texture": "ghillie/woodland",
+  "uv": [
+   128,
+   64
+  ],
+  "depth": 0.0
+ },
+ "ghillie/grassland_hood": {
+  "texture": "ghillie/grassland",
+  "uv": [
+   128,
+   64
+  ],
+  "depth": 0.0
+ },
+ "ghillie/grassland_jacket": {
+  "texture": "ghillie/grassland",
+  "uv": [
+   128,
+   64
+  ],
+  "depth": 0.45
+ },
+ "ghillie/grassland_trousers": {
+  "texture": "ghillie/grassland",
+  "uv": [
+   128,
+   64
+  ],
+  "depth": 0.0
+ },
+ "ghillie/wetland_hood": {
+  "texture": "ghillie/wetland",
+  "uv": [
+   128,
+   64
+  ],
+  "depth": 0.0
+ },
+ "ghillie/wetland_jacket": {
+  "texture": "ghillie/wetland",
+  "uv": [
+   128,
+   64
+  ],
+  "depth": 0.45
+ },
+ "ghillie/wetland_trousers": {
+  "texture": "ghillie/wetland",
+  "uv": [
+   128,
+   64
+  ],
+  "depth": 0.0
+ },
+ "ghillie/snow_hood": {
+  "texture": "ghillie/snow",
+  "uv": [
+   128,
+   64
+  ],
+  "depth": 0.0
+ },
+ "ghillie/snow_jacket": {
+  "texture": "ghillie/snow",
+  "uv": [
+   128,
+   64
+  ],
+  "depth": 0.45
+ },
+ "ghillie/snow_trousers": {
+  "texture": "ghillie/snow",
+  "uv": [
+   128,
+   64
+  ],
+  "depth": 0.0
+ },
+ "garment/fur_hat": {
+  "texture": "garment/fur_hat",
+  "uv": [
+   64,
+   64
+  ],
+  "depth": 0.0
+ },
+ "garment/buckskin_coat": {
+  "texture": "garment/buckskin_coat",
+  "uv": [
+   64,
+   64
+  ],
+  "depth": 0.75
+ },
+ "garment/buckskin_leggings": {
+  "texture": "garment/buckskin_leggings",
+  "uv": [
+   64,
+   64
+  ],
+  "depth": 0.0
+ },
+ "garment/bear_fur_coat": {
+  "texture": "garment/bear_fur_coat",
+  "uv": [
+   64,
+   64
+  ],
+  "depth": 0.95
+ },
+ "garment/hide_robe": {
+  "texture": "garment/hide_robe",
+  "uv": [
+   64,
+   64
+  ],
+  "depth": 1.0
+ },
+ "garment/fur_mukluks": {
+  "texture": "garment/fur_mukluks",
+  "uv": [
+   64,
+   64
+  ],
+  "depth": 0.0
+ },
+ "extra/mittens": {
+  "texture": "extra/extras",
+  "uv": [
+   64,
+   64
+  ],
+  "depth": 0.0
+ },
+ "extra/lining": {
+  "texture": "extra/extras",
+  "uv": [
+   64,
+   64
+  ],
+  "depth": 0.85
+ },
+ "extra/harness_0": {
+  "texture": "extra/extras",
+  "uv": [
+   64,
+   64
+  ],
+  "depth": 0.92
+ },
+ "extra/harness_1": {
+  "texture": "extra/extras",
+  "uv": [
+   64,
+   64
+  ],
+  "depth": 1.12
+ },
+ "extra/harness_2": {
+  "texture": "extra/extras",
+  "uv": [
+   64,
+   64
+  ],
+  "depth": 1.32
+ },
+ "extra/harness_3": {
+  "texture": "extra/extras",
+  "uv": [
+   64,
+   64
+  ],
+  "depth": 1.52
+ },
+ "extra/harness_4": {
+  "texture": "extra/extras",
+  "uv": [
+   64,
+   64
+  ],
+  "depth": 1.72
+ }
+}

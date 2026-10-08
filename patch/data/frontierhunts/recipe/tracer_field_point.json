@@ -1,0 +1,28 @@
+{
+  "type": "frontierhunts:bench_shapeless",
+  "category": "equipment",
+  "ingredients": [
+    {
+      "item": "frontierhunts:field_point"
+    },
+    {
+      "item": "frontierhunts:field_point"
+    },
+    {
+      "item": "frontierhunts:field_point"
+    },
+    {
+      "item": "frontierhunts:field_point"
+    },
+    {
+      "item": "minecraft:glowstone_dust"
+    },
+    {
+      "item": "minecraft:lime_dye"
+    }
+  ],
+  "result": {
+    "id": "frontierhunts:tracer_field_point",
+    "count": 4
+  }
+}

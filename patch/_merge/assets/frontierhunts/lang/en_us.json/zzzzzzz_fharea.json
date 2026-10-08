@@ -1,0 +1,19 @@
+{
+  "firsthunt.frontierhunts.area.rough": "The deer near you are up in rough country. Explore lower, open ground and a beginner area will be marked.",
+  "firsthunt.frontierhunts.area.rough_short": "The deer near you are in rough country: explore lower, open ground and a beginner area will be marked.",
+  "firsthunt.frontierhunts.area.moved": "That spot was rougher than it looked: a new beginner area is marked.",
+  "firsthunt.frontierhunts.hud.distance": "%s m",
+  "firsthunt.frontierhunts.hud.caption": "Beginner area",
+  "firsthunt.frontierhunts.hud.inside": "You're in the beginner area",
+  "firsthunt.frontierhunts.hud.inside.signs": "Look at the ground for deer sign.",
+  "firsthunt.frontierhunts.hud.inside.wind": "Keep the wind in your face as you close in.",
+  "firsthunt.frontierhunts.hud.inside.shot": "Wait for a calm deer standing side-on.",
+  "firsthunt.frontierhunts.hud.point.n": "N",
+  "firsthunt.frontierhunts.hud.point.ne": "NE",
+  "firsthunt.frontierhunts.hud.point.e": "E",
+  "firsthunt.frontierhunts.hud.point.se": "SE",
+  "firsthunt.frontierhunts.hud.point.s": "S",
+  "firsthunt.frontierhunts.hud.point.sw": "SW",
+  "firsthunt.frontierhunts.hud.point.w": "W",
+  "firsthunt.frontierhunts.hud.point.nw": "NW"
+}

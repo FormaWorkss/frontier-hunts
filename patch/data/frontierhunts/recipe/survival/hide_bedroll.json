@@ -1,0 +1,20 @@
+{
+  "type": "frontierhunts:bench_shaped",
+  "category": "misc",
+  "pattern": [
+    "WWW",
+    "HHH"
+  ],
+  "key": {
+    "W": {
+      "tag": "minecraft:wool"
+    },
+    "H": {
+      "tag": "frontierhunts:tanned_hides"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:hide_bedroll",
+    "count": 1
+  }
+}

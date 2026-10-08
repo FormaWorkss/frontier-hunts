@@ -1,0 +1,1 @@
+{"type":"neoforge:add_spawns","biomes":"#frontierhunts:whitetail_habitat","spawners":{"type":"frontierhunts:whitetail","weight":10,"minCount":1,"maxCount":5}}

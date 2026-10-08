@@ -1,0 +1,4 @@
+# [items] anatomy binoculars removed (old stacks are aliased to frontierhunts:binoculars in ExpeditionContent)
+assets/frontierhunts/models/item/anatomy_binoculars.json
+assets/frontierhunts/textures/item/anatomy_binoculars.png
+data/frontierhunts/recipe/expedition_anatomy_binoculars.json

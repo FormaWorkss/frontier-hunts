@@ -1,0 +1,66 @@
+{
+ "academy.ring": {
+  "sounds": [
+   {
+    "name": "frontierhunts:academy/ring"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.academy.ring"
+ },
+ "academy.ring_gold": {
+  "sounds": [
+   {
+    "name": "frontierhunts:academy/ring_gold"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.academy.ring_gold"
+ },
+ "academy.tick": {
+  "sounds": [
+   {
+    "name": "frontierhunts:academy/tick"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.academy.tick"
+ },
+ "academy.passed": {
+  "sounds": [
+   {
+    "name": "frontierhunts:academy/passed"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.academy.passed"
+ },
+ "academy.arrive": {
+  "sounds": [
+   {
+    "name": "frontierhunts:academy/arrive"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.academy.arrive"
+ },
+ "academy.depart": {
+  "sounds": [
+   {
+    "name": "frontierhunts:academy/depart"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.academy.depart"
+ },
+ "academy.busted": {
+  "sounds": [
+   {
+    "name": "frontierhunts:academy/busted"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.academy.busted"
+ },
+ "academy.page": {
+  "sounds": [
+   {
+    "name": "frontierhunts:academy/page"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.academy.page"
+ }
+}

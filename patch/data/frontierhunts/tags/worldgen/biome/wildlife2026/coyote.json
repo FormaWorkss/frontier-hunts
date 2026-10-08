@@ -1,0 +1,29 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:plains",
+    "minecraft:sunflower_plains",
+    "#minecraft:is_badlands",
+    "minecraft:savanna",
+    {
+      "id": "frontierhunts:sagebrush_bench",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:aspen_parkland",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:valley_meadow",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:rocky_foothills",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:wildflower_glade",
+      "required": false
+    }
+  ]
+}

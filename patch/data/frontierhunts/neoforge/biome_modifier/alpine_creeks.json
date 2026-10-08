@@ -1,0 +1,6 @@
+{
+ "type": "neoforge:add_features",
+ "biomes": "#frontierhunts:has_alpine_creeks",
+ "features": "frontierhunts:alpine_creeks",
+ "step": "lakes"
+}

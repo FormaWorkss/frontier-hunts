@@ -1,0 +1,27 @@
+{
+  "type": "frontierhunts:camp_cooking",
+  "group": "camp_cooking",
+  "ingredients": [
+    {
+      "item": "frontierhunts:venison"
+    },
+    {
+      "item": "frontierhunts:venison"
+    },
+    {
+      "item": "minecraft:beetroot"
+    },
+    {
+      "item": "minecraft:beetroot"
+    },
+    {
+      "item": "minecraft:cocoa_beans"
+    }
+  ],
+  "result": {
+    "id": "frontierhunts:venison_chili",
+    "count": 3
+  },
+  "cookingtime": 800,
+  "bowls": 3
+}

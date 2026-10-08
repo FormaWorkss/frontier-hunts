@@ -1,0 +1,20 @@
+{
+ "type": "frontierhunts:bench_shaped",
+ "category": "misc",
+ "pattern": [
+  "H",
+  "L"
+ ],
+ "key": {
+  "H": {
+   "item": "minecraft:leather"
+  },
+  "L": {
+   "tag": "minecraft:logs"
+  }
+ },
+ "result": {
+  "id": "frontierhunts:log_stump_seat",
+  "count": 1
+ }
+}

@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "building",
+ "group": "oak_log",
+ "ingredients": [
+  {
+   "item": "frontierhunts:alpine_maple_log"
+  },
+  {
+   "item": "frontierhunts:alpine_maple_log"
+  }
+ ],
+ "result": {
+  "id": "minecraft:oak_log",
+  "count": 2
+ }
+}

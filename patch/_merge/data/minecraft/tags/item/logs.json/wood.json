@@ -1,0 +1,15 @@
+{
+ "replace": false,
+ "values": [
+  "frontierhunts:pine_log",
+  "frontierhunts:cedar_log",
+  "frontierhunts:aspen_log",
+  "frontierhunts:birch_log",
+  "frontierhunts:alpine_spruce_log",
+  "frontierhunts:alpine_pine_log",
+  "frontierhunts:alpine_maple_log",
+  "frontierhunts:alpine_alder_log",
+  "frontierhunts:alpine_rowan_log",
+  "frontierhunts:alpine_cottonwood_log"
+ ]
+}

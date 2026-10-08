@@ -1,0 +1,9 @@
+# [outfitter] old 64x32 coverall skins: CoverallLayer now draws the coveralls from textures/entity/outfitter/coverall/*.png
+assets/frontierhunts/textures/entity/coverall/autumn_camo_coveralls.png
+assets/frontierhunts/textures/entity/coverall/blaze_camo_coveralls.png
+assets/frontierhunts/textures/entity/coverall/digital_camo_coveralls.png
+assets/frontierhunts/textures/entity/coverall/marsh_camo_coveralls.png
+assets/frontierhunts/textures/entity/coverall/prairie_camo_coveralls.png
+assets/frontierhunts/textures/entity/coverall/scent_suit.png
+assets/frontierhunts/textures/entity/coverall/snow_camo_coveralls.png
+assets/frontierhunts/textures/entity/coverall/timber_camo_coveralls.png

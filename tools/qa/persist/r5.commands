@@ -1,0 +1,8 @@
+fhqa persist load
+fhqa persist check
+fhqa persist login
+fhqa persist status
+fhqa persist claim
+fhqa persist snapshot
+fhqa persist crash
+#sleep 8

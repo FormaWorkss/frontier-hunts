@@ -1,0 +1,21 @@
+{
+ "type": "frontierhunts:bench_shaped",
+ "category": "misc",
+ "pattern": [
+  "C  ",
+  "CCC",
+  "N N"
+ ],
+ "key": {
+  "C": {
+   "item": "frontierhunts:canvas_wall"
+  },
+  "N": {
+   "item": "minecraft:iron_nugget"
+  }
+ },
+ "result": {
+  "id": "frontierhunts:camp_chair",
+  "count": 1
+ }
+}

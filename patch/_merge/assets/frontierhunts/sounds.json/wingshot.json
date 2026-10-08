@@ -1,0 +1,136 @@
+{
+  "wingshot.grouse_flush": {
+    "sounds": [
+      {
+        "name": "frontierhunts:wingshot/grouse_flush_0",
+        "attenuation_distance": 40
+      },
+      {
+        "name": "frontierhunts:wingshot/grouse_flush_1",
+        "attenuation_distance": 40
+      },
+      {
+        "name": "frontierhunts:wingshot/grouse_flush_2",
+        "attenuation_distance": 40
+      }
+    ],
+    "subtitle": "subtitles.frontierhunts.wingshot.grouse_flush"
+  },
+  "wingshot.duck_takeoff": {
+    "sounds": [
+      {
+        "name": "frontierhunts:wingshot/duck_takeoff_0",
+        "attenuation_distance": 36
+      },
+      {
+        "name": "frontierhunts:wingshot/duck_takeoff_1",
+        "attenuation_distance": 36
+      },
+      {
+        "name": "frontierhunts:wingshot/duck_takeoff_2",
+        "attenuation_distance": 36
+      }
+    ],
+    "subtitle": "subtitles.frontierhunts.wingshot.duck_takeoff"
+  },
+  "wingshot.duck_wings": {
+    "sounds": [
+      {
+        "name": "frontierhunts:wingshot/duck_wings",
+        "attenuation_distance": 28
+      }
+    ],
+    "subtitle": "subtitles.frontierhunts.wingshot.wings"
+  },
+  "wingshot.grouse_wings": {
+    "sounds": [
+      {
+        "name": "frontierhunts:wingshot/grouse_wings",
+        "attenuation_distance": 24
+      }
+    ],
+    "subtitle": "subtitles.frontierhunts.wingshot.wings"
+  },
+  "wingshot.splash_small": {
+    "sounds": [
+      {
+        "name": "frontierhunts:wingshot/splash_small_0",
+        "attenuation_distance": 24
+      },
+      {
+        "name": "frontierhunts:wingshot/splash_small_1",
+        "attenuation_distance": 24
+      }
+    ],
+    "subtitle": "subtitles.frontierhunts.wingshot.splash"
+  },
+  "wingshot.bird_hit": {
+    "sounds": [
+      {
+        "name": "frontierhunts:wingshot/bird_hit_0",
+        "attenuation_distance": 32
+      },
+      {
+        "name": "frontierhunts:wingshot/bird_hit_1",
+        "attenuation_distance": 32
+      },
+      {
+        "name": "frontierhunts:wingshot/bird_hit_2",
+        "attenuation_distance": 32
+      }
+    ],
+    "subtitle": "subtitles.frontierhunts.wingshot.bird_hit"
+  },
+  "wingshot.body_thud": {
+    "sounds": [
+      {
+        "name": "frontierhunts:wingshot/body_thud_0",
+        "attenuation_distance": 24
+      },
+      {
+        "name": "frontierhunts:wingshot/body_thud_1",
+        "attenuation_distance": 24
+      }
+    ],
+    "subtitle": "subtitles.frontierhunts.wingshot.body_thud"
+  },
+  "wingshot.body_splash": {
+    "sounds": [
+      {
+        "name": "frontierhunts:wingshot/body_splash_0",
+        "attenuation_distance": 28
+      },
+      {
+        "name": "frontierhunts:wingshot/body_splash_1",
+        "attenuation_distance": 28
+      }
+    ],
+    "subtitle": "subtitles.frontierhunts.wingshot.body_splash"
+  },
+  "wingshot.slowmo": {
+    "sounds": [
+      {
+        "name": "frontierhunts:wingshot/slowmo"
+      }
+    ],
+    "subtitle": "subtitles.frontierhunts.wingshot.slowmo"
+  },
+  "wingshot.grouse_drum_a": {
+    "sounds": [
+      {
+        "name": "frontierhunts:wildlife/voice/grouse_drum_0",
+        "attenuation_distance": 48
+      }
+    ],
+    "subtitle": "subtitles.frontierhunts.grouse_drum"
+  },
+  "wingshot.grouse_drum_b": {
+    "sounds": [
+      {
+        "name": "frontierhunts:wildlife/voice/grouse_drum_1",
+        "attenuation_distance": 48
+      }
+    ],
+    "subtitle": "subtitles.frontierhunts.grouse_drum"
+  }
+}

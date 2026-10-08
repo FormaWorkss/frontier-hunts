@@ -1,0 +1,17 @@
+{
+ "type": "minecraft:crafting_shapeless",
+ "category": "building",
+ "group": "spruce_log",
+ "ingredients": [
+  {
+   "item": "frontierhunts:alpine_spruce_log"
+  },
+  {
+   "item": "frontierhunts:alpine_spruce_log"
+  }
+ ],
+ "result": {
+  "id": "minecraft:spruce_log",
+  "count": 2
+ }
+}

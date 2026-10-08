@@ -1,0 +1,34 @@
+{
+ "variants": {
+  "facing=north,half=front": {
+   "model": "frontierhunts:block/foam_deer_target_front"
+  },
+  "facing=east,half=front": {
+   "model": "frontierhunts:block/foam_deer_target_front",
+   "y": 90
+  },
+  "facing=south,half=front": {
+   "model": "frontierhunts:block/foam_deer_target_front",
+   "y": 180
+  },
+  "facing=west,half=front": {
+   "model": "frontierhunts:block/foam_deer_target_front",
+   "y": 270
+  },
+  "facing=north,half=back": {
+   "model": "frontierhunts:block/foam_deer_target_back"
+  },
+  "facing=east,half=back": {
+   "model": "frontierhunts:block/foam_deer_target_back",
+   "y": 90
+  },
+  "facing=south,half=back": {
+   "model": "frontierhunts:block/foam_deer_target_back",
+   "y": 180
+  },
+  "facing=west,half=back": {
+   "model": "frontierhunts:block/foam_deer_target_back",
+   "y": 270
+  }
+ }
+}

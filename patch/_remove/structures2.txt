@@ -1,0 +1,5 @@
+# [structures2] the base jar's frontierhunts:settlement_* sets are older copies of Austin's buildings (pre Frontier
+# Structures 1.2 edits) with the same names; they would generate twice and their site check hangs /locate on alpine
+# terrain. The authoritative templates are frontierstructures:settlement_* (fs/). Structures + templates stay for /place.
+data/frontierhunts/worldgen/structure_set/expedition_buildings.json
+data/frontierhunts/worldgen/structure_set/frontier_hamlets.json

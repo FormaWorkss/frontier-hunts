@@ -1,0 +1,11 @@
+{
+  "block.frontierstructures.workshop_floor": "Workshop Floor",
+  "block.frontierstructures.structure_space": "Structure Clearance",
+  "block.frontierstructures.lookout_stair_rail": "Lookout Stair Rail",
+  "block.frontierstructures.lookout_deck_rail": "Lookout Deck Rail",
+  "block.frontierstructures.lookout_brace": "Lookout Timber Brace",
+  "block.frontierstructures.lookout_cross_brace": "Lookout Cross Brace",
+  "block.frontierstructures.spruce_casement_window": "Spruce Casement Window",
+  "block.frontierstructures.dark_oak_lattice_window": "Dark Oak Lattice Window",
+  "block.frontierstructures.spruce_picture_window": "Spruce Picture Window"
+}

@@ -1,0 +1,33 @@
+# [hound4] tracking hound lifecycle on a dedicated server (FHQA fake player = the owner). Append to server_smoke.commands
+# or run alone: tools/qa/server_smoke.sh <jar> tools/qa/hound_smoke.commands
+gamerule doDaylightCycle false
+fhqa player hound sit
+fhqa player hound summon
+#sleep 3
+fhqa count minecraft:overworld
+fhqa player hound sit
+fhqa player hound stop
+fhqa player hound heel
+fhqa player hound come
+fhqa player hound sit
+#sleep 6
+fhqa player hound dismiss
+#sleep 6
+fhqa count minecraft:overworld
+fhqa player hound dismiss
+fhqa player hound summon
+#sleep 3
+fhqa count minecraft:overworld
+fhqa player hound stop
+#sleep 6
+fhqa player damage @e[type=frontierhunts:tracking_hound,limit=1] 100 minecraft:player_attack by @s
+#sleep 4
+fhqa count minecraft:overworld
+fhqa player hound sit
+fhqa player hound summon
+#sleep 7
+fhqa count minecraft:overworld
+fhqa player hound dismiss
+#sleep 3
+fhqa count minecraft:overworld
+save-all flush

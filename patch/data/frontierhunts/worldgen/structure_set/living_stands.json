@@ -1,0 +1,14 @@
+{
+  "structures": [
+    {
+      "structure": "frontierhunts:tree_stand",
+      "weight": 1
+    }
+  ],
+  "placement": {
+    "type": "minecraft:random_spread",
+    "spacing": 9,
+    "separation": 4,
+    "salt": 410012605
+  }
+}

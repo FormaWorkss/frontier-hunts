@@ -1,0 +1,64 @@
+{
+ "variants": {
+  "facing=north,mossy=true,natural=true": {
+   "model": "frontierhunts:block/bones/shed_antler_mossy"
+  },
+  "facing=north,mossy=true,natural=false": {
+   "model": "frontierhunts:block/bones/shed_antler_mossy"
+  },
+  "facing=north,mossy=false,natural=true": {
+   "model": "frontierhunts:block/bones/shed_antler_plain"
+  },
+  "facing=north,mossy=false,natural=false": {
+   "model": "frontierhunts:block/bones/shed_antler_plain"
+  },
+  "facing=east,mossy=true,natural=true": {
+   "model": "frontierhunts:block/bones/shed_antler_mossy",
+   "y": 90
+  },
+  "facing=east,mossy=true,natural=false": {
+   "model": "frontierhunts:block/bones/shed_antler_mossy",
+   "y": 90
+  },
+  "facing=east,mossy=false,natural=true": {
+   "model": "frontierhunts:block/bones/shed_antler_plain",
+   "y": 90
+  },
+  "facing=east,mossy=false,natural=false": {
+   "model": "frontierhunts:block/bones/shed_antler_plain",
+   "y": 90
+  },
+  "facing=south,mossy=true,natural=true": {
+   "model": "frontierhunts:block/bones/shed_antler_mossy",
+   "y": 180
+  },
+  "facing=south,mossy=true,natural=false": {
+   "model": "frontierhunts:block/bones/shed_antler_mossy",
+   "y": 180
+  },
+  "facing=south,mossy=false,natural=true": {
+   "model": "frontierhunts:block/bones/shed_antler_plain",
+   "y": 180
+  },
+  "facing=south,mossy=false,natural=false": {
+   "model": "frontierhunts:block/bones/shed_antler_plain",
+   "y": 180
+  },
+  "facing=west,mossy=true,natural=true": {
+   "model": "frontierhunts:block/bones/shed_antler_mossy",
+   "y": 270
+  },
+  "facing=west,mossy=true,natural=false": {
+   "model": "frontierhunts:block/bones/shed_antler_mossy",
+   "y": 270
+  },
+  "facing=west,mossy=false,natural=true": {
+   "model": "frontierhunts:block/bones/shed_antler_plain",
+   "y": 270
+  },
+  "facing=west,mossy=false,natural=false": {
+   "model": "frontierhunts:block/bones/shed_antler_plain",
+   "y": 270
+  }
+ }
+}

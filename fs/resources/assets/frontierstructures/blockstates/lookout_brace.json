@@ -1,0 +1,1 @@
+{"variants":{"facing=north":{"model":"frontierstructures:block/lookout_brace","y":0},"facing=east":{"model":"frontierstructures:block/lookout_brace","y":90},"facing=south":{"model":"frontierstructures:block/lookout_brace","y":180},"facing=west":{"model":"frontierstructures:block/lookout_brace","y":270}}}

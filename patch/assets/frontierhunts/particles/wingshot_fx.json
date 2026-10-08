@@ -1,0 +1,31 @@
+{
+  "textures": [
+    "frontierhunts:wingshot_duck_breast",
+    "frontierhunts:wingshot_duck_flank",
+    "frontierhunts:wingshot_duck_belly",
+    "frontierhunts:wingshot_duck_back",
+    "frontierhunts:wingshot_duck_head",
+    "frontierhunts:wingshot_duck_scapular",
+    "frontierhunts:wingshot_duck_primary",
+    "frontierhunts:wingshot_duck_speculum",
+    "frontierhunts:wingshot_duck_tertial",
+    "frontierhunts:wingshot_grouse_barred",
+    "frontierhunts:wingshot_grouse_bufftip",
+    "frontierhunts:wingshot_grouse_belly",
+    "frontierhunts:wingshot_grouse_rufous",
+    "frontierhunts:wingshot_grouse_ruff",
+    "frontierhunts:wingshot_grouse_rump",
+    "frontierhunts:wingshot_grouse_primary",
+    "frontierhunts:wingshot_grouse_secondary",
+    "frontierhunts:wingshot_grouse_tail",
+    "frontierhunts:wingshot_down_0",
+    "frontierhunts:wingshot_down_1",
+    "frontierhunts:wingshot_down_2",
+    "frontierhunts:wingshot_blood_drop",
+    "frontierhunts:wingshot_blood_splat_0",
+    "frontierhunts:wingshot_blood_splat_1",
+    "frontierhunts:wingshot_blood_mist_0",
+    "frontierhunts:wingshot_blood_mist_1",
+    "frontierhunts:wingshot_blood_mist_2"
+  ]
+}

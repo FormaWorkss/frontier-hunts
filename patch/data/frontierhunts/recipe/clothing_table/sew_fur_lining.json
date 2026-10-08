@@ -1,0 +1,18 @@
+{
+  "type": "frontierhunts:clothing_table",
+  "group": "sewing",
+  "category": "equipment",
+  "pattern": [
+    "L"
+  ],
+  "key": {
+    "L": {
+      "item": "frontierhunts:fur_lining"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:fur_lining",
+    "count": 1
+  },
+  "sew": "lining"
+}

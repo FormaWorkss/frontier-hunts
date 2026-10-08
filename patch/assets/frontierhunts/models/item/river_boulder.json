@@ -1,0 +1,22 @@
+{
+ "parent": "frontierhunts:block/river_boulder_0",
+ "display": {
+  "gui": {
+   "rotation": [
+    25,
+    -35,
+    0
+   ],
+   "translation": [
+    -0.433,
+    3.493,
+    0
+   ],
+   "scale": [
+    1.092,
+    1.092,
+    1.092
+   ]
+  }
+ }
+}

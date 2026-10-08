@@ -1,0 +1,14 @@
+{
+  "replace": false,
+  "values": [
+    "#frontierhunts:whitetail_habitat",
+    "#frontierhunts:elk_habitat",
+    "#frontierhunts:moose_habitat",
+    "#frontierhunts:wildlife2026/bison",
+    "#frontierhunts:wildlife2026/pronghorn",
+    "#minecraft:is_badlands",
+    "minecraft:snowy_plains",
+    "minecraft:savanna",
+    "minecraft:savanna_plateau"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "type": "frontierhunts:bench_shapeless",
+  "category": "misc",
+  "ingredients": [
+    {
+      "item": "frontierhunts:game_meat"
+    },
+    {
+      "item": "frontierhunts:game_meat"
+    },
+    [
+      {
+        "item": "frontierhunts:game_fat"
+      },
+      {
+        "item": "frontierhunts:tallow"
+      }
+    ],
+    {
+      "item": "frontierhunts:salt"
+    }
+  ],
+  "result": {
+    "id": "frontierhunts:raw_game_sausage",
+    "count": 4
+  }
+}

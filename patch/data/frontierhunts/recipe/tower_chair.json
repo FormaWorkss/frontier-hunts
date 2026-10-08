@@ -1,0 +1,24 @@
+{
+ "type": "frontierhunts:bench_shaped",
+ "category": "misc",
+ "pattern": [
+  "W  ",
+  "WIW",
+  "NIN"
+ ],
+ "key": {
+  "W": {
+   "tag": "minecraft:wool"
+  },
+  "I": {
+   "item": "minecraft:iron_ingot"
+  },
+  "N": {
+   "item": "minecraft:iron_nugget"
+  }
+ },
+ "result": {
+  "id": "frontierhunts:tower_chair",
+  "count": 1
+ }
+}

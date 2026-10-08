@@ -1,0 +1,191 @@
+{
+ "phone.tap": {
+  "sounds": [
+   {
+    "name": "frontierhunts:phone/tap"
+   }
+  ]
+ },
+ "phone.key": {
+  "sounds": [
+   {
+    "name": "frontierhunts:phone/key"
+   }
+  ]
+ },
+ "phone.open": {
+  "sounds": [
+   {
+    "name": "frontierhunts:phone/open"
+   }
+  ]
+ },
+ "phone.close": {
+  "sounds": [
+   {
+    "name": "frontierhunts:phone/close"
+   }
+  ]
+ },
+ "phone.back": {
+  "sounds": [
+   {
+    "name": "frontierhunts:phone/back"
+   }
+  ]
+ },
+ "phone.toggle": {
+  "sounds": [
+   {
+    "name": "frontierhunts:phone/toggle"
+   }
+  ]
+ },
+ "phone.notify": {
+  "sounds": [
+   {
+    "name": "frontierhunts:phone/notify"
+   }
+  ]
+ },
+ "phone.error": {
+  "sounds": [
+   {
+    "name": "frontierhunts:phone/error"
+   }
+  ]
+ },
+ "phone.success": {
+  "sounds": [
+   {
+    "name": "frontierhunts:phone/success"
+   }
+  ]
+ },
+ "phone.shutter": {
+  "sounds": [
+   {
+    "name": "frontierhunts:phone/shutter"
+   }
+  ]
+ },
+ "phone.chess_move": {
+  "sounds": [
+   {
+    "name": "frontierhunts:phone/chess_move"
+   }
+  ]
+ },
+ "phone.chess_capture": {
+  "sounds": [
+   {
+    "name": "frontierhunts:phone/chess_capture"
+   }
+  ]
+ },
+ "phone.chess_check": {
+  "sounds": [
+   {
+    "name": "frontierhunts:phone/chess_check"
+   }
+  ]
+ },
+ "phone.dice_roll": {
+  "sounds": [
+   {
+    "name": "frontierhunts:phone/dice_roll"
+   }
+  ]
+ },
+ "phone.dice_hold": {
+  "sounds": [
+   {
+    "name": "frontierhunts:phone/dice_hold"
+   }
+  ]
+ },
+ "phone.dice_score": {
+  "sounds": [
+   {
+    "name": "frontierhunts:phone/dice_score"
+   }
+  ]
+ },
+ "phone.flush_shot": {
+  "sounds": [
+   {
+    "name": "frontierhunts:phone/flush_shot"
+   }
+  ]
+ },
+ "phone.flush_hit": {
+  "sounds": [
+   {
+    "name": "frontierhunts:phone/flush_hit"
+   }
+  ]
+ },
+ "phone.flush_flush": {
+  "sounds": [
+   {
+    "name": "frontierhunts:phone/flush_flush"
+   }
+  ]
+ },
+ "phone.flush_reload": {
+  "sounds": [
+   {
+    "name": "frontierhunts:phone/flush_reload"
+   }
+  ]
+ },
+ "phone.flush_warn": {
+  "sounds": [
+   {
+    "name": "frontierhunts:phone/flush_warn"
+   }
+  ]
+ },
+ "phone.win": {
+  "sounds": [
+   {
+    "name": "frontierhunts:phone/win"
+   }
+  ]
+ },
+ "phone.lose": {
+  "sounds": [
+   {
+    "name": "frontierhunts:phone/lose"
+   }
+  ]
+ },
+ "phone.message_in": {
+  "sounds": [
+   {
+    "name": "frontierhunts:phone/message_in"
+   }
+  ]
+ },
+ "phone.message_out": {
+  "sounds": [
+   {
+    "name": "frontierhunts:phone/message_out"
+   }
+  ]
+ },
+ "phone.unlock": {
+  "sounds": [
+   {
+    "name": "frontierhunts:phone/unlock"
+   }
+  ]
+ },
+ "phone.alarm": {
+  "sounds": [
+   {
+    "name": "frontierhunts:phone/alarm"
+   }
+  ]
+ }
+}

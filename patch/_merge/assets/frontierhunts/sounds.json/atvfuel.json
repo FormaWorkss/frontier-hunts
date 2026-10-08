@@ -1,0 +1,68 @@
+{
+ "atv_sputter": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ride/atv_sputter_1",
+    "attenuation_distance": 40
+   },
+   {
+    "name": "frontierhunts:ride/atv_sputter_2",
+    "attenuation_distance": 40
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.atv_sputter"
+ },
+ "atv_stall": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ride/atv_stall",
+    "attenuation_distance": 48
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.atv_stall"
+ },
+ "atv_crank": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ride/atv_crank",
+    "attenuation_distance": 32
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.atv_crank"
+ },
+ "fuel_pour": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ride/fuel_pour_1",
+    "attenuation_distance": 16
+   },
+   {
+    "name": "frontierhunts:ride/fuel_pour_2",
+    "attenuation_distance": 16
+   },
+   {
+    "name": "frontierhunts:ride/fuel_pour_3",
+    "attenuation_distance": 16
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.fuel_pour"
+ },
+ "rig_attach": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ride/rig_attach",
+    "attenuation_distance": 16
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.rig_attach"
+ },
+ "jerry_can_fill": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ride/jerry_can_fill",
+    "attenuation_distance": 16
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.jerry_can_fill"
+ }
+}

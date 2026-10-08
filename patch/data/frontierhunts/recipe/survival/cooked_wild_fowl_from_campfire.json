@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:campfire_cooking",
+  "category": "food",
+  "ingredient": {
+    "item": "frontierhunts:wild_fowl"
+  },
+  "result": {
+    "id": "frontierhunts:cooked_wild_fowl"
+  },
+  "experience": 0.35,
+  "cookingtime": 600
+}

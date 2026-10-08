@@ -1,0 +1,32 @@
+{
+ "parent": "minecraft:recipes/root",
+ "criteria": {
+  "has_the_recipe": {
+   "trigger": "minecraft:recipe_unlocked",
+   "conditions": {
+    "recipe": "frontierhunts:reserve_stacked_firewood"
+   }
+  },
+  "has_material_0": {
+   "trigger": "minecraft:inventory_changed",
+   "conditions": {
+    "items": [
+     {
+      "items": "#minecraft:logs"
+     }
+    ]
+   }
+  }
+ },
+ "requirements": [
+  [
+   "has_material_0",
+   "has_the_recipe"
+  ]
+ ],
+ "rewards": {
+  "recipes": [
+   "frontierhunts:reserve_stacked_firewood"
+  ]
+ }
+}

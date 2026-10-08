@@ -1,0 +1,24 @@
+{
+ "type": "frontierhunts:bench_shaped",
+ "category": "misc",
+ "pattern": [
+  "A",
+  "S",
+  "P"
+ ],
+ "key": {
+  "A": {
+   "tag": "c:bones"
+  },
+  "S": {
+   "tag": "c:rods/wooden"
+  },
+  "P": {
+   "tag": "minecraft:wooden_slabs"
+  }
+ },
+ "result": {
+  "id": "frontierhunts:bow_stand",
+  "count": 1
+ }
+}

@@ -1,0 +1,181 @@
+{
+ "bleat_call": {
+  "sounds": [
+   {
+    "name": "frontierhunts:equipment/bleat_call_1",
+    "attenuation_distance": 64
+   },
+   {
+    "name": "frontierhunts:equipment/bleat_call_2",
+    "attenuation_distance": 64
+   }
+  ]
+ },
+ "grunt_tube": {
+  "sounds": [
+   {
+    "name": "frontierhunts:equipment/grunt_tube_1",
+    "attenuation_distance": 64
+   },
+   {
+    "name": "frontierhunts:equipment/grunt_tube_2",
+    "attenuation_distance": 64
+   },
+   {
+    "name": "frontierhunts:equipment/grunt_tube_3",
+    "attenuation_distance": 64
+   }
+  ]
+ },
+ "predator_call": {
+  "sounds": [
+   {
+    "name": "frontierhunts:equipment/predator_call_1",
+    "attenuation_distance": 64
+   },
+   {
+    "name": "frontierhunts:equipment/predator_call_2",
+    "attenuation_distance": 64
+   },
+   {
+    "name": "frontierhunts:equipment/predator_call_3",
+    "attenuation_distance": 64
+   }
+  ]
+ },
+ "elk_bugle": {
+  "sounds": [
+   {
+    "name": "frontierhunts:wildlife/elk_bugle_3",
+    "attenuation_distance": 72
+   }
+  ]
+ },
+ "elk_mew": {
+  "sounds": [
+   {
+    "name": "frontierhunts:wildlife/elk_mew_2",
+    "attenuation_distance": 40
+   },
+   {
+    "name": "frontierhunts:wildlife/elk_mew_3",
+    "attenuation_distance": 40
+   }
+  ]
+ },
+ "bear_huff": {
+  "sounds": [
+   {
+    "name": "frontierhunts:wildlife/voice/bear_huff_0",
+    "attenuation_distance": 24
+   },
+   {
+    "name": "frontierhunts:wildlife/voice/bear_huff_1",
+    "attenuation_distance": 24
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.bear_huff"
+ },
+ "bear_growl": {
+  "sounds": [
+   {
+    "name": "frontierhunts:wildlife/voice/bear_growl_0",
+    "attenuation_distance": 32
+   },
+   {
+    "name": "frontierhunts:wildlife/voice/bear_growl_1",
+    "attenuation_distance": 32
+   },
+   {
+    "name": "frontierhunts:wildlife/voice/bear_growl_2",
+    "attenuation_distance": 32
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.bear_growl"
+ },
+ "bison_bellow": {
+  "sounds": [
+   {
+    "name": "frontierhunts:wildlife/voice/bison_bellow_0",
+    "attenuation_distance": 48
+   },
+   {
+    "name": "frontierhunts:wildlife/voice/bison_bellow_1",
+    "attenuation_distance": 48
+   },
+   {
+    "name": "frontierhunts:wildlife/voice/bison_bellow_2",
+    "attenuation_distance": 48
+   },
+   {
+    "name": "frontierhunts:wildlife/voice/bison_bellow_3",
+    "attenuation_distance": 48
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.bison_bellow"
+ },
+ "cougar_growl": {
+  "sounds": [
+   {
+    "name": "frontierhunts:wildlife/voice/cougar_growl_0",
+    "attenuation_distance": 24
+   },
+   {
+    "name": "frontierhunts:wildlife/voice/cougar_growl_1",
+    "attenuation_distance": 24
+   },
+   {
+    "name": "frontierhunts:wildlife/voice/cougar_growl_2",
+    "attenuation_distance": 24
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.cougar_growl"
+ },
+ "pronghorn_snort": {
+  "sounds": [
+   {
+    "name": "frontierhunts:wildlife/voice/pronghorn_snort_0",
+    "attenuation_distance": 24
+   },
+   {
+    "name": "frontierhunts:wildlife/voice/pronghorn_snort_1",
+    "attenuation_distance": 24
+   },
+   {
+    "name": "frontierhunts:wildlife/voice/pronghorn_snort_2",
+    "attenuation_distance": 24
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.pronghorn_snort"
+ },
+ "duck_quack": {
+  "sounds": [
+   {
+    "name": "frontierhunts:wildlife/voice/duck_quack_0",
+    "attenuation_distance": 24
+   },
+   {
+    "name": "frontierhunts:wildlife/voice/duck_quack_1",
+    "attenuation_distance": 24
+   },
+   {
+    "name": "frontierhunts:wildlife/voice/duck_quack_2",
+    "attenuation_distance": 24
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.duck_quack"
+ },
+ "grouse_drum": {
+  "sounds": [
+   {
+    "name": "frontierhunts:wildlife/voice/grouse_drum_0",
+    "attenuation_distance": 40
+   },
+   {
+    "name": "frontierhunts:wildlife/voice/grouse_drum_1",
+    "attenuation_distance": 40
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.grouse_drum"
+ }
+}

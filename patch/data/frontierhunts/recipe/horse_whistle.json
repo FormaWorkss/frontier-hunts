@@ -1,0 +1,20 @@
+{
+ "type": "frontierhunts:bench_shaped",
+ "category": "equipment",
+ "pattern": [
+  " G",
+  "N "
+ ],
+ "key": {
+  "G": {
+   "item": "minecraft:gold_nugget"
+  },
+  "N": {
+   "item": "minecraft:iron_nugget"
+  }
+ },
+ "result": {
+  "id": "frontierhunts:horse_whistle",
+  "count": 1
+ }
+}

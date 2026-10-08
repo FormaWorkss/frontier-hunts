@@ -1,0 +1,13 @@
+{
+  "regions.frontierhunts.season.early": "Early %s",
+  "regions.frontierhunts.season.mid": "%s",
+  "regions.frontierhunts.season.late": "Late %s",
+  "regions.frontierhunts.season.spring": "Spring",
+  "regions.frontierhunts.season.summer": "Summer",
+  "regions.frontierhunts.season.fall": "Fall",
+  "regions.frontierhunts.season.winter": "Winter",
+  "regions.frontierhunts.dim.overworld": "The Frontier",
+  "regions.frontierhunts.dim.nether": "The Nether",
+  "regions.frontierhunts.dim.end": "The End",
+  "regions.frontierhunts.cmd.reset": "Arrival cards: repeat memory cleared."
+}

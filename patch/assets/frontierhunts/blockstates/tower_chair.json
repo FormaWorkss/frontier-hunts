@@ -1,0 +1,124 @@
+{
+ "variants": {
+  "facing=north,occupied=false,raised=false,sunk=false": {
+   "model": "frontierhunts:block/seat/tower_chair"
+  },
+  "facing=north,occupied=true,raised=false,sunk=false": {
+   "model": "frontierhunts:block/seat/tower_chair_base"
+  },
+  "facing=east,occupied=false,raised=false,sunk=false": {
+   "model": "frontierhunts:block/seat/tower_chair",
+   "y": 90
+  },
+  "facing=east,occupied=true,raised=false,sunk=false": {
+   "model": "frontierhunts:block/seat/tower_chair_base",
+   "y": 90
+  },
+  "facing=south,occupied=false,raised=false,sunk=false": {
+   "model": "frontierhunts:block/seat/tower_chair",
+   "y": 180
+  },
+  "facing=south,occupied=true,raised=false,sunk=false": {
+   "model": "frontierhunts:block/seat/tower_chair_base",
+   "y": 180
+  },
+  "facing=west,occupied=false,raised=false,sunk=false": {
+   "model": "frontierhunts:block/seat/tower_chair",
+   "y": 270
+  },
+  "facing=west,occupied=true,raised=false,sunk=false": {
+   "model": "frontierhunts:block/seat/tower_chair_base",
+   "y": 270
+  },
+  "facing=north,occupied=false,raised=false,sunk=true": {
+   "model": "frontierhunts:block/seat/tower_chair_sunk"
+  },
+  "facing=north,occupied=true,raised=false,sunk=true": {
+   "model": "frontierhunts:block/seat/tower_chair_base_sunk"
+  },
+  "facing=east,occupied=false,raised=false,sunk=true": {
+   "model": "frontierhunts:block/seat/tower_chair_sunk",
+   "y": 90
+  },
+  "facing=east,occupied=true,raised=false,sunk=true": {
+   "model": "frontierhunts:block/seat/tower_chair_base_sunk",
+   "y": 90
+  },
+  "facing=south,occupied=false,raised=false,sunk=true": {
+   "model": "frontierhunts:block/seat/tower_chair_sunk",
+   "y": 180
+  },
+  "facing=south,occupied=true,raised=false,sunk=true": {
+   "model": "frontierhunts:block/seat/tower_chair_base_sunk",
+   "y": 180
+  },
+  "facing=west,occupied=false,raised=false,sunk=true": {
+   "model": "frontierhunts:block/seat/tower_chair_sunk",
+   "y": 270
+  },
+  "facing=west,occupied=true,raised=false,sunk=true": {
+   "model": "frontierhunts:block/seat/tower_chair_base_sunk",
+   "y": 270
+  },
+  "facing=north,occupied=false,raised=true,sunk=false": {
+   "model": "frontierhunts:block/seat/tower_chair_raised"
+  },
+  "facing=north,occupied=true,raised=true,sunk=false": {
+   "model": "frontierhunts:block/seat/tower_chair_base_raised"
+  },
+  "facing=east,occupied=false,raised=true,sunk=false": {
+   "model": "frontierhunts:block/seat/tower_chair_raised",
+   "y": 90
+  },
+  "facing=east,occupied=true,raised=true,sunk=false": {
+   "model": "frontierhunts:block/seat/tower_chair_base_raised",
+   "y": 90
+  },
+  "facing=south,occupied=false,raised=true,sunk=false": {
+   "model": "frontierhunts:block/seat/tower_chair_raised",
+   "y": 180
+  },
+  "facing=south,occupied=true,raised=true,sunk=false": {
+   "model": "frontierhunts:block/seat/tower_chair_base_raised",
+   "y": 180
+  },
+  "facing=west,occupied=false,raised=true,sunk=false": {
+   "model": "frontierhunts:block/seat/tower_chair_raised",
+   "y": 270
+  },
+  "facing=west,occupied=true,raised=true,sunk=false": {
+   "model": "frontierhunts:block/seat/tower_chair_base_raised",
+   "y": 270
+  },
+  "facing=north,occupied=false,raised=true,sunk=true": {
+   "model": "frontierhunts:block/seat/tower_chair_raised_sunk"
+  },
+  "facing=north,occupied=true,raised=true,sunk=true": {
+   "model": "frontierhunts:block/seat/tower_chair_base_raised_sunk"
+  },
+  "facing=east,occupied=false,raised=true,sunk=true": {
+   "model": "frontierhunts:block/seat/tower_chair_raised_sunk",
+   "y": 90
+  },
+  "facing=east,occupied=true,raised=true,sunk=true": {
+   "model": "frontierhunts:block/seat/tower_chair_base_raised_sunk",
+   "y": 90
+  },
+  "facing=south,occupied=false,raised=true,sunk=true": {
+   "model": "frontierhunts:block/seat/tower_chair_raised_sunk",
+   "y": 180
+  },
+  "facing=south,occupied=true,raised=true,sunk=true": {
+   "model": "frontierhunts:block/seat/tower_chair_base_raised_sunk",
+   "y": 180
+  },
+  "facing=west,occupied=false,raised=true,sunk=true": {
+   "model": "frontierhunts:block/seat/tower_chair_raised_sunk",
+   "y": 270
+  },
+  "facing=west,occupied=true,raised=true,sunk=true": {
+   "model": "frontierhunts:block/seat/tower_chair_base_raised_sunk",
+   "y": 270
+  }
+ }
+}

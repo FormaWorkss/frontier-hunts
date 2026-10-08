@@ -1,0 +1,6 @@
+# [phone] the Camera Base Station is retired (the Field Phone's Trail Cams app replaces it): no recipe any more
+data/frontierhunts/recipe/camera_base_station.json
+data/frontierhunts/advancement/recipes/unlock/camera_base_station.json
+# [1.4.0] the Field Camera is retired (the Field Phone's Camera app replaces it): no recipe any more
+data/frontierhunts/recipe/field_camera.json
+data/frontierhunts/advancement/recipes/unlock/field_camera.json

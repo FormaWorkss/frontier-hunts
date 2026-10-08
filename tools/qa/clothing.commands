@@ -1,0 +1,9 @@
+# [clothing] Carbon base layer, scent, the Scent & packs bench tab and warmth on a dedicated server (fake hunter FHQA):
+#   bash tools/qa/server_smoke.sh <mod jar> tools/qa/clothing.commands /tmp/fh-clothing
+# every verdict prints "[FHQA] clothing PASS ..." / "[FHQA] clothing FAIL ..."
+gamerule doDaylightCycle false
+fhqa clothing wear
+fhqa clothing scent
+fhqa clothing persist
+fhqa clothing bench
+fhqa clothing warmth

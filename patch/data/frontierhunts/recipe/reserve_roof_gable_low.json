@@ -1,0 +1,22 @@
+{
+  "type": "frontierhunts:bench_shaped",
+  "group": "frontierhunts:reserve_building",
+  "category": "building",
+  "pattern": [
+    "SSS",
+    "P P",
+    " P "
+  ],
+  "key": {
+    "S": {
+      "item": "frontierhunts:roof_shingles"
+    },
+    "P": {
+      "item": "frontierhunts:pine_planks"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:roof_gable_low",
+    "count": 6
+  }
+}

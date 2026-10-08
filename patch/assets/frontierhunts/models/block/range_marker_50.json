@@ -1,0 +1,6 @@
+{
+ "parent": "frontierhunts:block/range_marker_base",
+ "textures": {
+  "num": "frontierhunts:block/range/marker_50"
+ }
+}

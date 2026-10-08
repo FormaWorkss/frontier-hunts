@@ -1,0 +1,11 @@
+# [phone] Console script for tools/qa/server_smoke.sh: the Field Phone's server rules (contracts, trail cams, online
+# games, texts, the retired Camera Base Station, the bench recipe). Every verdict line reads "[FHQA] phone PASS ..." or
+# "[FHQA] phone FAIL ...". The bench suite runs too: the Hunting gear tab changed.
+fhqa phone recipe
+fhqa phone station
+fhqa phone contracts
+fhqa phone cams
+fhqa phone games
+fhqa phone messages
+fhqa bench recipes
+fhqa bench craft

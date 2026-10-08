@@ -1,0 +1,19 @@
+{
+ "variants": {
+  "facing=north": {
+   "model": "frontierhunts:block/steel_deer_target"
+  },
+  "facing=east": {
+   "model": "frontierhunts:block/steel_deer_target",
+   "y": 90
+  },
+  "facing=south": {
+   "model": "frontierhunts:block/steel_deer_target",
+   "y": 180
+  },
+  "facing=west": {
+   "model": "frontierhunts:block/steel_deer_target",
+   "y": 270
+  }
+ }
+}

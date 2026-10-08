@@ -1,0 +1,18 @@
+{
+  "type": "frontierhunts:clothing_table",
+  "group": "sewing",
+  "category": "equipment",
+  "pattern": [
+    "M"
+  ],
+  "key": {
+    "M": {
+      "item": "frontierhunts:fur_mittens"
+    }
+  },
+  "result": {
+    "id": "frontierhunts:fur_mittens",
+    "count": 1
+  },
+  "sew": "mittens"
+}

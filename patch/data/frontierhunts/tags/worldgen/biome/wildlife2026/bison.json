@@ -1,0 +1,23 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:plains",
+    "minecraft:sunflower_plains",
+    {
+      "id": "frontierhunts:sagebrush_bench",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:valley_meadow",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:aspen_parkland",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:marsh_meadow",
+      "required": false
+    }
+  ]
+}

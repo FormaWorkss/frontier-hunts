@@ -1,0 +1,24 @@
+{
+  "replace": false,
+  "values": [
+    "minecraft:plains",
+    "minecraft:savanna",
+    "minecraft:savanna_plateau",
+    {
+      "id": "frontierhunts:sagebrush_bench",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:valley_meadow",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:heather_moor",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:wildflower_glade",
+      "required": false
+    }
+  ]
+}

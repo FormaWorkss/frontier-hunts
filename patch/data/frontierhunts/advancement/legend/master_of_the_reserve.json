@@ -1,0 +1,19 @@
+{
+ "parent": "frontierhunts:legend/ghost_bull",
+ "display": {
+  "icon": {
+   "id": "minecraft:nether_star"
+  },
+  "title": "Master of the Reserve",
+  "description": "Take all three Legends of the Reserve",
+  "frame": "challenge",
+  "show_toast": true,
+  "announce_to_chat": true,
+  "hidden": false
+ },
+ "criteria": {
+  "taken": {
+   "trigger": "minecraft:impossible"
+  }
+ }
+}

@@ -1,0 +1,271 @@
+{
+ "sources": [
+  {
+   "type": "minecraft:single",
+   "resource": "frontierhunts:entity/material",
+   "sprite": "frontierhunts:entity/material"
+  },
+  {
+   "type": "minecraft:single",
+   "resource": "frontierhunts:material/field_materials",
+   "sprite": "frontierhunts:material/field_materials"
+  },
+  {
+   "type": "minecraft:single",
+   "resource": "frontierhunts:material/reserve_materials",
+   "sprite": "frontierhunts:material/reserve_materials"
+  },
+  {
+   "type": "minecraft:unstitch",
+   "resource": "frontierhunts:equipment/packs/material",
+   "divisor_x": 1024,
+   "divisor_y": 1024,
+   "regions": [
+    {
+     "sprite": "frontierhunts:equipment/packs/material",
+     "x": 96,
+     "y": 96,
+     "width": 832,
+     "height": 832
+    }
+   ]
+  },
+  {
+   "type": "minecraft:unstitch",
+   "resource": "frontierhunts:item/field_equipment",
+   "divisor_x": 1024,
+   "divisor_y": 1024,
+   "regions": [
+    {
+     "sprite": "frontierhunts:item/field_equipment",
+     "x": 96,
+     "y": 96,
+     "width": 832,
+     "height": 832
+    }
+   ]
+  },
+  {
+   "type": "minecraft:unstitch",
+   "resource": "frontierhunts:equipment/shelters/camouflage_v1",
+   "divisor_x": 1024,
+   "divisor_y": 1024,
+   "regions": [
+    {
+     "sprite": "frontierhunts:equipment/shelters/camouflage_v1",
+     "x": 96,
+     "y": 96,
+     "width": 832,
+     "height": 832
+    }
+   ]
+  },
+  {
+   "type": "minecraft:single",
+   "resource": "frontierhunts:equipment/workshop/wood_v1",
+   "sprite": "frontierhunts:equipment/workshop/wood_v1"
+  },
+  {
+   "type": "minecraft:unstitch",
+   "resource": "frontierhunts:material/field_materials",
+   "divisor_x": 1024,
+   "divisor_y": 1024,
+   "regions": [
+    {
+     "sprite": "frontierhunts:particles/steel",
+     "x": 792,
+     "y": 24,
+     "width": 208,
+     "height": 208
+    },
+    {
+     "sprite": "frontierhunts:particles/wood",
+     "x": 280,
+     "y": 24,
+     "width": 208,
+     "height": 208
+    },
+    {
+     "sprite": "frontierhunts:particles/aged_wood",
+     "x": 24,
+     "y": 280,
+     "width": 208,
+     "height": 208
+    },
+    {
+     "sprite": "frontierhunts:particles/canvas",
+     "x": 536,
+     "y": 280,
+     "width": 208,
+     "height": 208
+    },
+    {
+     "sprite": "frontierhunts:particles/leather",
+     "x": 792,
+     "y": 280,
+     "width": 208,
+     "height": 208
+    },
+    {
+     "sprite": "frontierhunts:particles/rubber",
+     "x": 536,
+     "y": 24,
+     "width": 208,
+     "height": 208
+    },
+    {
+     "sprite": "frontierhunts:particles/scales",
+     "x": 792,
+     "y": 792,
+     "width": 208,
+     "height": 208
+    }
+   ]
+  },
+  {
+   "type": "minecraft:unstitch",
+   "resource": "frontierhunts:material/reserve_materials",
+   "divisor_x": 1024,
+   "divisor_y": 1024,
+   "regions": [
+    {
+     "sprite": "frontierhunts:particles/stone",
+     "x": 24,
+     "y": 24,
+     "width": 208,
+     "height": 208
+    },
+    {
+     "sprite": "frontierhunts:particles/roof",
+     "x": 280,
+     "y": 24,
+     "width": 208,
+     "height": 208
+    },
+    {
+     "sprite": "frontierhunts:particles/bark",
+     "x": 536,
+     "y": 24,
+     "width": 208,
+     "height": 208
+    },
+    {
+     "sprite": "frontierhunts:particles/needles",
+     "x": 792,
+     "y": 24,
+     "width": 208,
+     "height": 208
+    },
+    {
+     "sprite": "frontierhunts:particles/rawhide",
+     "x": 536,
+     "y": 280,
+     "width": 208,
+     "height": 208
+    },
+    {
+     "sprite": "frontierhunts:particles/linen",
+     "x": 792,
+     "y": 280,
+     "width": 208,
+     "height": 208
+    },
+    {
+     "sprite": "frontierhunts:particles/shelter_cloth",
+     "x": 24,
+     "y": 536,
+     "width": 208,
+     "height": 208
+    },
+    {
+     "sprite": "frontierhunts:particles/pine",
+     "x": 280,
+     "y": 536,
+     "width": 208,
+     "height": 208
+    },
+    {
+     "sprite": "frontierhunts:particles/glass",
+     "x": 536,
+     "y": 536,
+     "width": 208,
+     "height": 208
+    },
+    {
+     "sprite": "frontierhunts:particles/soil",
+     "x": 24,
+     "y": 792,
+     "width": 208,
+     "height": 208
+    },
+    {
+     "sprite": "frontierhunts:particles/granite",
+     "x": 280,
+     "y": 792,
+     "width": 208,
+     "height": 208
+    },
+    {
+     "sprite": "frontierhunts:particles/moss",
+     "x": 536,
+     "y": 792,
+     "width": 208,
+     "height": 208
+    }
+   ]
+  },
+  {
+   "type": "minecraft:unstitch",
+   "resource": "frontierhunts:equipment/ghillie/grassland",
+   "divisor_x": 1024,
+   "divisor_y": 1024,
+   "regions": [
+    {
+     "sprite": "frontierhunts:equipment/ghillie/grassland",
+     "x": 96,
+     "y": 96,
+     "width": 832,
+     "height": 832
+    }
+   ]
+  },
+  {
+   "type": "minecraft:unstitch",
+   "resource": "frontierhunts:equipment/ghillie/wetland",
+   "divisor_x": 1024,
+   "divisor_y": 1024,
+   "regions": [
+    {
+     "sprite": "frontierhunts:equipment/ghillie/wetland",
+     "x": 96,
+     "y": 96,
+     "width": 832,
+     "height": 832
+    }
+   ]
+  },
+  {
+   "type": "minecraft:unstitch",
+   "resource": "frontierhunts:equipment/ghillie/snow",
+   "divisor_x": 1024,
+   "divisor_y": 1024,
+   "regions": [
+    {
+     "sprite": "frontierhunts:equipment/ghillie/snow",
+     "x": 96,
+     "y": 96,
+     "width": 832,
+     "height": 832
+    }
+   ]
+  },
+  {
+   "type": "minecraft:single",
+   "resource": "frontierhunts:equipment/shelters/camp_fabrics_v1",
+   "sprite": "frontierhunts:equipment/shelters/camp_fabrics_v1"
+  },
+  {
+   "type": "frontierhunts:seasonal_leaves"
+  }
+ ]
+}

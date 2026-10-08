@@ -1,0 +1,7 @@
+{
+ "hint.frontierhunts.sled.ride": "Use: ride · Sneak + Use: pick it up",
+ "item.frontierhunts.sled.desc1": "Place it on snow, sit on it and point it downhill: it picks up speed the whole way down and flies off the crests.",
+ "item.frontierhunts.sled.desc2": "Left/right to carve, back to brake, forward to push off. Sneak + Use to pick it up.",
+ "subtitles.frontierhunts.sled_glide": "Toboggan runners hiss",
+ "subtitles.frontierhunts.sled_carve": "Snow sprays off the runners"
+}

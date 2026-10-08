@@ -1,0 +1,10 @@
+{
+ "item.frontierhunts.field_phone": "Field Phone",
+ "item.frontierhunts.field_phone.tip": "A rugged outdoor phone: trail cams, maps and directions, weather, contracts, your licence, texts and games. Use it to take it out.",
+ "item.frontierhunts.field_phone.battery": "Battery %s%%",
+ "key.frontierhunts.phone": "Field Phone",
+ "phone.frontierhunts.none": "You need a Field Phone: Frontier Workbench, Hunting gear tab.",
+ "phone.frontierhunts.retired": "Retired: the Field Phone replaced it",
+ "phone.frontierhunts.retired.how": "The phone's Trail Cams app does everything this did. A placed one still opens your cameras.",
+ "guide.frontierhunts.lesson.glass.p3": "A Trail Camera keeps watch while you are away. Fix it to a tree about waist high, angled along a trail or at a scrape rather than straight across it, and not facing the rising or setting sun. Check its photos in your Field Phone's Trail Cams app to learn when deer pass and which way they go."
+}

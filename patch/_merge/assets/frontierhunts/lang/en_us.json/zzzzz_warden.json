@@ -1,0 +1,18 @@
+{
+  "licence.frontierhunts.violation.untagged": "leaving a %s you took without tagging it",
+  "licence.frontierhunts.msg.ladder1": "Written warning and a %2$s-token fine for %1$s. Tag every animal before you skin it or walk away. Next time your licence is suspended.",
+  "licence.frontierhunts.msg.ladder2": "Second offence: %2$s-token fine for %1$s. Your licence is SUSPENDED for the rest of this licence season. One more and you are charged with poaching.",
+  "licence.frontierhunts.msg.ladder3": "CHARGED WITH POACHING for %1$s: %2$s-token fine, licence REVOKED for a full reserve year, and the charge goes on your record. Every hunter on the reserve has been told.",
+  "licence.frontierhunts.msg.charged": "%s has been charged with poaching (%s). Their hunting licence is revoked for a reserve year.",
+  "licence.frontierhunts.why.revoked": "Your licence is revoked after a poaching charge. No licences or tags until the revocation ends.",
+  "licence.frontierhunts.tag.reminder": "Tag it: hold your %s and use it on the animal before you skin it or walk away.",
+  "licence.frontierhunts.tag.first": "Tag it first: hold your %s and use it on the animal, then skin it.",
+  "licence.frontierhunts.tag.wrong": "That is not the right tag. This animal needs a %s (%s).",
+  "licence.frontierhunts.tag.already": "Already tagged.",
+  "licence.frontierhunts.tag.reported": "Too late to tag: the warden already has this one on file.",
+  "item.frontierhunts.permit.tag_use": "Use it on the animal right after the shot: before you skin it, and before you walk away. An untagged kill goes on your warden record.",
+  "licence.frontierhunts.page.warden.rules.ladder": "Warden record: every violation (no licence or tag, out of season, over the limit, an animal left untagged) is a point. 1: warning, fine, evidence seized. 2: licence suspended for the season. 3: charged with poaching - licence revoked for a reserve year, your name posted to all hunters. One point wears off per clean licence season.",
+  "licence.frontierhunts.page.warden.record": "Warden record: %s points · poaching charges: %s%s",
+  "licence.frontierhunts.page.warden.rules.relaxed": "Relaxed: fines are halved and you keep the animal, but a violation never counts for a species hunt.",
+  "licence.frontierhunts.page.warden.rules.strict": "Strict: full fines, and the trophy and half the meat of an illegal animal are seized as evidence."
+}

@@ -1,0 +1,64 @@
+{
+  "variants": {
+    "facing=north,grate=false,lit=false": {
+      "model": "frontierhunts:block/dutch_oven"
+    },
+    "facing=north,grate=false,lit=true": {
+      "model": "frontierhunts:block/dutch_oven_lit"
+    },
+    "facing=north,grate=true,lit=false": {
+      "model": "frontierhunts:block/dutch_oven_grate"
+    },
+    "facing=north,grate=true,lit=true": {
+      "model": "frontierhunts:block/dutch_oven_grate"
+    },
+    "facing=east,grate=false,lit=false": {
+      "model": "frontierhunts:block/dutch_oven",
+      "y": 90
+    },
+    "facing=east,grate=false,lit=true": {
+      "model": "frontierhunts:block/dutch_oven_lit",
+      "y": 90
+    },
+    "facing=east,grate=true,lit=false": {
+      "model": "frontierhunts:block/dutch_oven_grate",
+      "y": 90
+    },
+    "facing=east,grate=true,lit=true": {
+      "model": "frontierhunts:block/dutch_oven_grate",
+      "y": 90
+    },
+    "facing=south,grate=false,lit=false": {
+      "model": "frontierhunts:block/dutch_oven",
+      "y": 180
+    },
+    "facing=south,grate=false,lit=true": {
+      "model": "frontierhunts:block/dutch_oven_lit",
+      "y": 180
+    },
+    "facing=south,grate=true,lit=false": {
+      "model": "frontierhunts:block/dutch_oven_grate",
+      "y": 180
+    },
+    "facing=south,grate=true,lit=true": {
+      "model": "frontierhunts:block/dutch_oven_grate",
+      "y": 180
+    },
+    "facing=west,grate=false,lit=false": {
+      "model": "frontierhunts:block/dutch_oven",
+      "y": 270
+    },
+    "facing=west,grate=false,lit=true": {
+      "model": "frontierhunts:block/dutch_oven_lit",
+      "y": 270
+    },
+    "facing=west,grate=true,lit=false": {
+      "model": "frontierhunts:block/dutch_oven_grate",
+      "y": 270
+    },
+    "facing=west,grate=true,lit=true": {
+      "model": "frontierhunts:block/dutch_oven_grate",
+      "y": 270
+    }
+  }
+}

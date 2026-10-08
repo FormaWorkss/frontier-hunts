@@ -1,0 +1,24 @@
+{
+ "type": "frontierhunts:bench_shaped",
+ "category": "equipment",
+ "pattern": [
+  "LCL",
+  "LTL",
+  "L L"
+ ],
+ "key": {
+  "L": {
+   "item": "minecraft:leather"
+  },
+  "C": {
+   "item": "minecraft:charcoal"
+  },
+  "T": {
+   "item": "frontierhunts:tanned_hide"
+  }
+ },
+ "result": {
+  "id": "frontierhunts:scent_suit",
+  "count": 1
+ }
+}

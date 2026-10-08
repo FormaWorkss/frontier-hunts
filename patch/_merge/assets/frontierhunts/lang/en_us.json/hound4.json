@@ -1,0 +1,17 @@
+{
+  "hound.frontierhunts.said.sit": "%s · sit",
+  "hound.frontierhunts.said.up": "%s · up, at heel",
+  "hound.frontierhunts.said.stop": "%s · stop - he stands still right there",
+  "hound.frontierhunts.said.dismissed": "%s heads home to the kennel · use the Hound Lead to bring him back",
+  "hound.frontierhunts.said.dismissed_far": "Your hound will head home to the kennel · use the Hound Lead to bring him back",
+  "hound.frontierhunts.said.already_home": "Your hound is already home · use the Hound Lead to bring him back",
+  "hound.frontierhunts.said.back": "%s is back from the kennel",
+  "hound.frontierhunts.said.died": "Your hound %s died · use the Hound Lead for a new hound",
+  "hound.frontierhunts.mode.stop": "Stopped",
+  "hound.frontierhunts.wheel.stop": "Stop",
+  "hound.frontierhunts.wheel.stop.hint": "Drop what he's doing and stand still right there",
+  "hound.frontierhunts.wheel.dismiss": "Dismiss",
+  "hound.frontierhunts.wheel.dismiss.confirm": "Sure?",
+  "hound.frontierhunts.wheel.dismiss.hint": "Send him home to the kennel (the Hound Lead brings him back)",
+  "hound.frontierhunts.wheel.dismiss.ask": "Send %s home? Click Dismiss again to confirm"
+}

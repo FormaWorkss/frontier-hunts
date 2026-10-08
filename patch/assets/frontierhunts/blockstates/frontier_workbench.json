@@ -1,0 +1,49 @@
+{
+  "variants": {
+    "bench_part=single,facing=north": {
+      "model": "frontierhunts:block/frontier_workbench_left"
+    },
+    "bench_part=left,facing=north": {
+      "model": "frontierhunts:block/frontier_workbench_left"
+    },
+    "bench_part=right,facing=north": {
+      "model": "frontierhunts:block/frontier_workbench_right"
+    },
+    "bench_part=single,facing=east": {
+      "model": "frontierhunts:block/frontier_workbench_left",
+      "y": 90
+    },
+    "bench_part=left,facing=east": {
+      "model": "frontierhunts:block/frontier_workbench_left",
+      "y": 90
+    },
+    "bench_part=right,facing=east": {
+      "model": "frontierhunts:block/frontier_workbench_right",
+      "y": 90
+    },
+    "bench_part=single,facing=south": {
+      "model": "frontierhunts:block/frontier_workbench_left",
+      "y": 180
+    },
+    "bench_part=left,facing=south": {
+      "model": "frontierhunts:block/frontier_workbench_left",
+      "y": 180
+    },
+    "bench_part=right,facing=south": {
+      "model": "frontierhunts:block/frontier_workbench_right",
+      "y": 180
+    },
+    "bench_part=single,facing=west": {
+      "model": "frontierhunts:block/frontier_workbench_left",
+      "y": 270
+    },
+    "bench_part=left,facing=west": {
+      "model": "frontierhunts:block/frontier_workbench_left",
+      "y": 270
+    },
+    "bench_part=right,facing=west": {
+      "model": "frontierhunts:block/frontier_workbench_right",
+      "y": 270
+    }
+  }
+}

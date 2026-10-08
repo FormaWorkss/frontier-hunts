@@ -1,0 +1,50 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "frontierhunts:item/filled_tag"
+  },
+  "overrides": [
+    {
+      "predicate": {
+        "custom_model_data": 1
+      },
+      "model": "frontierhunts:item/filled_tag_deer"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 2
+      },
+      "model": "frontierhunts:item/filled_tag_elk"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 3
+      },
+      "model": "frontierhunts:item/filled_tag_moose"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 4
+      },
+      "model": "frontierhunts:item/filled_tag_pronghorn"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 5
+      },
+      "model": "frontierhunts:item/filled_tag_bison"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 6
+      },
+      "model": "frontierhunts:item/filled_tag_bear"
+    },
+    {
+      "predicate": {
+        "custom_model_data": 7
+      },
+      "model": "frontierhunts:item/filled_tag_cat"
+    }
+  ]
+}

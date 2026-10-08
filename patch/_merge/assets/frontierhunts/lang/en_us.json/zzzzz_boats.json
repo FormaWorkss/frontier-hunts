@@ -1,0 +1,14 @@
+{
+  "item.frontierhunts.rowboat": "Wooden Rowboat",
+  "item.frontierhunts.jon_boat": "Jon Boat",
+  "entity.frontierhunts.rowboat": "Wooden Rowboat",
+  "entity.frontierhunts.jon_boat": "Jon Boat",
+  "tooltip.frontierhunts.rowboat.1": "An old lapstrake rowboat. Seats two.",
+  "tooltip.frontierhunts.rowboat.2": "W rows both oars, A / D pulls one and backs the other, S backs water.",
+  "tooltip.frontierhunts.jon_boat.1": "Aluminium jon boat with a tiller outboard. Seats two.",
+  "tooltip.frontierhunts.jon_boat.2": "Runs on gas: use a Jerry Can on the boat to fill the tank. Sneak + use opens the dry box.",
+  "tooltip.frontierhunts.jon_boat.fuel": "Tank: %s / %s L",
+  "message.frontierhunts.boat_no_gas": "The tank is empty. You can paddle slowly, or use a Jerry Can on the boat to fill it.",
+  "message.frontierhunts.boat_out_of_gas": "The motor sputters and dies. Out of gas.",
+  "message.frontierhunts.boat_tank_full": "The tank is full (%s L)"
+}

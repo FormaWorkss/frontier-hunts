@@ -1,0 +1,43 @@
+{
+  "replace": false,
+  "values": [
+    "#frontierstructures:has_settlement",
+    "#minecraft:is_taiga",
+    "frontierhunts:alpine_meadow",
+    "frontierhunts:aspen_parkland",
+    "frontierhunts:aspen_woodland",
+    "frontierhunts:birch_heath",
+    "frontierhunts:cedar_valley",
+    "frontierhunts:cottonwood_bottom",
+    "frontierhunts:fireweed_burn",
+    "frontierhunts:golden_aspen_grove",
+    "frontierhunts:heather_moor",
+    "frontierhunts:larch_highlands",
+    "frontierhunts:mosswood",
+    "frontierhunts:pine_highlands",
+    "frontierhunts:rocky_foothills",
+    "frontierhunts:rowan_slope",
+    "frontierhunts:sagebrush_bench",
+    "frontierhunts:snowy_pine_forest",
+    "frontierhunts:valley_meadow",
+    "frontierhunts:wildflower_glade",
+    "minecraft:grove",
+    "minecraft:meadow",
+    "minecraft:plains",
+    "minecraft:snowy_plains",
+    "minecraft:sunflower_plains",
+    "minecraft:windswept_forest",
+    {
+      "id": "#c:is_forest",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:fern_wetland",
+      "required": false
+    },
+    {
+      "id": "frontierhunts:marsh_meadow",
+      "required": false
+    }
+  ]
+}

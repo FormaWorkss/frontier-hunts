@@ -1,0 +1,45 @@
+{
+  "replace": false,
+  "values": [
+    "#minecraft:is_forest",
+    "#minecraft:is_taiga",
+    "minecraft:plains",
+    "minecraft:meadow",
+    {
+      "id": "#frontierhunts:has_structure/ranger_camp",
+      "required": false
+    },
+    "frontierhunts:alpine_meadow",
+    "frontierhunts:snowy_pine_forest",
+    "frontierhunts:rocky_foothills",
+    "frontierhunts:riverwood",
+    "frontierhunts:mosswood",
+    "frontierhunts:wildflower_glade",
+    "frontierhunts:woodland_lakeshore",
+    "frontierhunts:larch_highlands",
+    "frontierhunts:heather_moor",
+    "frontierhunts:sagebrush_bench",
+    "frontierhunts:aspen_parkland",
+    "frontierhunts:rowan_slope",
+    "frontierhunts:cottonwood_bottom",
+    "frontierhunts:birch_heath",
+    "frontierhunts:alder_carr",
+    "frontierhunts:valley_meadow",
+    "frontierhunts:cedar_valley",
+    "frontierhunts:pine_highlands",
+    "frontierhunts:birch_grove",
+    "frontierhunts:maple_woodland",
+    "frontierhunts:aspen_woodland",
+    "frontierhunts:golden_aspen_grove",
+    "frontierhunts:autumn_maple_hollow",
+    "frontierhunts:fireweed_burn",
+    "minecraft:sunflower_plains",
+    "minecraft:snowy_plains",
+    "minecraft:grove",
+    "minecraft:windswept_forest",
+    {
+      "id": "#c:is_forest",
+      "required": false
+    }
+  ]
+}

@@ -1,0 +1,34 @@
+{
+ "variants": {
+  "facing=north,down=false": {
+   "model": "frontierhunts:block/steel_popper"
+  },
+  "facing=east,down=false": {
+   "model": "frontierhunts:block/steel_popper",
+   "y": 90
+  },
+  "facing=south,down=false": {
+   "model": "frontierhunts:block/steel_popper",
+   "y": 180
+  },
+  "facing=west,down=false": {
+   "model": "frontierhunts:block/steel_popper",
+   "y": 270
+  },
+  "facing=north,down=true": {
+   "model": "frontierhunts:block/steel_popper_down"
+  },
+  "facing=east,down=true": {
+   "model": "frontierhunts:block/steel_popper_down",
+   "y": 90
+  },
+  "facing=south,down=true": {
+   "model": "frontierhunts:block/steel_popper_down",
+   "y": 180
+  },
+  "facing=west,down=true": {
+   "model": "frontierhunts:block/steel_popper_down",
+   "y": 270
+  }
+ }
+}

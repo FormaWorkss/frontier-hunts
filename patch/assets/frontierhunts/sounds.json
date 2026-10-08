@@ -1,0 +1,1795 @@
+{
+ "antler_rattle": {
+  "subtitle": "subtitles.frontierhunts.antler_rattle",
+  "sounds": [
+   {
+    "name": "frontierhunts:equipment/antler_rattle_0",
+    "attenuation_distance": 96
+   },
+   {
+    "name": "frontierhunts:equipment/antler_rattle_1",
+    "attenuation_distance": 96
+   },
+   {
+    "name": "frontierhunts:equipment/antler_rattle_2",
+    "attenuation_distance": 96
+   },
+   {
+    "name": "frontierhunts:equipment/antler_rattle_3",
+    "attenuation_distance": 96
+   }
+  ]
+ },
+ "arrow_impact": {
+  "sounds": [
+   {
+    "attenuation_distance": 20,
+    "name": "frontierhunts:arrow_impact"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.arrow_impact"
+ },
+ "bait_launcher_close": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/bait_launcher_close"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.bait_launcher_close"
+ },
+ "bait_launcher_dry": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/bait_launcher_dry"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.bait_launcher_dry"
+ },
+ "bait_launcher_load": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/bait_launcher_load"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.bait_launcher_load"
+ },
+ "bait_launcher_open": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/bait_launcher_open"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.bait_launcher_open"
+ },
+ "bait_launcher_shot": {
+  "sounds": [
+   {
+    "attenuation_distance": 32,
+    "name": "frontierhunts:equipment/bait_launcher_shot"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.bait_launcher_shot"
+ },
+ "bleat_call": {
+  "sounds": [
+   {
+    "attenuation_distance": 64,
+    "name": "frontierhunts:equipment/bleat_call"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.bleat_call"
+ },
+ "bow_release": {
+  "sounds": [
+   {
+    "attenuation_distance": 20,
+    "name": "frontierhunts:bow_release"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.bow_release"
+ },
+ "branch_crackle": {
+  "sounds": [
+   {
+    "attenuation_distance": 12,
+    "name": "minecraft:block.bamboo.step",
+    "pitch": 0.8,
+    "type": "event",
+    "volume": 0.8
+   },
+   {
+    "attenuation_distance": 12,
+    "name": "minecraft:block.mangrove_roots.step",
+    "pitch": 0.9,
+    "type": "event",
+    "volume": 0.8
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.branch_crackle"
+ },
+ "branch_snap": {
+  "sounds": [
+   {
+    "attenuation_distance": 28,
+    "name": "minecraft:block.bamboo.break",
+    "pitch": 0.72,
+    "type": "event",
+    "volume": 1.0
+   },
+   {
+    "attenuation_distance": 28,
+    "name": "minecraft:block.bamboo.break",
+    "pitch": 0.84,
+    "type": "event",
+    "volume": 1.0
+   },
+   {
+    "attenuation_distance": 28,
+    "name": "minecraft:block.bamboo_wood.break",
+    "pitch": 0.7,
+    "type": "event",
+    "volume": 1.0
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.branch_snap"
+ },
+ "brush_rustle": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:environment/brush_rustle_0",
+    "stream": false
+   },
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:environment/brush_rustle_1",
+    "stream": false
+   },
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:environment/brush_rustle_2",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.brush_rustle"
+ },
+ "cascade": {
+  "sounds": [
+   {
+    "attenuation_distance": 72,
+    "name": "frontierhunts:environment/cascade",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.cascade"
+ },
+ "cascade_far": {
+  "sounds": [
+   {
+    "attenuation_distance": 220,
+    "name": "frontierhunts:environment/cascade_far",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.cascade"
+ },
+ "cascade_foot": {
+  "sounds": [
+   {
+    "attenuation_distance": 24,
+    "name": "frontierhunts:environment/cascade_foot",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.cascade"
+ },
+ "casing_brass": {
+  "sounds": [
+   {
+    "attenuation_distance": 10,
+    "name": "frontierhunts:equipment/v2/casing_brass_0",
+    "volume": 0.55
+   },
+   {
+    "attenuation_distance": 10,
+    "name": "frontierhunts:equipment/v2/casing_brass_1",
+    "volume": 0.55
+   },
+   {
+    "attenuation_distance": 10,
+    "name": "frontierhunts:equipment/v2/casing_brass_2",
+    "volume": 0.55
+   },
+   {
+    "attenuation_distance": 10,
+    "name": "frontierhunts:equipment/v2/casing_brass_3",
+    "volume": 0.55
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.casing"
+ },
+ "casing_hull": {
+  "sounds": [
+   {
+    "attenuation_distance": 10,
+    "name": "frontierhunts:equipment/v2/casing_hull_0",
+    "volume": 0.5
+   },
+   {
+    "attenuation_distance": 10,
+    "name": "frontierhunts:equipment/v2/casing_hull_1",
+    "volume": 0.5
+   },
+   {
+    "attenuation_distance": 10,
+    "name": "frontierhunts:equipment/v2/casing_hull_2",
+    "volume": 0.5
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.casing"
+ },
+ "deer_bleat": {
+  "sounds": [
+   {
+    "attenuation_distance": 32,
+    "name": "frontierhunts:wildlife/whitetail_bleat_a"
+   },
+   {
+    "attenuation_distance": 32,
+    "name": "frontierhunts:wildlife/whitetail_bleat_b"
+   },
+   {
+    "attenuation_distance": 32,
+    "name": "frontierhunts:equipment/deer_contact_a"
+   },
+   {
+    "attenuation_distance": 32,
+    "name": "frontierhunts:equipment/deer_contact_b"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.deer_bleat"
+ },
+ "deer_blow": {
+  "sounds": [
+   {
+    "attenuation_distance": 48,
+    "name": "frontierhunts:wildlife/whitetail_blow_0"
+   },
+   {
+    "attenuation_distance": 48,
+    "name": "frontierhunts:wildlife/whitetail_blow_1"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.deer_blow"
+ },
+ "deer_call": {
+  "subtitle": "subtitles.frontierhunts.deer_call",
+  "sounds": [
+   {
+    "name": "frontierhunts:equipment/deer_caller_single",
+    "attenuation_distance": 64
+   }
+  ]
+ },
+ "deer_grunt": {
+  "sounds": [
+   {
+    "attenuation_distance": 28,
+    "name": "frontierhunts:wildlife/whitetail_grunt_0"
+   },
+   {
+    "attenuation_distance": 28,
+    "name": "frontierhunts:wildlife/whitetail_grunt_1"
+   },
+   {
+    "attenuation_distance": 28,
+    "name": "frontierhunts:wildlife/whitetail_grunt_2"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.deer_grunt"
+ },
+ "deer_snort": {
+  "sounds": [
+   {
+    "attenuation_distance": 40,
+    "name": "frontierhunts:wildlife/whitetail_snort_0"
+   },
+   {
+    "attenuation_distance": 40,
+    "name": "frontierhunts:wildlife/whitetail_snort_1"
+   },
+   {
+    "attenuation_distance": 40,
+    "name": "frontierhunts:wildlife/whitetail_snort_2"
+   },
+   {
+    "attenuation_distance": 40,
+    "name": "frontierhunts:wildlife/whitetail_alarm"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.deer_snort"
+ },
+ "deer_stomp": {
+  "sounds": [
+   {
+    "attenuation_distance": 20,
+    "name": "minecraft:entity.goat.step",
+    "pitch": 0.72,
+    "type": "event"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.deer_stomp"
+ },
+ "deer_wheeze": {
+  "sounds": [
+   {
+    "attenuation_distance": 40,
+    "name": "frontierhunts:wildlife/whitetail_wheeze_0"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.deer_wheeze"
+ },
+ "double_barrel_close": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/double_barrel_close"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.double_barrel_close"
+ },
+ "double_barrel_dry": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/double_barrel_dry"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.double_barrel_dry"
+ },
+ "double_barrel_load": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/double_barrel_load"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.double_barrel_load"
+ },
+ "double_barrel_open": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/double_barrel_open"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.double_barrel_open"
+ },
+ "double_barrel_shot": {
+  "sounds": [
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/double_barrel_shot_0"
+   },
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/double_barrel_shot_1"
+   },
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/double_barrel_shot_2"
+   },
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/double_barrel_shot_3"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.double_barrel_shot"
+ },
+ "double_barrel_shot_far": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/v2/double_barrel_shot_far_0",
+    "volume": 0.45
+   },
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/v2/double_barrel_shot_far_1",
+    "volume": 0.45
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.distant_shot"
+ },
+ "double_barrel_shot_suppressed": {
+  "sounds": [
+   {
+    "attenuation_distance": 24,
+    "name": "frontierhunts:equipment/v2/double_barrel_shot_suppressed_0"
+   },
+   {
+    "attenuation_distance": 24,
+    "name": "frontierhunts:equipment/v2/double_barrel_shot_suppressed_1"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.suppressed_shot"
+ },
+ "elk_bark": {
+  "sounds": [
+   {
+    "attenuation_distance": 56,
+    "name": "frontierhunts:wildlife/elk_bark_0"
+   },
+   {
+    "attenuation_distance": 56,
+    "name": "frontierhunts:wildlife/elk_bark_1"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.elk_bark"
+ },
+ "elk_bugle": {
+  "sounds": [
+   {
+    "attenuation_distance": 72,
+    "name": "frontierhunts:wildlife/elk_bugle_0"
+   },
+   {
+    "attenuation_distance": 72,
+    "name": "frontierhunts:wildlife/elk_bugle_1"
+   },
+   {
+    "attenuation_distance": 72,
+    "name": "frontierhunts:wildlife/elk_bugle_2"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.elk_bugle"
+ },
+ "elk_mew": {
+  "sounds": [
+   {
+    "attenuation_distance": 40,
+    "name": "frontierhunts:wildlife/elk_mew_0"
+   },
+   {
+    "attenuation_distance": 40,
+    "name": "frontierhunts:wildlife/elk_mew_1"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.elk_mew"
+ },
+ "field_pistol_close": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/field_pistol_close"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.field_pistol_close"
+ },
+ "field_pistol_dry": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/field_pistol_dry"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.field_pistol_dry"
+ },
+ "field_pistol_load": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/field_pistol_load"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.field_pistol_load"
+ },
+ "field_pistol_open": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/field_pistol_open"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.field_pistol_open"
+ },
+ "field_pistol_shot": {
+  "sounds": [
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/field_pistol_shot_0"
+   },
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/field_pistol_shot_1"
+   },
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/field_pistol_shot_2"
+   },
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/field_pistol_shot_3"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.field_pistol_shot"
+ },
+ "field_pistol_shot_far": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/v2/field_pistol_shot_far_0",
+    "volume": 0.45
+   },
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/v2/field_pistol_shot_far_1",
+    "volume": 0.45
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.distant_shot"
+ },
+ "field_pistol_shot_suppressed": {
+  "sounds": [
+   {
+    "attenuation_distance": 24,
+    "name": "frontierhunts:equipment/v2/field_pistol_shot_suppressed_0"
+   },
+   {
+    "attenuation_distance": 24,
+    "name": "frontierhunts:equipment/v2/field_pistol_shot_suppressed_1"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.suppressed_shot"
+ },
+ "flare_gun_close": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/flare_gun_close"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.flare_gun_close"
+ },
+ "flare_gun_dry": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/flare_gun_dry"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.flare_gun_dry"
+ },
+ "flare_gun_load": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/flare_gun_load"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.flare_gun_load"
+ },
+ "flare_gun_open": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/flare_gun_open"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.flare_gun_open"
+ },
+ "flare_gun_shot": {
+  "sounds": [
+   {
+    "attenuation_distance": 72,
+    "name": "frontierhunts:equipment/flare_gun_shot"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.flare_gun_shot"
+ },
+ "grunt_tube": {
+  "sounds": [
+   {
+    "attenuation_distance": 64,
+    "name": "frontierhunts:equipment/grunt_tube"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.grunt_tube"
+ },
+ "lever_rifle_close": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/lever_rifle_close"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.lever_rifle_close"
+ },
+ "lever_rifle_dry": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/lever_rifle_dry"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.lever_rifle_dry"
+ },
+ "lever_rifle_load": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/lever_rifle_load"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.lever_rifle_load"
+ },
+ "lever_rifle_open": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/lever_rifle_open"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.lever_rifle_open"
+ },
+ "lever_rifle_shot": {
+  "sounds": [
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/lever_rifle_shot_0"
+   },
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/lever_rifle_shot_1"
+   },
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/lever_rifle_shot_2"
+   },
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/lever_rifle_shot_3"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.lever_rifle_shot"
+ },
+ "lever_rifle_shot_far": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/v2/lever_rifle_shot_far_0",
+    "volume": 0.45
+   },
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/v2/lever_rifle_shot_far_1",
+    "volume": 0.45
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.distant_shot"
+ },
+ "lever_rifle_shot_suppressed": {
+  "sounds": [
+   {
+    "attenuation_distance": 24,
+    "name": "frontierhunts:equipment/v2/lever_rifle_shot_suppressed_0"
+   },
+   {
+    "attenuation_distance": 24,
+    "name": "frontierhunts:equipment/v2/lever_rifle_shot_suppressed_1"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.suppressed_shot"
+ },
+ "moose_call": {
+  "sounds": [
+   {
+    "attenuation_distance": 64,
+    "name": "frontierhunts:wildlife/moose_call_0"
+   },
+   {
+    "attenuation_distance": 64,
+    "name": "frontierhunts:wildlife/moose_call_1"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.moose_call"
+ },
+ "moose_grunt": {
+  "sounds": [
+   {
+    "attenuation_distance": 44,
+    "name": "frontierhunts:wildlife/moose_grunt_0"
+   },
+   {
+    "attenuation_distance": 44,
+    "name": "frontierhunts:wildlife/moose_grunt_1"
+   },
+   {
+    "attenuation_distance": 44,
+    "name": "frontierhunts:wildlife/moose_grunt_2"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.moose_grunt"
+ },
+ "moose_threat": {
+  "sounds": [
+   {
+    "attenuation_distance": 48,
+    "name": "frontierhunts:wildlife/moose_threat_0"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.moose_threat"
+ },
+ "predator_call": {
+  "sounds": [
+   {
+    "attenuation_distance": 64,
+    "name": "frontierhunts:equipment/predator_call"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.predator_call"
+ },
+ "pump_shotgun_close": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/pump_shotgun_close"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.pump_shotgun_close"
+ },
+ "pump_shotgun_dry": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/pump_shotgun_dry"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.pump_shotgun_dry"
+ },
+ "pump_shotgun_load": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/pump_shotgun_load"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.pump_shotgun_load"
+ },
+ "pump_shotgun_open": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/pump_shotgun_open"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.pump_shotgun_open"
+ },
+ "pump_shotgun_shot": {
+  "sounds": [
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/pump_shotgun_shot_0"
+   },
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/pump_shotgun_shot_1"
+   },
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/pump_shotgun_shot_2"
+   },
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/pump_shotgun_shot_3"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.pump_shotgun_shot"
+ },
+ "pump_shotgun_shot_far": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/v2/pump_shotgun_shot_far_0",
+    "volume": 0.45
+   },
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/v2/pump_shotgun_shot_far_1",
+    "volume": 0.45
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.distant_shot"
+ },
+ "pump_shotgun_shot_suppressed": {
+  "sounds": [
+   {
+    "attenuation_distance": 24,
+    "name": "frontierhunts:equipment/v2/pump_shotgun_shot_suppressed_0"
+   },
+   {
+    "attenuation_distance": 24,
+    "name": "frontierhunts:equipment/v2/pump_shotgun_shot_suppressed_1"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.suppressed_shot"
+ },
+ "revolver_close": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/revolver_close"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.revolver_close"
+ },
+ "revolver_dry": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/revolver_dry"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.revolver_dry"
+ },
+ "revolver_load": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/revolver_load"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.revolver_load"
+ },
+ "revolver_open": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/revolver_open"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.revolver_open"
+ },
+ "revolver_shot": {
+  "sounds": [
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/revolver_shot_0"
+   },
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/revolver_shot_1"
+   },
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/revolver_shot_2"
+   },
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/revolver_shot_3"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.revolver_shot"
+ },
+ "revolver_shot_far": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/v2/revolver_shot_far_0",
+    "volume": 0.45
+   },
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/v2/revolver_shot_far_1",
+    "volume": 0.45
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.distant_shot"
+ },
+ "revolver_shot_suppressed": {
+  "sounds": [
+   {
+    "attenuation_distance": 24,
+    "name": "frontierhunts:equipment/v2/revolver_shot_suppressed_0"
+   },
+   {
+    "attenuation_distance": 24,
+    "name": "frontierhunts:equipment/v2/revolver_shot_suppressed_1"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.suppressed_shot"
+ },
+ "rifle_dry": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:rifle_dry"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.rifle_dry"
+ },
+ "rifle_lock": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:rifle_lock"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.rifle_lock"
+ },
+ "rifle_mag_in": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:rifle_mag_in"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.rifle_mag_in"
+ },
+ "rifle_mag_out": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:rifle_mag_out"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.rifle_mag_out"
+ },
+ "rifle_pull": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:rifle_pull"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.rifle_pull"
+ },
+ "rifle_push": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:rifle_push"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.rifle_push"
+ },
+ "rifle_shot": {
+  "sounds": [
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:rifle_shot"
+   },
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:rifle_shot_alt"
+   },
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/ridgeline_shot_0"
+   },
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/ridgeline_shot_1"
+   },
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/ridgeline_shot_2"
+   },
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/ridgeline_shot_3"
+   },
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/ridgeline_b_shot_0"
+   },
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/ridgeline_b_shot_1"
+   },
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/ridgeline_b_shot_2"
+   },
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/ridgeline_b_shot_3"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.rifle_shot"
+ },
+ "rifle_shot_far": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/v2/ridgeline_shot_far_0",
+    "volume": 0.45
+   },
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/v2/ridgeline_shot_far_1",
+    "volume": 0.45
+   },
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/v2/ridgeline_b_shot_far_0",
+    "volume": 0.45
+   },
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/v2/ridgeline_b_shot_far_1",
+    "volume": 0.45
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.distant_shot"
+ },
+ "rifle_unlock": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:rifle_unlock"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.rifle_unlock"
+ },
+ "semi_auto_rifle_close": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/semi_auto_rifle_close"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.semi_auto_rifle_close"
+ },
+ "semi_auto_rifle_dry": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/semi_auto_rifle_dry"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.semi_auto_rifle_dry"
+ },
+ "semi_auto_rifle_load": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/semi_auto_rifle_load"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.semi_auto_rifle_load"
+ },
+ "semi_auto_rifle_open": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/semi_auto_rifle_open"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.semi_auto_rifle_open"
+ },
+ "semi_auto_rifle_shot": {
+  "sounds": [
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/semi_auto_rifle_shot_0"
+   },
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/semi_auto_rifle_shot_1"
+   },
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/semi_auto_rifle_shot_2"
+   },
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/semi_auto_rifle_shot_3"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.semi_auto_rifle_shot"
+ },
+ "semi_auto_rifle_shot_far": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/v2/semi_auto_rifle_shot_far_0",
+    "volume": 0.45
+   },
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/v2/semi_auto_rifle_shot_far_1",
+    "volume": 0.45
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.distant_shot"
+ },
+ "semi_auto_rifle_shot_suppressed": {
+  "sounds": [
+   {
+    "attenuation_distance": 24,
+    "name": "frontierhunts:equipment/v2/semi_auto_rifle_shot_suppressed_0"
+   },
+   {
+    "attenuation_distance": 24,
+    "name": "frontierhunts:equipment/v2/semi_auto_rifle_shot_suppressed_1"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.suppressed_shot"
+ },
+ "semi_auto_shotgun_close": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/semi_auto_shotgun_close"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.semi_auto_shotgun_close"
+ },
+ "semi_auto_shotgun_dry": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/semi_auto_shotgun_dry"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.semi_auto_shotgun_dry"
+ },
+ "semi_auto_shotgun_load": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/semi_auto_shotgun_load"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.semi_auto_shotgun_load"
+ },
+ "semi_auto_shotgun_open": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/semi_auto_shotgun_open"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.semi_auto_shotgun_open"
+ },
+ "semi_auto_shotgun_shot": {
+  "sounds": [
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/semi_auto_shotgun_shot_0"
+   },
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/semi_auto_shotgun_shot_1"
+   },
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/semi_auto_shotgun_shot_2"
+   },
+   {
+    "attenuation_distance": 96,
+    "name": "frontierhunts:equipment/v2/semi_auto_shotgun_shot_3"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.semi_auto_shotgun_shot"
+ },
+ "semi_auto_shotgun_shot_far": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/v2/semi_auto_shotgun_shot_far_0",
+    "volume": 0.45
+   },
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/v2/semi_auto_shotgun_shot_far_1",
+    "volume": 0.45
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.distant_shot"
+ },
+ "semi_auto_shotgun_shot_suppressed": {
+  "sounds": [
+   {
+    "attenuation_distance": 24,
+    "name": "frontierhunts:equipment/v2/semi_auto_shotgun_shot_suppressed_0"
+   },
+   {
+    "attenuation_distance": 24,
+    "name": "frontierhunts:equipment/v2/semi_auto_shotgun_shot_suppressed_1"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.suppressed_shot"
+ },
+ "tranquilizer_rifle_close": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/tranquilizer_rifle_close"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.tranquilizer_rifle_close"
+ },
+ "tranquilizer_rifle_dry": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/tranquilizer_rifle_dry"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.tranquilizer_rifle_dry"
+ },
+ "tranquilizer_rifle_load": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/tranquilizer_rifle_load"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.tranquilizer_rifle_load"
+ },
+ "tranquilizer_rifle_open": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/tranquilizer_rifle_open"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.tranquilizer_rifle_open"
+ },
+ "tranquilizer_rifle_shot": {
+  "sounds": [
+   {
+    "attenuation_distance": 32,
+    "name": "frontierhunts:equipment/tranquilizer_rifle_shot"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.tranquilizer_rifle_shot"
+ },
+ "wind_puff": {
+  "sounds": [
+   {
+    "attenuation_distance": 16,
+    "name": "frontierhunts:equipment/wind_puff"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.wind_puff"
+ },
+ "falls_roar_far": {
+  "sounds": [
+   {
+    "name": "frontierhunts:environment/falls_roar_far",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.falls"
+ },
+ "falls_roar": {
+  "sounds": [
+   {
+    "name": "frontierhunts:environment/falls_roar",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.falls"
+ },
+ "falls_crash": {
+  "sounds": [
+   {
+    "name": "frontierhunts:environment/falls_crash",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.falls"
+ },
+ "falls_trickle": {
+  "sounds": [
+   {
+    "name": "frontierhunts:environment/falls_trickle",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.falls"
+ },
+ "falls_underwater": {
+  "sounds": [
+   {
+    "name": "frontierhunts:environment/falls_underwater",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.falls"
+ },
+ "amb_wind_high": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ambient/amb_wind_high",
+    "stream": true
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.wind"
+ },
+ "amb_wind_trees": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ambient/amb_wind_trees",
+    "stream": true
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.wind_trees"
+ },
+ "amb_creek": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ambient/amb_creek",
+    "stream": true
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.creek"
+ },
+ "amb_meadow": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ambient/amb_meadow",
+    "stream": true
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.meadow"
+ },
+ "amb_night": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ambient/amb_night",
+    "stream": true
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.night"
+ },
+ "amb_bird_song": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ambient/bird_thrush_0",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/bird_thrush_1",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/bird_thrush_2",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/bird_thrush_3",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/bird_warbler_0",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/bird_warbler_1",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/bird_warbler_2",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/bird_chickadee_0",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/bird_chickadee_1",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.bird_song"
+ },
+ "amb_bird_chirp": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ambient/bird_chirp_0",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/bird_chirp_1",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/bird_chirp_2",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/bird_chirp_3",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.bird_chirp"
+ },
+ "amb_woodpecker": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ambient/woodpecker_0",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/woodpecker_1",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.woodpecker"
+ },
+ "amb_raven": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ambient/raven_0",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/raven_1",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/raven_2",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.raven"
+ },
+ "amb_hawk": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ambient/hawk_0",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/hawk_1",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.hawk"
+ },
+ "amb_pika": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ambient/pika_0",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/pika_1",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.pika"
+ },
+ "amb_owl": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ambient/owl_0",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/owl_1",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.owl"
+ },
+ "amb_coyote": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ambient/coyote_0",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/coyote_1",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/coyote_2",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.coyote"
+ },
+ "amb_loon": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ambient/loon_0",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/loon_1",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.loon"
+ },
+ "amb_frog": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ambient/frog_0",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/frog_1",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.frog"
+ },
+ "wildlife_flush": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ambient/wildlife_flush_0",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/wildlife_flush_1",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/wildlife_flush_2",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.flush"
+ },
+ "fish_splash": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ambient/fish_splash_0",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/fish_splash_1",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/fish_splash_2",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.fish"
+ },
+ "amb_song_thrush": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ambient/bird_thrush_0",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/bird_thrush_1",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/bird_thrush_2",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/bird_thrush_3",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.bird_song"
+ },
+ "amb_song_warbler": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ambient/bird_warbler_0",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/bird_warbler_1",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/bird_warbler_2",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.bird_song"
+ },
+ "amb_song_chickadee": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ambient/bird_chickadee_0",
+    "stream": false
+   },
+   {
+    "name": "frontierhunts:ambient/bird_chickadee_1",
+    "stream": false
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.bird_song"
+ },
+ "atv_engine": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ride/atv_engine",
+    "attenuation_distance": 56
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.atv_engine"
+ },
+ "atv_start": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ride/atv_start",
+    "attenuation_distance": 48
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.atv_start"
+ },
+ "atv_stop": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ride/atv_stop",
+    "attenuation_distance": 48
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.atv_stop"
+ },
+ "horse_whistle": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ride/horse_whistle",
+    "attenuation_distance": 96
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.horse_whistle"
+ },
+ "glider_open": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ride/glider_open"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.glider_open"
+ },
+ "glider_fold": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ride/glider_fold"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.glider_fold"
+ },
+ "glider_wind": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ride/glider_wind"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.glider_wind"
+ },
+ "atv_engine_high": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ride/atv_engine_high",
+    "attenuation_distance": 56
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.atv_engine"
+ },
+ "atv_whine": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ride/atv_whine",
+    "attenuation_distance": 32
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.atv_engine"
+ },
+ "wingsuit_flutter": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ride/wingsuit_flutter"
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.wingsuit_flutter"
+ },
+ "canopy_open": {
+  "sounds": [
+   {
+    "name": "frontierhunts:ride/canopy_open",
+    "attenuation_distance": 64
+   }
+  ],
+  "subtitle": "subtitles.frontierhunts.canopy_open"
+ },
+ "draw_bait_launcher": {
+  "sounds": [
+   {
+    "name": "frontierhunts:equipment/draw/draw_bait_launcher",
+    "attenuation_distance": 16
+   }
+  ]
+ },
+ "draw_double_barrel": {
+  "sounds": [
+   {
+    "name": "frontierhunts:equipment/draw/draw_double_barrel",
+    "attenuation_distance": 16
+   }
+  ]
+ },
+ "draw_field_pistol": {
+  "sounds": [
+   {
+    "name": "frontierhunts:equipment/draw/draw_field_pistol",
+    "attenuation_distance": 16
+   }
+  ]
+ },
+ "draw_flare_gun": {
+  "sounds": [
+   {
+    "name": "frontierhunts:equipment/draw/draw_flare_gun",
+    "attenuation_distance": 16
+   }
+  ]
+ },
+ "draw_lever_rifle": {
+  "sounds": [
+   {
+    "name": "frontierhunts:equipment/draw/draw_lever_rifle",
+    "attenuation_distance": 16
+   }
+  ]
+ },
+ "draw_pump_shotgun": {
+  "sounds": [
+   {
+    "name": "frontierhunts:equipment/draw/draw_pump_shotgun",
+    "attenuation_distance": 16
+   }
+  ]
+ },
+ "draw_revolver": {
+  "sounds": [
+   {
+    "name": "frontierhunts:equipment/draw/draw_revolver",
+    "attenuation_distance": 16
+   }
+  ]
+ },
+ "draw_ridgeline_rifle": {
+  "sounds": [
+   {
+    "name": "frontierhunts:equipment/draw/draw_ridgeline_rifle",
+    "attenuation_distance": 16
+   }
+  ]
+ },
+ "draw_semi_auto_rifle": {
+  "sounds": [
+   {
+    "name": "frontierhunts:equipment/draw/draw_semi_auto_rifle",
+    "attenuation_distance": 16
+   }
+  ]
+ },
+ "draw_semi_auto_shotgun": {
+  "sounds": [
+   {
+    "name": "frontierhunts:equipment/draw/draw_semi_auto_shotgun",
+    "attenuation_distance": 16
+   }
+  ]
+ },
+ "draw_tranquilizer_rifle": {
+  "sounds": [
+   {
+    "name": "frontierhunts:equipment/draw/draw_tranquilizer_rifle",
+    "attenuation_distance": 16
+   }
+  ]
+ }
+}
