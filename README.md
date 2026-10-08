@@ -22,7 +22,7 @@ Downloads are repeatable and have no scheduled expiry. No installer or antivirus
 - [Known issues](docs/KNOWN_ISSUES.md) · [Verification](docs/VERIFICATION.md) · [Security reporting](SECURITY.md)
 - [License](LICENSE-NOTICE.md) · [Credits](docs/AUDIO_CREDITS.txt)
 
-The downloadable JARs are the original supplied files, unchanged. This repository contains releases and documentation; the mod source is not published here. Original code is All Rights Reserved.
+The downloads use FormaWorks author identifiers; audio files and gameplay instructions are unchanged. This repository contains releases and documentation; the mod source is not published here. Original code is All Rights Reserved.
 
 Download totals are available through [GitHub's release API](https://api.github.com/repos/FormaWorkss/frontier-hunts/releases): each asset has a `download_count`. Count the protected ZIPs, excluding checksum files. Counts measure downloads, not unique players, and restart when assets are replaced.
 
