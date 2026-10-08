@@ -9,4 +9,4 @@ For 1.3.1, these items come from the original 1.3.1 release notes. They were not
 
 Publishing a new download link or updating the documentation does not resolve these gameplay issues. Reports should include reproduction steps and the exact installed version.
 
-The 1.4.0 release notes also retain three steep-terrain first-hunt failures. Camera and shader visuals need testing with your setup. These maintenance builds do not claim to fix those existing issues.
+The 1.4.0 release notes also retain three steep-terrain first-hunt failures. Camera and shader visuals need testing with your setup. This publishing update does not change those existing issues.

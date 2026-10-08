@@ -1,7 +1,7 @@
-# Release checks
+# Download verification
 
-Both 1.3.1 and 1.4.0 were rebuilt from their versioned source with Java 21 and the existing first-party binary base. Author credits and internal package names now use FormaWorks. Game registry identifiers and release versions are retained.
+The 1.3.1 and 1.4.0 downloads contain the original supplied JARs, byte-for-byte unchanged. No mod code, audio, resources or in-game credits were edited for this publication.
 
-Each release has passed archive-integrity and name-removal checks, correct-password extraction, incorrect-password rejection and a SHA-256 comparison of the extracted JAR. Checksums accompany each release.
+The protected ZIPs passed correct-password extraction, incorrect-password rejection and extracted-JAR SHA-256 comparison. Each release includes SHA256SUMS.txt for its own ZIP and JAR. These checks confirm file identity and archive integrity; they are not a complete gameplay or security audit.
 
-These checks do not establish full gameplay, shader or multiplayer coverage. Existing [known issues](KNOWN_ISSUES.md) still apply. No independent security audit has been performed.
+See [known issues](KNOWN_ISSUES.md) for existing release notes. The repository distributes releases and documentation, not the mod source.

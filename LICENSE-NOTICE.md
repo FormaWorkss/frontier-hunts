@@ -2,6 +2,6 @@
 
 Frontier Hunts is by **FormaWorks**. Its original code is **All Rights Reserved**. Public downloads do not grant an open-source license.
 
-Original audio is credited to FormaWorks. Existing third-party recordings retain their asset-specific licenses and attribution in [AUDIO_CREDITS.txt](docs/AUDIO_CREDITS.txt). These terms apply to the named recordings.
+The audio licenses and third-party attribution supplied with the mod remain in effect. See AUDIO_CREDITS.txt inside the original JAR for the asset-specific credits. This page does not change the license or any files in the mod.
 
-This release does not change the mod's license. CityWorks is a separate project with separate license terms.
+CityWorks is a separate project with separate license terms.
