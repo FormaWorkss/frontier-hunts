@@ -1,7 +1,7 @@
 .gradle/
 build/
 run/
-build-release/
+build-release*/
 *.log
 hs_err_pid*
 .idea/
